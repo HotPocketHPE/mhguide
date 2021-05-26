@@ -118,6 +118,36 @@ Positioning is key to taking advantage of hitzones. Learn where the good hitzone
 * **Observe the monster's tells!** What are the tells for each move? Some moves (such as Garuga's infamous instant charge) don't have tells, but can only be performed in certain circumstances (such as when Garuga is facing you and isn't doing another move). Take advantage of this, and position accordingly!
 * **Observe the monster's patterns!** 
 
+# Basics of Dealing Damage
+
+This section will tell you what you need to focus on to deal good damage, without getting into the nitty-gritty details of the damage formula itself.
+
+Fundamentally, your dealt damage looks like this:
+
+> Damage = Raw Damage + Elemental Damage 
+
+> Raw Damage = Player Damage * Motion Value * Hitzone
+
+"Raw" damage here means non-elemental damage. Elemental damage will be covered shortly.
+
+## Player Damage
+
+This is mostly influenced by preparation outside the hunt. Build better gear to raise this!
+
+Your weapon itself is quite important. Higher number = more damage! For Blademasters, your Sharpness is also very important. Being at higher Sharpness levels makes you do more damage! Having lower weapon damage but a higher level of Sharpness is often worth it, especially early in the game.
+
+Affinity is your critical hit chance. A crit (bright red flash) will deal 25% more damage, while a negative crit (dark red flash) will deal 25% less. Explosions (such as Gunlance shells or Charge Blade phials) and some other attacks (such as bowgun elemental shots) cannot crit or negative crit, but most attacks can. 
+
+Many armor skills will also increase your damage, such as Attack Up. Most of these add to your damage, which is better the earlier in the game you are. Skills that multiply your damage, such as Adrenaline, or boost your Affinity, such as Critical Eye, are better later in the game.
+
+If you are playing FU, 3U, or 4U, **do not compare damage numbers between weapon types!** The reason is dumb and annoying. Players of P3rd and GU do not have to worry about this. 
+
+## Motion Values
+
+Motion values (MVs) are what makes attacks weak or strong. Weak moves like Longsword's poke have low motion values, while strong ones like the Greatsword's level 3 charge slash have high motion values.
+
+MVs are notated as percent
+
 # Hunting Fundamentals
 
 Your performance as a hunter rests on these skills. Know them well!
