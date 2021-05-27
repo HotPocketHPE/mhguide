@@ -53,66 +53,11 @@ All of these may be preceded by MH, which simply stands for Monster Hunter. Only
 
 # Terminology
 
-## Mechanics
 * Blademaster - Melee weapon users. Most weapon types in the game fall under this. Uses Sharpness.
 * Gunner - Ranged weapon users, aka Light Bowgun, Heavy Bowgun and Bow. Uses ammo/coatings and Critical Distance. Armor has about half the defense of Blademasters.
 * Hitbox - The invisible zone that detects if an attack hits. Usually corresponds roughly with the parts moving on a monster during an attack, e.g. the tail during a tailspin. 
 * Hitzone - The (multiplicative) damage modifier for hitting a certain area on the monster. Cutting, impact, shot, and all elements have unique values for each hitzone.
 * I-frames - Stands for invincibility frames. A period of time where you cannot be hit by any attack (with extremely rare exceptions). Present on the basic roll, superman dive, and some weapon moves. 
-
-
-# How Damage Works
-
-To defeat monsters, you need to deal damage, obviously! Knowing how damage works will make your hunts faster and cleaner.
-
-## The Basic Damage Formula
-
-> Damage = Weapon Damage * Motion Value * Monster Hitzone
-
-## Weapon Damage
-
-This number is mostly derived from pre-hunt preparation. Crafting good weapons and armor with damage-boosting skills will raise this.
-
-> True Raw = (Weapon True Raw + Additive Skills) * Multiplicative Skills
-
-* Weapon True Raw - The base damage of your weapon. In some games, not equal to what is shown on your equipment screen. See Display Raw below for more. 
-* Additive Skills - Skills that add to your raw, such as the Attack Up skills. Better earlier in the game.
-* Multiplicative Skills - Skills that multiply your raw, such as Adrenaline while at low health. Better later in the game. 
-
-> Display Raw = True Raw * Display Raw Modifier
-
-* Display Raw Modifier - Each weapon type has a modifier that inflates the displayed damage of the weapon in the equipment and status screen, in an attempt to convey the general speed/damage of it's moves. For example, Hammer and Greatsword hit slowly but do a lot of damage per hit, and thus have much higher modifiers than Sword and Shield or Dual Blades, which do low damage per hit but can attack very quickly. Again, **this does not actually affect your damage dealt, only how it is shown to you in-game.**
-
-In Portable 3rd, Generations/Generations Ultimate, and Rise, the true raw is always shown, so you don't have to worry about the display raw modifier. Hooray!
-
-> Average Weapon Damage = True Raw * Sharpness Modifier * (1 + 0.25 * (Affinity Percentage / 100))
-
-* Sharpness Modifier - Having higher sharpness will raise this. Since sharpness both helps you avoid bouncing and increases your damage, it is a useful thing to have. **Gunners do not have sharpness.**
-* Affinity Percentage - Critical hit rate. Critical hits will make you deal 25% more damage, and negative critical hits (produced by negative affinity) will lower your damage by 25%. Gets better the later in the game you are, since it multiplies your weapon's raw.
-
-## Motion Values
-
-Motion values (MVs) measure the relative strength of each hit, notated as percentages without the % sign. Usually you can intuitively guess these; slow and strong hits like Hammer's golf swing have high MVs (90 in GU), while fast and weak hits like Longsword's poke have low MVs (14 in GU).
-
-This is where your skill as a hunter comes in! Analyze the situation and decide which move is appropriate. For very fast monsters, perhaps a flurry of low-MV moves is best, while slower monsters may allow you to pull off many high-MV moves.
-
-Attacks with high MVs are usually either slow/long (Dual Blades' full Demon Dance, Charge Blade's Super Amped Elemental Discharge) or require setup in advance (Hammer's Charged Superpound, Greatsword's Level 3 Charge Slash). Find openings for these moves, or create your own if you can!
-
-## Hitzones
-
-Hitzones multiply the damage dealt by your attack based on where the attack hit on the monster. Usually parts that look "hard" like Garuga's back have low hitzones (15 with cutting in GU), and parts that look "soft" like Garuga's head have high hitzones (65 with cutting in GU).
-
-In addition to hurting your damage, attacking a hitzone that's too low will cause your weapon to bounce off. This locks you into a long animation, so try not to hit these parts. Having higher sharpness will make it harder to bounce, and some attacks cannot bounce.
-
-There are three types of "raw" hitzones: cutting, impact, and shot. Each weapon does mostly one type of raw damage. Some monsters' hitzones are better overall for a certain damage type, so try switching weapons if you're bouncing a lot or if good hitzones are difficult to reach.
-
-To tell approximately how high a hitzone is in-game, look at the amount of hitstop you get in 1st and 2nd generation games, and the size of the blood splatter in 3rd and 4th generation. Gunners may have trouble with this unfortunately. If you want to know the exact values, the internet is your friend!
-
-Explosions (such as Gunlance shells, Charge Blade phial explosions, and bombs) ignore hitzones! Use this to attack from new angles, or to break a particularly tough part. 
-
-Positioning is key to taking advantage of hitzones. Learn where the good hitzones are and try to stay near them to get big damage! However, often the weakest part of the monster (like the head) is the most dangerous place to be, so temper aggression with awareness for best results.
-
-## Elemental Damage Formula
 
 # Simple Tips for Starting Out
 
@@ -135,13 +80,13 @@ Positioning is key to taking advantage of hitzones. Learn where the good hitzone
 
 # Basics of Dealing Damage
 
-This section will tell you what you need to focus on to deal good damage, without getting into the nitty-gritty details of the damage formula itself.
+This section will tell you what you need to focus on to deal good damage, without getting into the nitty-gritty details of the full damage formula itself.
 
 Fundamentally, your dealt damage looks like this:
 
 > Damage = Raw Damage + Elemental Damage 
 
-> Raw Damage = Player Damage * Motion Value * Hitzone
+> Raw Damage = Player Damage * Critical Distance (Gunners only) * Motion Value * Hitzone
 
 "Raw" damage here means non-elemental damage. Elemental damage will be covered shortly.
 
@@ -157,21 +102,69 @@ Many armor skills will also increase your damage, such as Attack Up. Most of the
 
 If you are playing FU, 3U, or 4U, **do not compare damage numbers between weapon types!** The reason is dumb and annoying. Players of P3rd and GU do not have to worry about this. 
 
+## Critical Distance
+
+Critical Distance (unrelated to crits from your Affinity) is a mechanic for Gunners that multiplies your shots' power based on your distance from the monster. 
+
+Being too close or too far away will hurt your damage, while being just close enough will raise it. You can tell if you are in proper crit distance range by watching the yellow hit sparks. Bigger = better!
+
+Different ammo types have different crit distances. Pierce's crit distance is further away than Normal's, so watch your positioning! Some shots, such as elemental shots, do not use crit distance, but most common ammo does.
+
 ## Motion Values
 
-Motion values (MVs) are what makes attacks weak or strong. Weak moves like Longsword's poke have low motion values, while strong ones like the Greatsword's level 3 charge slash have high motion values.
+Motion values (MVs) are what makes attacks weak or strong. Weak moves like Longsword's poke have low motion values, while strong ones like the Greatsword's level 3 charge slash have high motion values. Gunners have motion values tied to their shot types.
 
 MVs are notated as percentages without the % sign. Often you can guess the approximate value for a move after some time playing, but look them up if you are unsure! It may change what moves you prioritize.
 
 ## Hitzones
 
-Hitzones are what makes monster parts hard or soft. Soft parts like Rathian's head have high hitzones, while hard parts like Rathian's back have low hitzones. The higher the hitzone, the more damage you deal! Like motion values, hitzones are notated as percentages without the % sign.
+Hitzones are what makes monster parts hard or soft. Soft parts like Rathian's head have high hitzones, while hard parts like Rathian's back have low hitzones. The higher the hitzone, the more damage you deal!
 
-For Blademaster, hitting particularly hard parts will cause you to bounce. Bouncing locks you into a dangerously long animation, doubles the hit's Sharpness usage, and  
+Like motion values, hitzones are notated as percentages without the % sign. You can also tell how high a hitzone is in-game by the amount of hitstop (2nd gen) or the size of the blood splatter (3rd and 4th gen). Gunners may have trouble seeing hitzones in-game, looking them up is recommended.
+
+For Blademaster, hitting particularly hard parts will cause you to bounce. Bouncing locks you into a dangerously long animation and doubles the hit's Sharpness usage, so try to avoid it when you can. Higher Sharpness levels will make it harder to bounce.
+
+Some moves cannot bounce, but you will still get the double sharpness loss, and your damage will be low because of the bad hitzone. Unless you are trying to break a specific part, you are better off hitting the good hitzones.
+
+## Elemental Damage
+
+Elemental damage works similarly to Raw damage, with one big exception.
+
+> Elemental Damage = Player Element * Elemental Hitzone
+
+Elemental damage **ignores your move's motion value!** Even a weak attack like the Longsword poke does just as much elemental damage as the Hammer's golf swing!
+
+It follows that only the speed and number of hits matter. Fast weapons like Sword and Shield and Dual Blades thus excel at dealing elemental damage, while slow weapons like Greatsword and Hammer struggle.
+
+Fast weapons can deal a lot more damage with the proper element setup, so pay attention to it if you are using those weapons! Slow weapons should mostly ignore element, while medium speed weapons can use it if they wish.
+
+## Player Element
+
+Like Player Damage, this will come from your weapon and gear. Skills such as Element Attack Up or \[specific element\] Attack +1/+2/+3 will boost your element.
+
+For Blademasters, higher Sharpness levels boosts your element.
+
+Bowguns do not have intrinsic element! Instead, some bowguns shoot elemental shots. The amount of element dealt will scale with your raw damage, so balance your bowgun's damage with its ammo capabilities for best results.
+
+## Elemental Hitzones
+
+This also works similarly to raw hitzones, with a few differences.
+
+Bad raw hitzones are often good elemental hitzones, while good raw hitzones can be either good or bad elemental hitzones. Unlike raw damage, most monsters are particularly weak to a certain element. Usually, you can either guess what the monster's weakness would be (such as Rathalos and water), or look at the monster's armor.
+
+Unfortunately, beyond these generalizations, elemental hitzones are very difficult to guess in-game, so looking them up is highly recommended.
 
 # Hunting Fundamentals
 
 Your performance as a hunter rests on these skills. Know them well!
+
+## The Essence of Combat
+
+Monster Hunter differentiates itself from other combat systems with three key principles: **positioning, commitment,** and **defensive play.**
+
+Unlike many other games, overwhelming the enemy with offense is **very difficult**. Instead, you need to **position** yourself to both respect the monster's options and open up avenues for attacks on weak locations.
+
+Recklessness is a death sentence, as almost everything you do **cannot be canceled out of!** Be deliberate in your actions, and anticipate what will happen in the next few seconds! 
 
 ## Foundational Concepts
 
@@ -203,7 +196,7 @@ Orientation is the angle you're at relative to the monster, such as in front, to
 
 ### Evading
 
-Evading is a highly useful technique
+The basic roll is an invaluable part of your toolset. 
 
 Superman dive
 
