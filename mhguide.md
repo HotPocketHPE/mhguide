@@ -2,13 +2,27 @@
 
 Welcome! This is a guide for the game series Monster Hunter. The tips here will mainly apply to the games after and including Freedom Unite, and before World. Players of other MH games may still find some information useful though.
 
+# What is This Guide?
+
+**This guide is focused on explaining the game's mechanics.** The mechanics of MH are deep, multi-faceted, and not always clear, so the focus will be on them, with particular attention paid to the fundamentals of combat. Other aspects of the series, such as lore or detailed builds, are well-covered already.
+
+**This guide is focused on generalities, not specifics.** Detailed information specific to a certain game, like armor sets or monster tutorials, won't be included. The idea is to give you the skills needed to figure things out on your own, or at least to know what to Google. However, examples of specific situations will be used to illustrate general concepts.
+
+**This guide is targeted towards late 2nd-4th gen games.** This means everything after and including MH Freedom Unite, and before MH World. The 5th generation games (World and Rise) changed many core mechanics of the series, so they will not be covered here. If you are playing MH2 or earlier, you probably know what you are doing, and don't need this guide.  
+
+# Why Play Monster Hunter?
+
+* **Just boss fights!** Monster Hunter is made of almost entirely "boss fights"!
+* **Deep and unique combat system.** MH combat is very deep, and there is always something new to learn! Its combination of methodical pacing, 1v1 fights, and intense focus on positioning is wholly unique.
+* **Focus on efficiency.** Stylish moments are possible, but they take the backseat in MH: the focus is on playing quick and clean.
+
 # Game Abbreviations and Short History
 
 All of these may be preceded by MH, which simply stands for Monster Hunter. Only the "main" games are included here; this says nothing about the other games' quality (I quite like MH Frontier).
 
 1st Generation
 ---
-* MH1 - The original Monster Hunter on PS2. Focuses on the survival aspect more than later games. 
+* MH1 - The original Monster Hunter on PS2. Introduced most core gameplay systems. Focuses on the survival aspect more than later games. 
 * MHG - Monster Hunter G, on PS2. An expanded version of the original with a new and harder progression rank called G rank. Added Dual Blades (then called Dual Swords) in Japan. Subspecies introduced.
 * F1/MHP - Freedom 1, on PSP. Also called Monster Hunter Portable. Portable adaptation of Monster Hunter G. Tweaks some aspects and adds a bit more content. Focuses on large monster battles more than the original.
 
@@ -40,7 +54,8 @@ All of these may be preceded by MH, which simply stands for Monster Hunter. Only
 # Terminology
 
 ## Mechanics
-
+* Blademaster - Melee weapon users. Most weapon types in the game fall under this. Uses Sharpness.
+* Gunner - Ranged weapon users, aka Light Bowgun, Heavy Bowgun and Bow. Uses ammo/coatings and Critical Distance. Armor has about half the defense of Blademasters.
 * Hitbox - The invisible zone that detects if an attack hits. Usually corresponds roughly with the parts moving on a monster during an attack, e.g. the tail during a tailspin. 
 * Hitzone - The (multiplicative) damage modifier for hitting a certain area on the monster. Cutting, impact, shot, and all elements have unique values for each hitzone.
 * I-frames - Stands for invincibility frames. A period of time where you cannot be hit by any attack (with extremely rare exceptions). Present on the basic roll, superman dive, and some weapon moves. 
@@ -146,7 +161,13 @@ If you are playing FU, 3U, or 4U, **do not compare damage numbers between weapon
 
 Motion values (MVs) are what makes attacks weak or strong. Weak moves like Longsword's poke have low motion values, while strong ones like the Greatsword's level 3 charge slash have high motion values.
 
-MVs are notated as percent
+MVs are notated as percentages without the % sign. Often you can guess the approximate value for a move after some time playing, but look them up if you are unsure! It may change what moves you prioritize.
+
+## Hitzones
+
+Hitzones are what makes monster parts hard or soft. Soft parts like Rathian's head have high hitzones, while hard parts like Rathian's back have low hitzones. The higher the hitzone, the more damage you deal! Like motion values, hitzones are notated as percentages without the % sign.
+
+For Blademaster, hitting particularly hard parts will cause you to bounce. Bouncing locks you into a dangerously long animation, doubles the hit's Sharpness usage, and  
 
 # Hunting Fundamentals
 
