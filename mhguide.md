@@ -86,7 +86,7 @@ Fundamentally, your dealt damage looks like this:
 
 > Damage = Raw Damage + Elemental Damage 
 
-> Raw Damage = Player Damage * Critical Distance (Gunners only) * Motion Value * Hitzone
+> Raw Damage = Player Damage * Sharpness (Blademasters only) * Critical Distance (Gunners only) * Motion Value * Hitzone
 
 "Raw" damage here means non-elemental damage. Elemental damage will be covered shortly.
 
@@ -94,7 +94,7 @@ Fundamentally, your dealt damage looks like this:
 
 This is mostly influenced by preparation outside the hunt. Build better gear to raise this!
 
-Your weapon itself is quite important. Higher number = more damage! For Blademasters, your Sharpness is also very important. Being at higher Sharpness levels makes you do more damage! Having lower weapon damage but a higher level of Sharpness is often worth it, especially early in the game.
+Your weapon itself is quite important. Higher number = more damage! Blademasters should pay special attention to the weapon's Sharpness (see below), while Gunners should look at how much of each ammo type the weapon can hold.
 
 Affinity is your critical hit chance. A crit (bright red flash) will deal 25% more damage, while a negative crit (dark red flash) will deal 25% less. Explosions (such as Gunlance shells or Charge Blade phials) and some other attacks (such as bowgun elemental shots) cannot crit or negative crit, but most attacks can. 
 
@@ -102,7 +102,15 @@ Many armor skills will also increase your damage, such as Attack Up. Most of the
 
 If you are playing FU, 3U, or 4U, **do not compare damage numbers between weapon types!** The reason is dumb and annoying. Players of P3rd and GU do not have to worry about this. 
 
-## Critical Distance
+## Blademasters - Sharpness
+
+Sharpness is a mechanic for Blademasters. Hitting the monster will temporarily lower your Sharpness, and using a Whetstone will restore it.
+
+Firstly, having higher Sharpness levels will raise your damage. This can be substantial, so don't overlook this, and try to keep your weapon sharpened!
+
+Additionally, hitting hard monster parts and/or being on a low Sharpness level can cause you to bounce. See the Hitzones section for more on this.
+
+## Gunners - Critical Distance
 
 Critical Distance (unrelated to crits from your Affinity) is a mechanic for Gunners that multiplies your shots' power based on your distance from the monster. 
 
@@ -196,7 +204,7 @@ Orientation is the angle you're at relative to the monster, such as in front, to
 
 ### Evading
 
-The basic roll is an invaluable part of your toolset. 
+The basic roll is an invaluable part of your toolset. For a small stamina cost, it will quickly move you in the direction you're facing. Use this to quickly get out of harm's way, or into 
 
 Superman dive
 
@@ -258,9 +266,7 @@ From this, the concept of stagger control arises. Figure out how many hits of a 
 
 The power of this technique lies in converting unsafe attacks into safe ones. Because your next hit wil stagger, even small openings become opportunities for strong attacks. Don't miss though, or else you might be in for a world of hurt!
 
-> Example: Greatsword vs. Tigrex (2nd and 3rd gen). Inexperienced players will have trouble with this monster's unrelenting pace and freight-train charges, but experienced players can use stagger control to great effect.
-First, play safe and find out what combination of attacks to the head will make him stagger; for instance, an uncharged draw slash and a level 3 charged slash.
-Then, look for safe openings like the bite or spin to get a quick draw slash hit in.
+> Example: Greatsword vs. Tigrex (2nd and 3rd gen). Inexperienced players will have trouble with this monster's unrelenting pace and freight-train charges, but experienced players can use stagger control to great effect. First, play safe and find out what combination of attacks to the head will make him stagger; for instance, an uncharged draw slash and a level 3 charged slash. Then, look for safe openings like the bite or spin to get a quick draw slash hit in.
 Finally, punish his head turning towards you with a level 3, and watch him stagger as you deal vicious damage!
 
 ### Head Turns
