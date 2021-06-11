@@ -24,6 +24,7 @@
     - [Skill Points](#skill-points)
     - [Slots and Decorations](#slots-and-decorations)
     - [Brief Skill Overview](#brief-skill-overview)
+    - [Offensive Skills](#offensive-skills)
 - [Hunting Fundamentals](#hunting-fundamentals)
     - [The Essence of Combat](#the-essence-of-combat)
     - [Foundational Concepts](#foundational-concepts)
@@ -222,6 +223,8 @@ Decorations are an additional source of skill points. Each one takes from 1 to 3
 
 ## Brief Skill Overview
 
+## Offensive Skills
+
 
 
 # Hunting Fundamentals
@@ -266,21 +269,41 @@ Orientation is the angle you're at relative to the monster, such as in front, to
 
 ### Evading
 
-The basic roll is an invaluable part of your toolset. For a small stamina cost, it will quickly move you in the direction you're facing. Use this to quickly get out of harm's way, or into 
+The basic roll is an invaluable part of your toolset. For a small stamina cost, it will quickly move you in the direction you're facing. Use this to get out of harm's way, or move into an advantageous position.
 
-Superman dive
+The roll has a small window of invulnerability that can be used quite effectively. See [Invincibility Frames](#invincibility-frames) for more on this.
+
+Immediately after an attack, you can only roll in 3 directions: straight forward, directly left, or directly right. Rolling backwards is not an option!
+
+> Example: Any Weapon vs. Khezu. Khezu's electric zap can be impossible to escape from if you are too close! Choose your attacks carefully. Once you gain more experience techniques like [Angling Strikes](#angling-strikes) can enable more aggressive play. 
+
+Some weapons have sidesteps instead of rolls. These move you a shorter distance, but can be chained together. Lance can also sidestep backwards after attacks!
+
+A few attacks, such as the Longsword's Fade Slash, are "evasive" because they move you significantly. Use these to get into position while dealing damage!
+
+Evading while sprinting away from the monster will do a special move called a superman dive. This makes you invincible for a long time, but won't let you counterattack. Useful for emergencies.
 
 ### Guarding
 
-Heavy shields
+Unlike evading, which all weapons can do, only some weapons can guard. Guarding uses your stamina to avoid taking damage from a hit. If you are not facing towards the attack, or you don't have enough stamina to block the hit, you will take the damage and knockback!
 
-Light shields
+Stronger attacks will cost more stamina to block, deal chip damage, and take you longer to recover from blocking. The skill Guard will make these attacks easier to block.
+
+When guarding and standing still, your stamina will not regenerate. However. weapons with heavy shields, such as Lance and Gunlance, can move slowly while guarding to avoid this.
+
+Blocking with a light shield, such as the Sword and Shield's shield or the Greatsword's blade, will block stronger attacks less effectively and deplete your sharpness. With these weapons, save guarding for emergencies.
+
+> Example: Greatsword vs. Tigrex. If you find yourself right in front of him as he starts a charge, you may not have time to sheathe and superman dive! Try to guard the attack, it will hurt your sharpness and deal chip damage but it's better than getting hit.
+
+Some attacks, such as clouds of gas or elemental beams, are not blockable. The skill Guard Up will make these blockable.
+
+The Heavy Bowgun's shield attachment can be quite effective, but will only block attacks in a 45 degree arc in front of you, as opposed to the 90 degree arc of all other shields. Make sure you are looking right at the attack!
 
 ## Intermediate Techniques
 
 ### Invincibility Frames
 
-Invincibility Frames, or iframes, are periods of time where you cannot be hit by any attack. By default, the basic roll has 0.2 seconds of iframes (6 frames @ 30fps). 0.2 seconds may seem short, and it is compared to other games like Dark Souls, but that short burst can be enough to get you out of a sticky situation.
+Invincibility Frames/iframes, or moments of invincibility/MOI in older sources, are periods of time where you cannot be hit by any attack. By default, the basic roll has 0.2 seconds of iframes (6 frames @ 30fps). 0.2 seconds may seem short, and it is short compared to other games like Dark Souls, but that window can be enough to get you out of a sticky situation.
 
 Iframes are best used against attacks where the hitbox is small, moves quickly, or lasts for a short amount of time. Right before you are hit, roll *towards* these attacks: rolling towards and through them will move you through the hitbox more quickly than rolling with it will.
 
