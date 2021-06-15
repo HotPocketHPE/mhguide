@@ -13,8 +13,8 @@
 - [Simple Tips for Starting Out](#simple-tips-for-starting-out)
 - [Basics of Dealing Damage](#basics-of-dealing-damage)
     - [Player Damage](#player-damage)
-    - [Blademasters - Sharpness](#blademasters---sharpness)
-    - [Gunners - Critical Distance](#gunners---critical-distance)
+    - [Sharpness](#sharpness)
+    - [Critical Distance](#critical-distance)
     - [Motion Values](#motion-values)
     - [Hitzones](#hitzones)
     - [Elemental Damage](#elemental-damage)
@@ -24,7 +24,6 @@
     - [Skill Points](#skill-points)
     - [Slots and Decorations](#slots-and-decorations)
     - [Brief Skill Overview](#brief-skill-overview)
-    - [Offensive Skills](#offensive-skills)
 - [Hunting Fundamentals](#hunting-fundamentals)
     - [The Essence of Combat](#the-essence-of-combat)
     - [Foundational Concepts](#foundational-concepts)
@@ -33,6 +32,8 @@
         - [Positioning](#positioning)
         - [Evading](#evading)
         - [Guarding](#guarding)
+        - [Roars, Wind Pressure, and Tremors](#roars-wind-pressure-and-tremors)
+        - [Status Effects](#status-effects)
     - [Intermediate Techniques](#intermediate-techniques)
         - [Invincibility Frames](#invincibility-frames)
         - [Setups](#setups)
@@ -145,17 +146,17 @@ Many armor skills will also increase your damage, such as Attack Up. Most of the
 
 If you are playing FU, 3U, or 4U, **do not compare damage numbers between weapon types!** The reason is dumb and annoying. Players of P3rd and GU do not have to worry about this. 
 
-## Blademasters - Sharpness
+## Sharpness
 
-Sharpness is a mechanic for Blademasters. Hitting the monster will temporarily lower your Sharpness, and using a Whetstone will restore it.
+Sharpness is a mechanic **for Blademasters only**. Hitting the monster will temporarily lower your Sharpness, and using a Whetstone will restore it.
 
 Firstly, having higher Sharpness levels will raise your damage. This can be substantial, so don't overlook this, and try to keep your weapon sharpened!
 
-Additionally, hitting hard monster parts and/or being on a low Sharpness level can cause you to bounce. See the Hitzones section for more on this.
+Additionally, hitting hard monster parts and/or being on a low Sharpness level can cause you to bounce. See [Hitzones](#hitzones) for more on this.
 
-## Gunners - Critical Distance
+## Critical Distance
 
-Critical Distance (unrelated to crits from your Affinity) is a mechanic for Gunners that multiplies your shots' power based on your distance from the monster. 
+Critical Distance (unrelated to critical hits) is a mechanic **for Gunners only** that multiplies your shots' power based on your distance from the monster. 
 
 Being too close or too far away will hurt your damage, while being just close enough will raise it. You can tell if you are in proper crit distance range by watching the yellow hit sparks. Bigger = better!
 
@@ -171,11 +172,11 @@ MVs are notated as percentages without the % sign. Often you can guess the appro
 
 Hitzones are what makes monster parts hard or soft. Soft parts like Rathian's head have high hitzones, while hard parts like Rathian's back have low hitzones. The higher the hitzone, the more damage you deal!
 
-Like motion values, hitzones are notated as percentages without the % sign. You can also tell how high a hitzone is in-game by the amount of hitstop (2nd gen) or the size of the blood splatter (3rd and 4th gen). Gunners may have trouble seeing hitzones in-game, looking them up is recommended.
+Like motion values, hitzones are notated as percentages without the % sign. You can tell how high a hitzone is in-game by the amount of hitstop (2nd gen) or the size of the blood splatter (3rd and 4th gen). Gunners may have trouble seeing hitzones in-game, looking them up is recommended.
 
-For Blademaster, hitting particularly hard parts will cause you to bounce. Bouncing locks you into a dangerously long animation and doubles the hit's Sharpness usage, so try to avoid it when you can. Higher Sharpness levels will make it harder to bounce.
+For Blademaster, hitting particularly hard parts will cause you to bounce. Bouncing locks you into a dangerously long animation and doubles the hit's Sharpness usage, so try to avoid it. Higher Sharpness levels will make it harder to bounce.
 
-Some moves cannot bounce, but you will still get the double sharpness loss, and your damage will be low because of the bad hitzone. Unless you are trying to break a specific part, you are better off hitting the good hitzones.
+Some moves cannot bounce, but you will still get the double Sharpness loss, and your damage will be low because of the bad hitzone. Unless you are trying to break a specific part, you are better off hitting the good hitzones.
 
 ## Elemental Damage
 
@@ -195,7 +196,7 @@ Like Player Damage, this will come from your weapon and gear. Skills such as Ele
 
 For Blademasters, higher Sharpness levels boosts your element.
 
-Bowguns do not have intrinsic element! Instead, some bowguns shoot elemental shots. The amount of element dealt will scale with your raw damage, so balance your bowgun's damage with its ammo capabilities for best results.
+Bowguns do not have intrinsic element! Instead, some bowguns shoot elemental shots. The amount of element dealt will scale with your raw damage, so balance your bowgun's damage with its ammo capabilities.
 
 ## Elemental Hitzones
 
@@ -219,12 +220,17 @@ Having -10 points in a skill will give the negative version of that skill. Some 
 
 Each piece of armor, your weapon, and your charm (in 3rd and 4th gen) all have 0 to 3 slots. These slots are used for decorations.
 
-Decorations are an additional source of skill points. Each one takes from 1 to 3 slots. The more slots a decoration takes, the more points it gives.
+Decorations are an additional source of skill points. Each one takes from 1 to 3 slots. The more slots a decoration needs, the more points it gives.
 
 ## Brief Skill Overview
 
-## Offensive Skills
+In general, **damage skills are always good!** They are useful in any situation and speed up hunts, which gives you less time to make mistakes.
 
+**Most defense skills are very bad!** Defense Boost will not help you very much. If you are having a hard time with a monster, consider upgrading your armor, using armor with a higher base defense, or prioritizing the appropriate skill from the 3 below.
+
+The Earplugs, Wind Resistance, and Tremor Resistance skills both make dealing with certain attacks easier and create additional openings. Of the three, Earplugs is the most generally useful, but the other two can be very effective against specific monsters.
+
+The evasion-related skills can be very powerful. Evasion lengthens the time of your evade's invincibility (see [Invincibility Frames](#invincibility-frames) for more). Evade Extender increases the distance your evade covers, which is very useful on low-mobility weapons like HBG.
 
 
 # Hunting Fundamentals
@@ -261,11 +267,15 @@ Positioning describes where you are relative to the monster. There are two compo
 
 Being closer to some monsters is advantageous, while others work better further away. Gunners should pay special attention to this: the Critical Distance mechanic ties your damage directly to your distance from the monster!
 
-> Example: Any Weapon vs. Rathian. Being far away from Rathian can be dangerous, as her triple fireball spreads out while flying. Staying close to her guards against this, but not too close! If you are right next to her, her legs will trample you as she moves and her horizontal tailspin will be difficult to escape. Experiment and find the optimal distance!
+> Example: Any Weapon vs. Rathian. Being far away from Rathian can be dangerous, as her triple fireball spreads out over distance. Staying close to her can avoid this, but not too close! If you are right next to her, her legs will trample you as she moves and her horizontal tailspin will be difficult to escape. Experiment and find the optimal distance!
 
-Orientation is the angle you're at relative to the monster, such as in front, to the left/right side, or behind. Certain moves are much easier to dodge when standing to the side, while others are more difficult. Some are easier to avoid on a particular side
+Orientation is the angle you're at relative to the monster, such as in front, to the left/right side, or behind. Certain moves are much easier to dodge when standing to the side, while others are more difficult.
 
 > Example: Any Weapon vs. Rathian. Rathian's charge can be very difficult to avoid when both in front and close to her. Staying to the side makes it much easier to dodge. Don't wait for her to start the charge: move there in advance!
+
+Some monsters have moves that are only dangerous on one side, so favoring that side can greatly help you.
+
+> Example: Any Weapon vs. Rajang. Rajang's zigzag hops start with a hop to the right, so always circle him to your left when close!
 
 ### Evading
 
@@ -299,13 +309,43 @@ Some attacks, such as clouds of gas or elemental beams, are not blockable. The s
 
 The Heavy Bowgun's shield attachment can be quite effective, but will only block attacks in a 45 degree arc in front of you, as opposed to the 90 degree arc of all other shields. Make sure you are looking right at the attack!
 
+### Roars, Wind Pressure, and Tremors
+
+Caused by certain monster attacks, these three effects deal no damage but will momentarily stun you. They come in different levels of strength and duration depending on the attack.
+
+Avoiding the hitbox of the roar, wind, or tremor will also avoid the corresponding effect, so you can either move out of their range or use [Invincibility Frames](#invincibility-frames). 
+
+> Example: Any Weapon vs. Nargacuga. Nargacuga can hit you while you are stunned from its roar! To avoid this, simply walk away from it as it gets ready to roar. The roar's hitbox is very short-range, so you won't be stunned.
+
+Many weapons have attacks that can resist weak wind pressure. Use this to get extra hits in and close distance.
+
+> Example: Hammer vs. Rathian. Hammer resists weak wind pressure while charging. As Rathian lands, charge and walk up to her, negate the weak wind pressure, then let loose a superpound on her head!
+
+You can block all three of these effects, but like with regular attacks, you must be facing towards the hitbox. The higher strength versions will also increase the knockback and stamina used.
+
+Equipping the corresponding resistance skills (Earplugs, Wind Res, Tremor Res) will nullify these effects entirely. Higher levels are needed for the higher strength versions.
+
+### Status Effects
+
+Status effects are inflicted by certain monster moves, and will appear as a symbol next to your name. For most of these, you can negate them with a certain skill, wait them out, or use a specific item to cure yourself.
+
+Elemental blights are caused by many monsters and vary in effect and length. Each roll you do will reduce their duration. 
+
+Snowman, Mud, and the second level of Bubble will severely impair your movement. Spin the left stick when you have a chance to escape more quickly.
+
+Bleeding will damage you as you move. Crouch and move slowly to recover from it.
+
+Stun is a special status effect that is caused by taking too many hits in a short amount of time. You will be unable to do anything while stunned! Mash the face buttons to recover faster. 
+
+The less you get hit, the less you have to worry about any of these! Of course, this is easier said than done.
+
 ## Intermediate Techniques
 
 ### Invincibility Frames
 
 Invincibility Frames/iframes, or moments of invincibility/MOI in older sources, are periods of time where you cannot be hit by any attack. By default, the basic roll has 0.2 seconds of iframes (6 frames @ 30fps). 0.2 seconds may seem short, and it is short compared to other games like Dark Souls, but that window can be enough to get you out of a sticky situation.
 
-Iframes are best used against attacks where the hitbox is small, moves quickly, or lasts for a short amount of time. Right before you are hit, roll *towards* these attacks: rolling towards and through them will move you through the hitbox more quickly than rolling with it will.
+Iframes are best used against attacks where the hitbox is small, moves quickly, or lasts for a short amount of time. Right before you are hit, roll *towards* these attacks: rolling towards and through them will move you through the hitbox more quickly than rolling alongside it will.
 
 > Example: Any Weapon vs. Nargacuga. Nargacuga's tail whip is a perfect candidate for iframing: fast-moving, small, and short. Right before you see the tail hit you, roll through it. If done right, you will pass through unscathed! If not, your timing was off, so try again when the chance presents itself. It's better to roll early than to roll late, so keep that in mind if you're having trouble.
 
@@ -315,7 +355,9 @@ With enough skill and knowledge, or in desperate circumstances, iframes can also
 
 ### Setups
 
-A setup is where the hunter seemingly attacks at nothing, only to have the monster move into the strike at the last moment! This takes advantage of monsters' predictability to deal big damage. Setups are most useful on heavy weapons with powerful attacks, but other weapons (such as Longsword) can sometimes find utility for them. More than any other weapon, setups are the Greatsword's lifeblood!
+A setup is where the hunter seemingly attacks at nothing, only to have the monster move into the strike at the last moment! This takes advantage of monsters' predictability to deal big damage.
+
+Setups are most useful on heavy weapons with powerful attacks, but other weapons (such as Longsword) can sometimes find utility for them. More than any other weapon, setups are the Greatsword's lifeblood!
 
 > Example: Greatsword vs. Glavenus. After Glavenus slams his tail into the ground, watch his head! He will bring it near where the tail used to be. When you dodge a tailslam, charge your GS near his tail, and watch as his head moves into your strike! If you miss, note what aim adjustments you need to make, and try again.
 
