@@ -3,6 +3,7 @@
 - [Introduction](#introduction)
     - [What is This Guide?](#what-is-this-guide)
     - [Why Play Monster Hunter?](#why-play-monster-hunter)
+    - [How to Use This Guide](#how-to-use-this-guide)
 - [Simple Tips for Starting Out](#simple-tips-for-starting-out)
 - [Basics of Dealing Damage](#basics-of-dealing-damage)
     - [Player Damage](#player-damage)
@@ -52,39 +53,55 @@
 
 # Introduction
 
-Welcome! This is a guide for the game series Monster Hunter. The tips here will mainly apply to the games after and including Freedom Unite, and before World. Players of other MH games may still find some information useful though.
+Welcome! May your sword be sharp, your mind and body sharper, and your hunts be prosperous!
+
+My hope is that this guide will make it easier for players to dive into this wonderful series. Monster Hunter has given a lot to me, so hopefully I can give something back. Enjoy!
 
 ## What is This Guide?
 
 **This is a guide to the mechanics of the Monster Hunter series.** MH's mechanics are deep and multi-faceted, but not always clear. Particular attention will be given to the fundamentals of combat. Other aspects of the series, such as lore or detailed builds, are well-covered already across the Internet.
 
-**This guide is focused on generalities, not specifics.** Detailed information specific to a certain game, like armor sets or monster tutorials, won't be included. The idea is to give you the skills needed to figure things out on your own, or at least to know what to Google. However, examples of specific situations will be used to illustrate general concepts.
+**This guide is focused on generalities, not specifics.** Armor sets, monster tutorials, and game-specific mechanics such as underwater combat or hunting styles/arts won't be included. The idea is to give you the skills needed to figure things out on your own, or at least to know what to Google. However, examples of specific situations will be used to illustrate general concepts.
 
-**This guide is targeted towards late 2nd-4th gen games.** This means everything after and including MH Freedom Unite, and before MH World. The 5th generation games (World and Rise) changed many core mechanics of the series, so they won't be covered here. If you are playing MH2 or earlier, you probably know what you are doing, and don't need this guide.  
+**This guide is targeted towards late 2nd-4th gen games.** This means **Freedom Unite, Portable 3rd, 3 Ultimate, 4 Ultimate, and Generations Ultimate**. The 5th generation games (World and Rise) changed many core mechanics of the series, so they won't be covered here. If you are playing MH2 or earlier, you probably know what you are doing, and don't need this guide.  
 
 ## Why Play Monster Hunter?
 
-For a player interested in action games, and possibly coming from other series like Devil May Cry, God of War, Ninja Gaiden, or Dark Souls, there are many things that set Monster Hunter apart.
+For a player interested in action games, and possibly coming from other series like Devil May Cry, God of War, Ninja Gaiden, or Dark Souls, there are many aspects of MH that are familiar, and others that set Monster Hunter apart.
 
 **Only boss fights!** Monster Hunter is almost entirely focused on what would be infrequent "boss fights" in other games! This means that MH has some of the best one-on-one encounters in gaming.
 
-**Deep and unique combat system.** MH combat is very deep, and there is always something new to learn! Its combination of methodical pacing, predictive gameplay, and intense focus on positioning is wholly unique.
+**Deep and unique combat system.** MH combat is very nuanced, and there is always something new to learn! Its combination of methodical pacing, predictive gameplay, and intense focus on positioning distinguishes it from the crowd.
 
 **Focus on efficiency.** Stylish moments are possible, but they take the backseat in MH: the focus is on playing quick and clean.
 
 **Variable difficulty!** Early progression can be easy, while later hunts significantly up the challenge. Optional content in many games will truly test your skill, but if you need help, build your armor to focus on defense or play in multiplayer!
 
+## How to Use This Guide
+
+This guide is split into (some number) broad sections.
+
+[Simple Tips for Starting Out](#simple-tips-for-starting-out) are general tips useful for any new player, and reading them is highly recommended.
+
+[Hunting Fundamentals](#hunting-fundamentals) is a guide to the fundamental aspects and techniques of the MH combat system. Many parts of this won't make sense at first, but as you play and improve, the more advanced strategies will start to be within reach.
+
+other sections
+
 # Simple Tips for Starting Out
 
 These tips will help you hit the ground running and guide you through some of the more unintuitive aspects of the series.
 
-* **Blademasters: Prioritize getting green sharpness!** Yellow sharpness (what most early weapons start with) will make you bounce a lot and lower your damage. See [Sharpness](#sharpness) and [Hitzones](#hitzones) for detailed info.
+If you are the type that just wants to learn as they go, then this is for you. Read these, then jump in!
+
+* **Blademasters: Prioritize getting green sharpness!** Yellow sharpness, what most early weapons start with, will make you bounce a lot and lower your damage. See [Sharpness](#sharpness) and [Hitzones](#hitzones) for detailed info.
 * **Start with the village quests!** They are scaled for singleplayer and are good for starting out. Other quests (called hub quests) are still soloable, but new players may have difficulty. Progressing in village quests often unlocks useful things like farm upgrades.
 * **Look up the key quests online!** Only certain quests (key quests) are required to progress in the game. Feel free to do as many quests as you want, but you will likely want to skip the boring gathering quests that appear early on.
 * **Use the farm!** It helps you get common items, which saves a lot of hassle. In some games you need to spend points to upgrade your farm, prioritize this.
-* **4th gen games: Use item sets!** An option from the item box, item sets allow you to quickly restock and swap your items between quests. Simply add the items you commonly use to your pouch and register a set. Selecting it will pull items from your box to match that set as closely as possible.
-* **Pre-4th gen games: Kill small monsters before focusing on the large one!** If you leave them alone, small monsters will annoy you, interrupt your attacks, and even cause you to get hit by the large monster! Killing them solves this, usually they have low HP and will die in a few attacks.
-* **3rd and 4th gen games: Bring Dung Bombs to quests with multiple large monsters!** Hitting a monster with a Dung Bomb causes it to move zones after a bit. Fighting multiple monsters at once is difficult and inconsistent, so avoid it when possible. 
+* **4U, GU: Use item sets!** An option from the item box, item sets allow you to quickly restock and swap your items between quests. Simply add the items you commonly use to your pouch and register a set. Selecting it will pull items from your box to match that set as closely as possible.
+* **FU, 3U, 4U: Do not compare damage numbers between weapon types!** The reason is complicated and annoying. In P3rd and GU, feel free to do this.
+* **Paintball the monster!** Hitting a monster with one marks it on the map for 10 minutes. If it's been close to 10 minutes, throw another to refresh the duration.
+* **FU, P3rd, 3U: Kill small monsters before focusing on the large one!** If you leave them alone, small monsters will annoy you, interrupt your attacks, and even cause you to get hit by the large monster! Killing them solves this, usually they have low HP and will die in a few attacks.
+* **P3rd, 3U, 4U, GU: Bring Dung Bombs to quests with multiple large monsters!** Hitting a monster with a Dung Bomb causes it to move zones after a bit. Fighting multiple monsters at once is difficult and inconsistent, so avoid it when possible. 
 * **Emulators: Use speedup if it's available!** Some quests (such as gathering, small monster killing, and sieges) are boring and can take a bit. Speedup will save time and make the game more enjoyable. **Don't use this in multiplayer without other players' consent!** 
 
 # Basics of Dealing Damage
@@ -210,15 +227,15 @@ The evasion-related skills can be very powerful. Evasion lengthens the time of y
 
 ## Food
 
-HP+stam buffs
+Eating food before a hunt will boost your maximum HP and stamina for the next quest, up until you faint. The amount varies per game and per meal, but in general you will be able to consistently max out your HP by the end of the early game. 
 
-Food skills
+Meals also grant food skills for that quest. Some of these are alternate versions of armor skills, some are slightly different, and some are completely unique. For hard quests, be on the lookout for Felyne Insurance (grants an additional faint) and Felyne Moxie (saves you from death once if at high HP). 
 
 ## Items
 
-General overview
+There are many different items to help you in your hunts. Many of them will become mainstays in your pouch, such as potions, steaks, whetstones for Blademasters, ammo/coatings for Gunners, and paintballs. Others, such as traps and status-healing items, are useful in specific situations.
 
-For harder quests, crafting items from your Pouch can be a good idea. Bringing 10 Honey can give you 10 more Mega Potions to work with, and getting extra shots for powerful ammo types is invaluable to a Gunner. Bring the Books of Combos along to raise your craft chances.
+For harder quests, crafting items from your Pouch can be a good idea. Bringing 10 Honey can give you 10 more Mega Potions to work with, and extra shots for powerful ammo types are invaluable to a Gunner. Bring the Books of Combos along to raise your craft chances.
 
 # Hunting Fundamentals
 
