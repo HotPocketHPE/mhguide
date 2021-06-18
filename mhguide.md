@@ -6,14 +6,15 @@
     - [How to Use This Guide](#how-to-use-this-guide)
 - [Simple Tips for Starting Out](#simple-tips-for-starting-out)
 - [Basics of Dealing Damage](#basics-of-dealing-damage)
-    - [Player Damage](#player-damage)
-    - [Sharpness](#sharpness)
-    - [Critical Distance](#critical-distance)
-    - [Motion Values](#motion-values)
-    - [Hitzones](#hitzones)
+    - [Raw Damage](#raw-damage)
+        - [Player Raw](#player-raw)
+        - [Sharpness](#sharpness)
+        - [Critical Distance](#critical-distance)
+        - [Motion Values](#motion-values)
+        - [Hitzones](#hitzones)
     - [Elemental Damage](#elemental-damage)
-    - [Player Element](#player-element)
-    - [Elemental Hitzones](#elemental-hitzones)
+        - [Player Element](#player-element)
+        - [Elemental Hitzones](#elemental-hitzones)
 - [Basics of Armor and Skills](#basics-of-armor-and-skills)
     - [Skill Points](#skill-points)
     - [Slots and Decorations](#slots-and-decorations)
@@ -23,6 +24,7 @@
 - [Basics of Preparation](#basics-of-preparation)
     - [Food](#food)
     - [Items](#items)
+    - [Monster and Weapon Matchups](#monster-and-weapon-matchups)
 - [Hunting Fundamentals](#hunting-fundamentals)
     - [The Essence of Combat](#the-essence-of-combat)
     - [Foundational Concepts](#foundational-concepts)
@@ -83,6 +85,8 @@ This guide is split into (some number) broad sections.
 
 [Simple Tips for Starting Out](#simple-tips-for-starting-out) are general tips useful for any new player, and reading them is highly recommended.
 
+[Basics of Dealing Damage](#basics-of-dealing-damage) goes over the ingredients of the damage formula, and how you can influence them in and out of hunts.
+
 [Hunting Fundamentals](#hunting-fundamentals) is a guide to the fundamental aspects and techniques of the MH combat system. Many parts of this won't make sense at first, but as you play and improve, the more advanced strategies will start to be within reach.
 
 other sections
@@ -112,33 +116,35 @@ Fundamentally, your dealt damage looks like this:
 
 > Damage = Raw Damage + Elemental Damage 
 
-> Raw Damage = Player Damage * Sharpness (Blademasters only) * Critical Distance (Gunners only) * Motion Value * Hitzone
+## Raw Damage
 
-"Raw" damage here means non-elemental damage. Elemental damage will be covered shortly.
+> Raw Damage = Player Raw * Sharpness (Blademasters only) * Critical Distance (Gunners only) * Motion Value * Hitzone
 
-## Player Damage
+### Player Raw
 
-This is mostly influenced by preparation outside the hunt. Build better gear to raise this!
+This is what is listed as "Attack" under your status page, and it's mostly influenced by preparation outside the hunt. Build better gear to raise this!
 
-Your weapon itself is quite important. Higher number = more damage! Blademasters should pay special attention to the weapon's Sharpness (see below), while Gunners should look at how much of each ammo type the weapon can hold.
+Your weapon itself makes up most of your raw. Higher number = more damage! Other considerations such as Sharpness or ammo capacities are important too, so try to find a balance.
 
-Affinity is your critical hit chance. A crit (bright red flash) will deal 25% more damage, while a negative crit (dark red flash) will deal 25% less. Explosions (such as Gunlance shells or Charge Blade phials) and some other attacks (such as bowgun elemental shots) cannot crit or negative crit, but most attacks can. 
+Affinity is your critical hit chance. A crit (bright red flash) will deal 25% more damage, while a negative crit (dark red flash) will deal 25% less.
 
-Many armor skills will also increase your damage, such as Attack Up. Most of these add to your damage, which is better the earlier in the game you are. Skills that multiply your damage, such as Adrenaline, or boost your Affinity, such as Critical Eye, are better later in the game.
+Explosions (such as Gunlance shells or Charge Blade phials) and some other attacks (such as bowgun elemental shots) cannot crit or negative crit, but most attacks can. 
+
+Many armor skills will also increase your raw, such as Attack Up. See [Offensive Skills](#offensive-skills) for more.
 
 If you are playing FU, 3U, or 4U, **do not compare damage numbers between weapon types!** The reason is dumb and annoying. Players of P3rd and GU do not have to worry about this. 
 
-## Sharpness
+### Sharpness
 
 Sharpness is a mechanic **for Blademasters only**. Hitting the monster will temporarily lower your Sharpness, and using a Whetstone will restore it.
 
-Firstly, having higher Sharpness levels will raise your damage. This can be substantial, so don't overlook this, and try to keep your weapon sharpened!
+Higher Sharpness levels will raise your damage! This can be substantial, so don't overlook this, and try to keep your weapon sharpened.
 
 Additionally, hitting hard monster parts and/or being on a low Sharpness level can cause you to bounce. See [Hitzones](#hitzones) for more on this.
 
 Being at Yellow Sharpness or below will penalize attacks that hit at the beginning or end of their animation. This is extremely annoying to play around, so stay above Yellow Sharpness if at all possible!
 
-## Critical Distance
+### Critical Distance
 
 Critical Distance (unrelated to critical hits) is a mechanic **for Gunners only** that multiplies your shots' power based on your distance from the monster. 
 
@@ -146,17 +152,17 @@ Being too close or too far away will hurt your damage, while being just close en
 
 Different ammo types have different crit distances. Pierce's crit distance is further away than Normal's, so watch your positioning! Some shots, such as elemental shots, do not use crit distance, but most common ammo does.
 
-## Motion Values
+### Motion Values
 
 Motion values (MVs) are what makes attacks weak or strong. Weak moves like Longsword's poke have low motion values, while strong ones like the Greatsword's level 3 charge slash have high motion values. Gunners have motion values tied to their shot types.
 
 MVs are notated as percentages without the % sign. Often you can guess the approximate value for a move after some time playing, but look them up if you are unsure! It may change what moves you prioritize.
 
-## Hitzones
+### Hitzones
 
 Hitzones are what makes monster parts hard or soft. Soft parts like Rathian's head have high hitzones, while hard parts like Rathian's back have low hitzones. The higher the hitzone, the more damage you deal!
 
-Like motion values, hitzones are notated as percentages without the % sign. You can tell how high a hitzone is in-game by the amount of hitstop (2nd gen) or the size of the blood splatter (3rd and 4th gen). Gunners may have trouble seeing hitzones in-game, looking them up is recommended.
+Like motion values, hitzones are notated as percentages without the % sign. You can tell how high a hitzone is in-game by the size of the blood splatter when you hit it. Gunners may have trouble seeing hitzones in-game, so looking them up is recommended.
 
 For Blademaster, hitting particularly hard parts will cause you to bounce. Bouncing locks you into a dangerously long animation and doubles the hit's Sharpness usage, so try to avoid it. Higher Sharpness levels will make it harder to bounce.
 
@@ -164,29 +170,29 @@ Some moves cannot bounce, but you will still get the double Sharpness loss, and 
 
 ## Elemental Damage
 
-Elemental damage works similarly to Raw damage, with one big exception.
-
 > Elemental Damage = Player Element * Elemental Hitzone
 
-Elemental damage **ignores your move's motion value!** Even a weak attack like the Longsword poke does just as much elemental damage as the Hammer's golf swing!
+Elemental damage works similarly to Raw damage, with one big exception. Elemental damage **ignores your move's motion value!** Even a weak attack like the Longsword poke does just as much elemental damage as the Hammer's golf swing!
 
-It follows that only the speed and number of hits matter. Fast weapons like Sword and Shield and Dual Blades thus excel at dealing elemental damage, while slow weapons like Greatsword and Hammer struggle.
+Fast weapons like Sword and Shield and Dual Blades thus excel at dealing elemental damage, so for those weapons, take advantage of elemental weaknesses if you can!
 
-Fast weapons can deal a lot more damage with the proper element setup, so pay attention to it if you are using those weapons! Slow weapons should mostly ignore element, while medium speed weapons can use it if they wish.
+Slow weapons like Greatsword and Hammer deal low elemental damage, so they can mostly ignore it. Medium speed weapons, such as Longsword, can use it if they wish.
 
-## Player Element
+### Player Element
 
-Like Player Damage, this will come from your weapon and gear. Skills such as Element Attack Up or \[specific element\] Attack +1/+2/+3 will boost your element.
+Like Player Damage, this will come from your weapon and armor skills. Skills such as Element Attack Up or \[specific element\] Attack +1/+2/+3 will boost your element.
 
 For Blademasters, higher Sharpness levels boosts your element.
 
-Bowguns do not have intrinsic element! Instead, some bowguns shoot elemental shots. The amount of element dealt will scale with your raw damage, so balance your bowgun's damage with its ammo capabilities.
+Bowguns do not have intrinsic element! Instead, some bowguns shoot elemental shots. The amount of element dealt will scale with your raw, so balance your bowgun's damage with its ammo capabilities.
 
-## Elemental Hitzones
+### Elemental Hitzones
 
 This also works similarly to raw hitzones, with a few differences.
 
-Bad raw hitzones are often good elemental hitzones, while good raw hitzones can be either good or bad elemental hitzones. Unlike raw damage, most monsters are particularly weak to a certain element. Usually, you can either guess what the monster's weakness would be (such as Rathalos and water), or look at the resistances on the monster's armor.
+Bad raw hitzones are often good elemental hitzones, while good raw hitzones can be either good or bad elemental hitzones, depending on the monster. If you need to break a hard part, element can be very effective.
+
+Unlike raw damage, most monsters are particularly weak to a certain element. Usually, you can either guess what the monster's weakness would be (such as Rathalos and water), or look at the resistances on the monster's armor.
 
 Unfortunately, beyond these generalizations, elemental hitzones are very difficult to guess in-game, so looking them up is highly recommended.
 
@@ -200,6 +206,8 @@ Some skills (like Attack) give additional benefits from having 15 or 20 points.
 
 Having -10 points in a skill will give the negative version of that skill. Some of these aren't so bad, while others are very dangerous!
 
+A few armor pieces have Torso Up. Having 1 Torso Up piece doubles your torso's skill points (including Decorations), having 2 triples them, and so on. Useful for saving on monster materials. 
+
 ## Slots and Decorations
 
 Each piece of armor, your weapon, and your charm (in 3rd and 4th gen) all have 0 to 3 slots. These slots are used for decorations.
@@ -212,16 +220,25 @@ Decorations are an additional source of skill points. Each one takes from 1 to 3
 
 In general, **damage skills are always good!** They are useful in any situation and speed up hunts, which gives you less time to make mistakes.
 
-For Blademasters, the Sharpness skills are great. Razor Sharp will halve your Sharpness usage, Sharpness+1 will raise most weapons' Sharpness up a level, and Speed Sharpening makes Whetstone usage much faster. All weapon types are benefited by Sharpness+1, while the other two skills are more useful on fast weapons.
+Skills that add to your damage are more useful the earlier in the game you are. Getting Attack Up (Large) in the early quests can dramatically speed up quests!
+
+Skills that multiply your damage, such as Affinity-boosting skills like Critical Eye or Challenger, are better later in the game.
+
+For Blademasters, the Sharpness skills are great. Razor Sharp will halve your Sharpness usage, Sharpness+1 will raise most weapons' maximum Sharpness level, and Speed Sharpening makes Whetstone usage much faster. All weapon types are benefitted by Sharpness+1, while the other two skills are more useful on fast weapons.
+
+For weapons using explosions, such as Gunlance or Charge Blade, Artillery will provide a large damage boost to said explosions!
+
+Weapons with strong elemental potential, such as Sword and Shield or Dual Blades, should be on the lookout for the element-boosting skills Element Attack Up and \[specific element\] Attack +1/+2/+3.
 
 ### Defensive Skills
 
-**Most skills that give Defense are very bad!** Defense Boost will not help you very much. Health Up is good, but only in the early game, before your food fully maximizes your health.  If you need more Defense, consider upgrading your armor or using armor with a higher base defense.
+**Most skills that give Defense are very bad!** Defense Up will not help you very much. Health Up is good, but only in the early game, before your food fully maximizes your health.  If you need more Defense, consider upgrading your armor or using armor with a higher base defense.
 
 The Earplugs, Wind Resistance, and Tremor Resistance skills both make dealing with certain attacks easier and create additional openings. Of the three, Earplugs is the most generally useful, but the other two can be very effective against specific monsters. See [Roars, Wind Pressure, and Tremors](#roars-wind-pressure-and-tremors) for more.
 
-The evasion-related skills can be very powerful. Evasion lengthens the time of your evade's invincibility (see [Invincibility Frames](#invincibility-frames) for more). Evade Extender increases the distance your evade covers, which is very useful on low-mobility weapons like HBG.
+The guarding skills are vital for weapons that rely on their shields. Guard +1/+2 reduces the stamina usage and knockback from blocking attacks, and Guard Up makes previously unblockable attacks like beams and gas blockable. 
 
+The evasion-related skills can be very powerful. Evasion lengthens the time of your evade's invincibility (see [Invincibility Frames](#invincibility-frames) for more). Evade Extender increases the distance your evade covers, which is very useful on low-mobility weapons like HBG.
 
 # Basics of Preparation
 
@@ -236,6 +253,20 @@ Meals also grant food skills for that quest. Some of these are alternate version
 There are many different items to help you in your hunts. Many of them will become mainstays in your pouch, such as potions, steaks, whetstones for Blademasters, ammo/coatings for Gunners, and paintballs. Others, such as traps and status-healing items, are useful in specific situations.
 
 For harder quests, crafting items from your Pouch can be a good idea. Bringing 10 Honey can give you 10 more Mega Potions to work with, and extra shots for powerful ammo types are invaluable to a Gunner. Bring the Books of Combos along to raise your craft chances.
+
+Throwing a Flash Bomb in front of a monster will blind it, causing it to sit there and attack the empty air. This is a good opening, but don't come to rely on it too heavily, or it will hinder your growth as a hunter! 
+
+Flying monsters can be brought back to earth with a Flash Bomb thrown in front of them. **Many flying monsters in later games, such as Rathalos, are very annoying to fight without Flash Bombs!**
+
+Sonic Bombs grant openings
+
+## Monster and Weapon Matchups
+
+Some monsters are particularly easy or difficult to fight with a certain weapon type. If you are having trouble, consider trying a different weapon type!
+
+> Example: Melee Weapons vs. Gravios. Gravios' bad hitzones, tall legs, and massive fire farts make it difficult to get frequent hits in as a Blademaster. Gunner weapons bypass all of these issues, and have a much easier time.
+
+> Example: Heavy Bowgun vs. Tigrex. Heavy Bowgun is a powerhouse of damage, but with low mobility. Tigrex is relentlessly aggressive and charges constantly, so escaping him from range can be extremely difficult! Melee weapons can naturally stay much closer.
 
 # Hunting Fundamentals
 
@@ -319,7 +350,7 @@ Caused by certain monster attacks, these three effects deal no damage but will m
 
 Avoiding the hitbox of the roar, wind, or tremor will also avoid the corresponding effect, so you can either move out of their range or use [Invincibility Frames](#invincibility-frames). 
 
-> Example: Any Weapon vs. Nargacuga. Nargacuga can hit you while you are stunned from its roar! To avoid this, simply walk away from it as it gets ready to roar. The roar's hitbox is very short-range, so you won't be stunned.
+> Example: Any Weapon vs. Nargacuga. Nargacuga can hit you while you are stunned from its roar! How rude. To avoid this, simply walk away from it as it gets ready to roar. The roar's hitbox is very short-range, so you won't be stunned.
 
 Many weapons have attacks that can resist weak wind pressure. Use this to get extra hits in and close distance.
 
