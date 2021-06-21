@@ -5,6 +5,8 @@
     - [Why Play Monster Hunter?](#why-play-monster-hunter)
     - [How to Use This Guide](#how-to-use-this-guide)
 - [Simple Tips for Starting Out](#simple-tips-for-starting-out)
+    - [What Game Do I Start With?](#what-game-do-i-start-with)
+    - [General Tips](#general-tips)
 - [Basics of Dealing Damage](#basics-of-dealing-damage)
     - [Raw Damage](#raw-damage)
         - [Player Raw](#player-raw)
@@ -44,12 +46,6 @@
         - [Sweet Spots](#sweet-spots)
         - [Stagger Control](#stagger-control)
         - [Head Turns](#head-turns)
-- [Game Abbreviations and Short History](#game-abbreviations-and-short-history)
-    - [First Generation](#first-generation)
-    - [Second Generation](#second-generation)
-    - [Third Generation](#third-generation)
-    - [Fourth Generation](#fourth-generation)
-    - [Fifth Generation](#fifth-generation)
 
 <!-- /TOC -->
 
@@ -87,7 +83,11 @@ This guide is split into (some number) broad sections.
 
 [Basics of Dealing Damage](#basics-of-dealing-damage) goes over the ingredients of the damage formula, and how you can influence them in and out of hunts.
 
-[Hunting Fundamentals](#hunting-fundamentals) is a guide to the fundamental aspects and techniques of the MH combat system. Many parts of this won't make sense at first, but as you play and improve, the more advanced strategies will start to be within reach.
+[Basics of Armor and Skills](#basics-of-armor-and-skills) is a quick rundown on what to look for when building an armor set.
+
+[Basics of Preparation](#basics-of-preparation) explains how to prepare yourself before each hunt. 
+
+[Hunting Fundamentals](#hunting-fundamentals) is a guide to the fundamental aspects and techniques of the MH combat system. 
 
 other sections
 
@@ -97,14 +97,24 @@ These tips will help you hit the ground running and guide you through some of th
 
 If you are the type that just wants to learn as they go, then this is for you. Read these, then jump in!
 
+## What Game Do I Start With?
+
+MH games are unconnected in story (and don't really have much story anyway), **so you don't need to play them in a particular order.**
+
+For players completely new to MH, I recommend starting with **Portable 3rd.** It's on the easier side and can be emulated by even weak PCs. The game was only released in Japan, but there is an English patch.
+
+**If you have someone to explain things, or want to play a certain game, then you can start with any MH!** In addition to this guide, there are many resources available that can help you get started.
+
+## General Tips
+
 * **Blademasters: Prioritize getting green sharpness!** Yellow sharpness, what most early weapons start with, will make you bounce a lot and lower your damage. See [Sharpness](#sharpness) and [Hitzones](#hitzones) for detailed info.
 * **Start with the village quests!** They are scaled for singleplayer and are good for starting out. Other quests (called hub quests) are still soloable, but new players may have difficulty. Progressing in village quests often unlocks useful things like farm upgrades.
 * **Look up the key quests online!** Only certain quests (key quests) are required to progress in the game. Feel free to do as many quests as you want, but you will likely want to skip the boring gathering quests that appear early on.
 * **Use the farm!** It helps you get common items, which saves a lot of hassle. In some games you need to spend points to upgrade your farm, prioritize this.
-* **4U, GU: Use item sets!** An option from the item box, item sets allow you to quickly restock and swap your items between quests. Simply add the items you commonly use to your pouch and register a set. Selecting it will pull items from your box to match that set as closely as possible.
+* **4U, GU: Use item sets!** Simply add the items you commonly use to your pouch and register a set. Selecting it will pull items from your box to match that set as closely as possible.
 * **FU, 3U, 4U: Do not compare damage numbers between weapon types!** The reason is complicated and annoying. In P3rd and GU, feel free to do this.
 * **Paintball the monster!** Hitting a monster with one marks it on the map for 10 minutes. If it's been close to 10 minutes, throw another to refresh the duration.
-* **FU, P3rd, 3U: Kill small monsters before focusing on the large one!** If you leave them alone, small monsters will annoy you, interrupt your attacks, and even cause you to get hit by the large monster! Killing them solves this, usually they have low HP and will die in a few attacks.
+* **FU, P3rd, 3U: Kill small monsters before focusing on the large one!** Small monsters will annoy you, interrupt your attacks, and cause you to get hit by large monsters! Killing them solves this, usually they have low HP and will die in a few attacks.
 * **P3rd, 3U, 4U, GU: Bring Dung Bombs to quests with multiple large monsters!** Hitting a monster with a Dung Bomb causes it to move zones after a bit. Fighting multiple monsters at once is difficult and inconsistent, so avoid it when possible. 
 * **Emulators: Use speedup if it's available!** Some quests (such as gathering, small monster killing, and sieges) are boring and can take a bit. Speedup will save time and make the game more enjoyable. **Don't use this in multiplayer without other players' consent!** 
 
@@ -232,7 +242,9 @@ Weapons with strong elemental potential, such as Sword and Shield or Dual Blades
 
 ### Defensive Skills
 
-**Most skills that give Defense are very bad!** Defense Up will not help you very much. Health Up is good, but only in the early game, before your food fully maximizes your health.  If you need more Defense, consider upgrading your armor or using armor with a higher base defense.
+**Most skills that give Defense are very bad!** Defense Up will not help you very much. If you need more Defense, consider upgrading your armor or using armor with a higher base defense.
+
+Health Up is good, but only in the early game, before your food fully maximizes your health. 
 
 The Earplugs, Wind Resistance, and Tremor Resistance skills both make dealing with certain attacks easier and create additional openings. Of the three, Earplugs is the most generally useful, but the other two can be very effective against specific monsters. See [Roars, Wind Pressure, and Tremors](#roars-wind-pressure-and-tremors) for more.
 
@@ -246,6 +258,8 @@ The evasion-related skills can be very powerful. Evasion lengthens the time of y
 
 Eating food before a hunt will boost your maximum HP and stamina for the next quest, up until you faint. The amount varies per game and per meal, but in general you will be able to consistently max out your HP by the end of the early game. 
 
+Food also grants small status buffs, such as increased Attack, Defense, or elemental resistance, until you faint.
+
 Meals also grant food skills for that quest. Some of these are alternate versions of armor skills, some are slightly different, and some are completely unique. For hard quests, be on the lookout for Felyne Insurance (grants an additional faint) and Felyne Moxie (saves you from death once if at high HP). 
 
 ## Items
@@ -254,19 +268,21 @@ There are many different items to help you in your hunts. Many of them will beco
 
 For harder quests, crafting items from your Pouch can be a good idea. Bringing 10 Honey can give you 10 more Mega Potions to work with, and extra shots for powerful ammo types are invaluable to a Gunner. Bring the Books of Combos along to raise your craft chances.
 
-Throwing a Flash Bomb in front of a monster will blind it, causing it to sit there and attack the empty air. This is a good opening, but don't come to rely on it too heavily, or it will hinder your growth as a hunter! 
+Dash Juice is a powerful consumable that completely negates stamina usage for a time. Use it if necessary, but try not to abuse it, as the ingredients are expensive, and stamina management is an important skill to learn.
+
+Throwing a Flash Bomb in front of a monster will blind it, causing it to sit there and attack the empty air. This is a good opening, but **don't come to rely on it too heavily, or it will hinder your growth as a hunter!** Beware, as some monsters, such as Rajang, become erratic and unpredictable while flashed. In later games, flashing the same monster multiple times will reduce the flash's duration.
 
 Flying monsters can be brought back to earth with a Flash Bomb thrown in front of them. **Many flying monsters in later games, such as Rathalos, are very annoying to fight without Flash Bombs!**
 
-Sonic Bombs grant openings
+Sonic Bombs stun some monsters in certain situations, but usually don't work if the monster is enraged. The most notable uses are forcing Diablos or Cephadrome out of the ground, and forcing Plesioth out of the water. There are many more uses for Sonic Bombs, so if the item box gives you some for a monster, experiment! (or use the Internet)
 
 ## Monster and Weapon Matchups
 
-Some monsters are particularly easy or difficult to fight with a certain weapon type. If you are having trouble, consider trying a different weapon type!
+Some monsters are particularly easy or difficult to fight with a certain weapon type. If you are having trouble, consider trying a new weapon!
 
-> Example: Melee Weapons vs. Gravios. Gravios' bad hitzones, tall legs, and massive fire farts make it difficult to get frequent hits in as a Blademaster. Gunner weapons bypass all of these issues, and have a much easier time.
+> Example: Melee Weapons vs. Gravios. Gravios' bad hitzones, tall legs, and massive fire farts make it difficult to get frequent hits in as a Blademaster. Gunner weapons bypass all of these issues, so they have a much easier time.
 
-> Example: Heavy Bowgun vs. Tigrex. Heavy Bowgun is a powerhouse of damage, but with low mobility. Tigrex is relentlessly aggressive and charges constantly, so escaping him from range can be extremely difficult! Melee weapons can naturally stay much closer.
+> Example: Ranged Weapons vs. Tigrex. Tigrex is relentlessly aggressive and charges constantly, so escaping him while staying in Critical Distance can be extremely difficult! Melee weapons can naturally stand much closer.
 
 # Hunting Fundamentals
 
@@ -284,15 +300,16 @@ Recklessness is a death sentence, as almost everything you do **cannot be cancel
 
 ### Openings
 
-An opening is a time when you can attack without fear of retaliation. Some may be short, others long. Many of these arise from certain monster moves, either because you are safe from the attack in a certain area, or from the monster recovering afterwards.
+An opening is a time when you can attack without fear of retaliation. Some may be short, others long. Many monster moves can be openings, either because you are safe from the attack in a certain area, or from the monster's recovery afterwards.
 
-> Example: Any Weapon vs. Rathian. Rathian's triple fireball can be somewhat dangerous at range, but if you are standing to her side, the weak head becomes a wide open target for the whole duration, and you can attack freely as the fireballs harmlessly fly away from you. 
+> Example: Any Weapon vs. Rathian. Rathian's triple fireball can be dangerous at range, but if you are standing to her side, the weak head becomes open for the whole duration. Don't get too close and eat a fireball on accident!
 
 ### Commitment
 
+(rewrite this)
 In Monster Hunter, every action prevents you from doing other actions for a certain amount of time. This property is called commitment; slow attacks commit you more, while fast attacks commit you less. Using items such as potions also involves commitment.
 
-Try and match your level of commitment to the length of openings. On short openings, such as a monster's small recovery period after attacking, get a quick hit in. On long openings, such as a trip, unleash your big damage-dealing moves!
+Try to use your openings to their fullest, but don't overcommit! On short openings, such as a monster's small recovery period after attacking, get a quick hit in. On long openings, such as a trip, unleash your big damage-dealing moves!
 
 > Example: Dual Blades vs. Rathian. The Dual Blades' Demon Dance is a very powerful attack, but it also takes a long time to execute. Using the Demon Dance on smaller openings, such as when Rathian lands after a flip, is dangerous. Instead, use those times to deal small hits to the legs. Then, when she trips, rush to the head and Dance away! 
 
@@ -450,38 +467,3 @@ The small opening created by a head turn is great for cashing in your built-up s
 If the angle the monster has to turn is big enough, it will execute the turn in two parts. By moving against the direction of rotation for the second part, the monster won't be able to switch directions, creating space.
 
 > Example: Any Weapon vs. Akantor. Akantor's massive body and proclivity for charging makes standing in front of him very hazardous. Move against the second part of his head turn to give yourself some breathing room, especially if you are near a wall!
-
-# Game Abbreviations and Short History
-
-All of these may be preceded by MH, which simply stands for Monster Hunter. Only the "main" games are included here; this says nothing about the other games' quality (I quite like MH Frontier).
-
-## First Generation
----
-* MH1 - The original Monster Hunter on PS2. Introduced most core gameplay systems. Focuses on the survival aspect more than later games. 
-* MHG - Monster Hunter G, on PS2. An expanded version of the original with a new and harder progression rank called G rank. Added Dual Blades (then called Dual Swords) in Japan. Subspecies introduced.
-* F1/MHP - Freedom 1, on PSP. Also called Monster Hunter Portable. Portable adaptation of Monster Hunter G. Tweaks some aspects and adds a bit more content. Focuses on large monster battles more than the original.
-
-## Second Generation
----
-* MH2/MH2Dos/Dos - Monster Hunter 2 Dos, on PS2. Expands on the original's survival aspects with simulation-focused elements such as daytime and season cycles; also the last game to do this. Added Gunlance and Hunting Horn. Most MH1 monsters return, and many new monsters and maps were added. Only released in Japan, though a partial English translation patch is available.
-* F2/P2nd - Freedom 2, on PSP. Also called Portable 2nd. Portable adaptation of Dos, removing many simulation elements to focus on the large monster combat. Added Long Sword.
-* FU/P2ndG - Freedom Unite, on PSP. Also called Portable 2nd G. Expands on Freedom 2 with the return of G rank, new monsters, and some content ported from the subscription game MH Frontier. Survival aspects further deemphasized.
-
-## Third Generation
----
-* MH3/MHTri/Tri - Monster Hunter Tri, on Wii. Added underwater combat: being underwater gives different movement mechanics, monster movesets, and weapon movesets. Added Switch Axe, but many weapons from the older games are not present, due to the need for unique underwater movesets. Bowguns reworked. New monsters and maps, but many 1st and 2nd generation monsters do not return. 
-* P3rd - Portable 3rd, on PSP. Portable adaptation of Tri. No underwater combat, but all weapons are present. Bowguns use old system. Has some monsters from Tri (many underwater-focused ones are absent), some additional 1st and 2nd generation monsters return, and new monsters added. Only released in Japan, though a partial English translation patch is available.
-* 3U/3G - 3 Ultimate, on 3DS and Wii U. Also called 3 G. Expanded version of Tri with G rank. Underwater combat returns, along with all weapons. Bowguns use system from P3rd. All MHTri monsters and some P3rd monsters return.
-
-## Fourth Generation
----
-* MH4 - Monster Hunter 4, on 3DS. Underwater combat removed. Aerial attacks and mounting added, and maps are heavily focused on verticality. Added Charge Blade and Insect Glaive. Features Frenzy difficulty modifier. Only released in Japan.
-* 4U/4G - 4 Ultimate, on 3DS. Also called 4 G. Expanded version of 4 with G rank. Features Apex and Wystone systems.
-* Gen/X - Monster Hunter Generations, on 3DS. Also called Monster Hunter X (pronounced "cross"). Large amount of monsters and maps return. Features Arts and Styles system, Hyper monsters, and Deviant monsters.
-* GU/XX - Generations Ultimate, on 3DS (Japan only) and Switch. Also called Monster Hunter XX (pronounced "double cross"). Expanded version of Generations with G rank. New Arts, Styles, and Deviants added.
-
-## Fifth Generation
----
-* MHW/World - Monster Hunter World, on PS4, XB1, and PC. Many game mechanics changed. Loading zones in maps removed. Singleplayer and multiplayer progression unified. Features Tempered and Arch-Tempered difficulty modifier.
-* MHWI/Iceborne - Expansion DLC for World, on PS4, XB1, and PC. Master rank (new name for G rank) added. Features Clutch Claw.
-* Rise - Monster Hunter Rise, on Switch and PC (forthcoming). Separate singleplayer quests, but multiplayer quest stats still scale with player count like World. Features Wirebugs. Maps are much more open than World.
