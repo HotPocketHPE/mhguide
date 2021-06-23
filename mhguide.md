@@ -300,7 +300,7 @@ Recklessness is a death sentence, as almost everything you do **cannot be cancel
 
 ### Openings
 
-An opening is a time when you can attack without fear of retaliation. Some may be short, others long. Many monster moves can be openings, either because you are safe from the attack in a certain area, or from the monster's recovery afterwards.
+An opening is a time when you can attack without fear of retaliation. Some may be short, others long. Many monster moves can be openings, either because you are safe from the attack in a certain area, or from the monster's recovering afterwards.
 
 > Example: Any Weapon vs. Rathian. Rathian's triple fireball can be dangerous at range, but if you are standing to her side, the weak head becomes open for the whole duration. Don't get too close and eat a fireball on accident!
 
