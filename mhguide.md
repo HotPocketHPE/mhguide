@@ -73,7 +73,7 @@ For a player interested in action games, and possibly coming from other series l
 
 **Focus on efficiency.** Stylish moments are possible, but they take the backseat in MH: the focus is on playing quick and clean.
 
-**Variable difficulty!** Early progression can be easy, while later hunts significantly up the challenge. Optional content in many games will truly test your skill, but if you need help, build your armor to focus on defense or play in multiplayer!
+**Variable difficulty!** Early progression can be easy, while later hunts significantly up the challenge. Optional content in many games will truly test your skill, but if you need help, build your armor defensively or play in multiplayer!
 
 ## How to Use This Guide
 
@@ -132,11 +132,11 @@ Fundamentally, your dealt damage looks like this:
 
 ### Player Raw
 
-This is what is listed as "Attack" under your status page, and it's mostly influenced by preparation outside the hunt. Build better gear to raise this!
+This is what is listed as "Attack" under your status page. Build better gear to raise this!
 
 Your weapon itself makes up most of your raw. Higher number = more damage! Other considerations such as Sharpness or ammo capacities are important too, so try to find a balance.
 
-Affinity is your critical hit chance. A crit (bright red flash) will deal 25% more damage, while a negative crit (dark red flash) will deal 25% less.
+Affinity is your critical hit chance. A crit (bright red flash) will deal 25% more raw damage, while a negative crit (dark red flash) will deal 25% less.
 
 Explosions (such as Gunlance shells or Charge Blade phials) and some other attacks (such as bowgun elemental shots) cannot crit or negative crit, but most attacks can. 
 
@@ -164,17 +164,19 @@ Different ammo types have different crit distances. Pierce's crit distance is fu
 
 ### Motion Values
 
-Motion values (MVs) are what makes attacks weak or strong. Weak moves like Longsword's poke have low motion values, while strong ones like the Greatsword's level 3 charge slash have high motion values. Gunners have motion values tied to their shot types.
+Motion values (MVs) are what make attacks weak or strong. Weak moves like Longsword's poke have low motion values, while strong ones like the Greatsword's level 3 charge slash have high motion values. Gunners have motion values tied to their shot types.
 
-MVs are notated as percentages without the % sign. Often you can guess the approximate value for a move after some time playing, but look them up if you are unsure! It may change what moves you prioritize.
+Often you can guess the approximate value for a move after some time playing, but look them up if you are unsure! It may change what moves you prioritize.
 
 ### Hitzones
 
 Hitzones are what makes monster parts hard or soft. Soft parts like Rathian's head have high hitzones, while hard parts like Rathian's back have low hitzones. The higher the hitzone, the more damage you deal!
 
-Like motion values, hitzones are notated as percentages without the % sign. You can tell how high a hitzone is in-game by the size of the blood splatter when you hit it. Gunners may have trouble seeing hitzones in-game, so looking them up is recommended.
+Monster parts have different hitzones for each of the three types of raw damage (cutting, impact, and shot).
 
-For Blademaster, hitting particularly hard parts will cause you to bounce. Bouncing locks you into a dangerously long animation and doubles the hit's Sharpness usage, so try to avoid it. Higher Sharpness levels will make it harder to bounce.
+You can tell how high a hitzone is in-game by the size of the blood splatter when you hit it. Gunners may have trouble seeing hitzones in-game, so looking them up is recommended.
+
+For Blademasters, hitting particularly hard parts will cause you to bounce. Bouncing locks you into a dangerously long animation and doubles the hit's Sharpness usage, so try to avoid it. Higher Sharpness levels will make it harder to bounce.
 
 Some moves cannot bounce, but you will still get the double Sharpness loss, and your damage will be low because of the bad hitzone. Unless you are trying to break a specific part, you are better off hitting the good hitzones.
 
@@ -306,26 +308,23 @@ An opening is a time when you can attack without fear of retaliation. Some may b
 
 ### Commitment
 
-(rewrite this)
-In Monster Hunter, every action prevents you from doing other actions for a certain amount of time. This property is called commitment; slow attacks commit you more, while fast attacks commit you less. Using items such as potions also involves commitment.
+In Monster Hunter, almost every action "commits" you  by preventing you from doing other actions for a certain amount of time. The longer the animation, the greater the commitment.
 
 Try to use your openings to their fullest, but don't overcommit! On short openings, such as a monster's small recovery period after attacking, get a quick hit in. On long openings, such as a trip, unleash your big damage-dealing moves!
 
-> Example: Dual Blades vs. Rathian. The Dual Blades' Demon Dance is a very powerful attack, but it also takes a long time to execute. Using the Demon Dance on smaller openings, such as when Rathian lands after a flip, is dangerous. Instead, use those times to deal small hits to the legs. Then, when she trips, rush to the head and Dance away! 
+> Example: Dual Blades vs. Rathian. The Dual Blades' Demon Dance is a powerful attack, but it takes a long time to execute. Using the Demon Dance on smaller openings, like when Rathian lands after a flip, is dangerous. Instead, deal small hits to her legs. Then, when she trips, rush to the head and Dance away! 
 
 ### Positioning
 
-Positioning describes where you are relative to the monster. There are two components of this: distance and orientation.
+Positioning describes where you are relative to the monster. It's advantageous to stay close to some monsters, and further away from others. Gunners should pay special attention: Critical Distance ties your damage directly to your distance from the monster!
 
-Being closer to some monsters is advantageous, while others work better further away. Gunners should pay special attention to this: the Critical Distance mechanic ties your damage directly to your distance from the monster!
+> Example: Any Weapon vs. Rathian. Being far away from Rathian is dangerous, as her triple fireball spreads out over distance. Staying close to her helps, but not too close! Her legs can trample you as she moves, and her horizontal tailspin covers a wide range. Experiment and find the optimal distance!
 
-> Example: Any Weapon vs. Rathian. Being far away from Rathian can be dangerous, as her triple fireball spreads out over distance. Staying close to her can avoid this, but not too close! If you are right next to her, her legs will trample you as she moves and her horizontal tailspin will be difficult to escape. Experiment and find the optimal distance!
-
-Orientation is the angle you're at relative to the monster, such as in front, to the left/right side, or behind. Certain moves are much easier to dodge when standing to the side, while others are more difficult.
+Your orientation to the monster is also important. Certain moves are much easier to dodge when standing to the side, while others are more difficult.
 
 > Example: Any Weapon vs. Rathian. Rathian's charge can be very difficult to avoid when both in front and close to her. Staying to the side makes it much easier to dodge. Don't wait for her to start the charge: move there in advance!
 
-Some monsters have moves that are only dangerous on one side, so favoring that side can greatly help you.
+Some monsters have moves that are very dangerous on one side, but easily dodgeable on the other, so favoring the latter side for most of the fight can greatly help you.
 
 > Example: Any Weapon vs. Rajang. Rajang's zigzag hops start with a hop to the right, so always circle him to your left when close!
 
@@ -339,9 +338,9 @@ Immediately after an attack, you can only roll in 3 directions: straight forward
 
 > Example: Any Weapon vs. Khezu. Khezu's electric zap can be impossible to escape from if you are too close! Choose your attacks carefully. Once you gain more experience techniques like [Angling Strikes](#angling-strikes) can enable more aggressive play. 
 
-Some weapons have sidesteps instead of rolls. These move you a shorter distance, but can be chained together. Lance can also sidestep backwards after attacks!
+Some weapons have sidesteps instead of rolls. These move you a shorter distance, but can be chained together. Lance can also sidestep backwards!
 
-A few attacks, such as the Longsword's Fade Slash, are "evasive" because they move you significantly. Use these to get into position while dealing damage!
+A few attacks, such as the Longsword's Fade Slash, are "evasive" because they move you around. Use these to get into position while dealing damage!
 
 Evading while sprinting away from the monster will do a special move called a superman dive. This makes you invincible for a long time, but won't let you counterattack. Useful for emergencies.
 
@@ -367,7 +366,7 @@ Caused by certain monster attacks, these three effects deal no damage but will m
 
 Avoiding the hitbox of the roar, wind, or tremor will also avoid the corresponding effect, so you can either move out of their range or use [Invincibility Frames](#invincibility-frames). 
 
-> Example: Any Weapon vs. Nargacuga. Nargacuga can hit you while you are stunned from its roar! How rude. To avoid this, simply walk away from it as it gets ready to roar. The roar's hitbox is very short-range, so you won't be stunned.
+> Example: Any Weapon vs. Nargacuga. Nargacuga can hit you while you are stunned from its roar! How rude. To avoid this, simply walk away as it gets ready to roar. The roar's hitbox is very short-range, so you won't be stunned.
 
 Many weapons have attacks that can resist weak wind pressure. Use this to get extra hits in and close distance.
 
@@ -395,11 +394,11 @@ The less you get hit, the less you have to worry about any of these! Of course, 
 
 ### Invincibility Frames
 
-Invincibility Frames/iframes, or moments of invincibility/MOI in older sources, are periods of time where you cannot be hit by any attack. By default, the basic roll has 0.2 seconds of iframes (6 frames @ 30fps). 0.2 seconds may seem short, and it is short compared to other games like Dark Souls, but that window can be enough to get you out of a sticky situation.
+Invincibility Frames/iframes, or moments of invincibility/MOI in older sources, are periods of time where you cannot be hit by any attack. By default, the basic roll has 0.2 seconds of iframes (6 frames @ 30fps). 0.2 seconds may seem short, and it is compared to other games like Dark Souls, but that window can be enough to get you out of a sticky situation.
 
 Iframes are best used against attacks where the hitbox is small, moves quickly, or lasts for a short amount of time. Right before you are hit, roll *towards* these attacks: rolling towards and through them will move you through the hitbox more quickly than rolling alongside it will.
 
-> Example: Any Weapon vs. Nargacuga. Nargacuga's tail whip is a perfect candidate for iframing: fast-moving, small, and short. Right before you see the tail hit you, roll through it. If done right, you will pass through unscathed! If not, your timing was off, so try again when the chance presents itself. It's better to roll early than to roll late, so keep that in mind if you're having trouble.
+> Example: Any Weapon vs. Nargacuga. Nargacuga's tail whip is a perfect candidate for iframing: fast-moving, small, and short. Right before you see the tail hit you, roll through it. If done right, you will pass through unscathed! If not, your timing was off, so try again when the chance presents itself. It's better to roll early than to roll late.
 
 With enough skill and knowledge, or in desperate circumstances, iframes can also be used to dodge other attacks, but this is difficult and risky. Some attacks cannot be iframed, as they are too large, slow-moving, or lengthy.
 
@@ -417,7 +416,7 @@ Setups are most useful on heavy weapons with powerful attacks, but other weapons
 
 Many monster attacks are more common at certain ranges and positions. If a certain attack is very punishable, staying at that range/position to see it more often (baiting the attack) can be useful.
 
-> Example: Any Weapon vs. Plesioth (2nd gen). Plesioth is an infuriating fight for many, but his AI can be baited to the point of brokenness. Standing in front of Plesioth at a decent distance away will almost always result in the water beam, which can be easily dodged and punished. This strategy will trivialize the fight for ranged weapons, and make things much easier for melee weapons without shields. 
+> Example: Any Weapon vs. Plesioth (2nd gen). Plesioth is an infuriating fight for many, but his AI can be baited to the point of brokenness. Standing in front of Plesioth a decent distance away will almost always result in the water beam, which can be easily dodged and punished. This strategy will trivialize the fight for ranged weapons, and make things much easier for melee weapons without shields. 
 
 ## Advanced Techniques
 
@@ -438,14 +437,14 @@ A sweet spot is a specific position where an attack won't hit you. These are oft
 
 ### Stagger Control
 
-Ever wondered what makes a monster stagger? Each part in a monster has two invisible numbers: stagger buildup and stagger threshold. sDealing damage to a part adds that damage to the part's stagger buildup, and if the buildup
+Each part in a monster has two invisible numbers: stagger buildup and stagger threshold. Dealing damage to a part adds that damage to the part's stagger buildup, and if the buildup
 exceeds the stagger threshold, the monster becomes staggered, and the buildup is reset to 0.
 
-Importantly, the stagger threshold for a part never changes. This means that the same amount of hits from the same attack on the same part will always stagger the monster!
+Importantly, the stagger threshold for a part never changes. This means that the same amount of damage on the same part will always stagger the monster!
 
-From this, the concept of stagger control arises. Figure out how many hits of a certain move on a certain part will cause a stagger. Then, deal just enough hits to that part so that it's buildup is one hit away from reaching the threshold. You now have a guarantee that the next hit to that part will cause a stagger.
+From this, the concept of stagger control arises. Figure out how many hits of certain moves on a certain part will cause a stagger. Then, deal just enough hits to that part so that it's buildup is one hit away from reaching the threshold. You now have a guarantee that the next hit to that part will cause a stagger.
 
-The power of this technique lies in converting unsafe attacks into safe ones. Because your next hit wil stagger, even small openings become opportunities for strong attacks. Don't miss though, or else you might be in for a world of hurt!
+The power of this technique lies in converting unsafe attacks into safe ones. Because your next hit will stagger, even small openings become opportunities for strong attacks. Don't miss though, or else you might be in for a world of hurt!
 
 > Example: Greatsword vs. Tigrex (2nd and 3rd gen). Inexperienced players will have trouble with this monster's unrelenting pace and freight-train charges, but experienced players can use stagger control to great effect.
 
@@ -464,6 +463,6 @@ to face you after every attack, and her head is very weak, so use this to get so
 
 The small opening created by a head turn is great for cashing in your built-up stagger! See the [Stagger Control](#stagger-control) section for more on this.
 
-If the angle the monster has to turn is big enough, it will execute the turn in two parts. By moving against the direction of rotation for the second part, the monster won't be able to switch directions, creating space.
+By moving against the direction of rotation of a head turn, the monster won't be able to follow you as much, creating space.
 
 > Example: Any Weapon vs. Akantor. Akantor's massive body and proclivity for charging makes standing in front of him very hazardous. Move against the second part of his head turn to give yourself some breathing room, especially if you are near a wall!
