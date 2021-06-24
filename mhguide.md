@@ -9,7 +9,7 @@
     - [General Tips](#general-tips)
 - [Basics of Dealing Damage](#basics-of-dealing-damage)
     - [Raw Damage](#raw-damage)
-        - [Player Raw](#player-raw)
+        - [Player Raw and Critical Hits](#player-raw-and-critical-hits)
         - [Sharpness](#sharpness)
         - [Critical Distance](#critical-distance)
         - [Motion Values](#motion-values)
@@ -59,9 +59,14 @@ My hope is that this guide will make it easier for players to dive into this won
 
 **This is a guide to the mechanics of the Monster Hunter series.** MH's mechanics are deep and multi-faceted, but not always clear. Particular attention will be given to the fundamentals of combat. Other aspects of the series, such as lore or detailed builds, are well-covered already across the Internet.
 
-**This guide is focused on generalities, not specifics.** Armor sets, monster tutorials, and game-specific mechanics such as underwater combat or hunting styles/arts won't be included. The idea is to give you the skills needed to figure things out on your own, or at least to know what to Google. However, examples of specific situations will be used to illustrate general concepts.
+**This guide is focused on generalities, not specifics.** Armor sets, monster tutorials, and game-specific mechanics such as underwater combat or hunting styles/arts won't be included. The idea is to help you figure things out on your own, or at least know what to Google. However, examples of specific situations will be used to illustrate general concepts.
 
-**This guide is targeted towards late 2nd-4th gen games.** This means **Freedom Unite, Portable 3rd, 3 Ultimate, 4 Ultimate, and Generations Ultimate**. The 5th generation games (World and Rise) changed many core mechanics of the series, so they won't be covered here. If you are playing MH2 or earlier, you probably know what you are doing, and don't need this guide.  
+**This guide is targeted towards late 2nd-4th gen games.** This means:
+* the 2nd gen game Freedom Unite.
+* the 3rd gen games Portable 3rd and 3 Ultimate.
+* the 4th gen games 4 Ultimate and Generations Ultimate.
+
+ The 5th generation games (World and Rise) changed many core mechanics of the series, so they won't be covered here. If you are playing MH2 or earlier, you probably know what you are doing, and don't need this guide.  
 
 ## Why Play Monster Hunter?
 
@@ -103,7 +108,7 @@ MH games are unconnected in story (and don't really have much story anyway), **s
 
 For players completely new to MH, I recommend starting with **Portable 3rd.** It's on the easier side and can be emulated by even weak PCs. The game was only released in Japan, but there is an English patch.
 
-**If you have someone to explain things, or want to play a certain game, then you can start with any MH!** In addition to this guide, there are many resources available that can help you get started.
+**If you have someone to explain things, or want to play a certain game, then you can start with any MH!** In addition to this guide, there are many resources available online to help you get started.
 
 ## General Tips
 
@@ -120,7 +125,7 @@ For players completely new to MH, I recommend starting with **Portable 3rd.** It
 
 # Basics of Dealing Damage
 
-This section will tell you what you need to focus on to deal good damage, without getting into the nitty-gritty details of the full damage formula itself.
+This section will tell you how to deal good damage, without getting into the nitty-gritty of the full formula itself.
 
 Fundamentally, your dealt damage looks like this:
 
@@ -130,9 +135,9 @@ Fundamentally, your dealt damage looks like this:
 
 > Raw Damage = Player Raw * Sharpness (Blademasters only) * Critical Distance (Gunners only) * Motion Value * Hitzone
 
-### Player Raw
+### Player Raw and Critical Hits
 
-This is what is listed as "Attack" under your status page. Build better gear to raise this!
+Your raw is listed as "Attack" under your status page. Build better gear to raise this!
 
 Your weapon itself makes up most of your raw. Higher number = more damage! Other considerations such as Sharpness or ammo capacities are important too, so try to find a balance.
 
@@ -140,7 +145,7 @@ Affinity is your critical hit chance. A crit (bright red flash) will deal 25% mo
 
 Explosions (such as Gunlance shells or Charge Blade phials) and some other attacks (such as bowgun elemental shots) cannot crit or negative crit, but most attacks can. 
 
-Many armor skills will also increase your raw, such as Attack Up. See [Offensive Skills](#offensive-skills) for more.
+Many armor skills will increase your raw and/or Affinity, such as Attack Up or Critical Eye. See [Offensive Skills](#offensive-skills) for more.
 
 If you are playing FU, 3U, or 4U, **do not compare damage numbers between weapon types!** The reason is dumb and annoying. Players of P3rd and GU do not have to worry about this. 
 
@@ -148,9 +153,9 @@ If you are playing FU, 3U, or 4U, **do not compare damage numbers between weapon
 
 Sharpness is a mechanic **for Blademasters only**. Hitting the monster will temporarily lower your Sharpness, and using a Whetstone will restore it.
 
-Higher Sharpness levels will raise your damage! This can be substantial, so don't overlook this, and try to keep your weapon sharpened.
+Higher Sharpness levels will raise your damage! This is substantial, so try to keep your weapon sharpened.
 
-Additionally, hitting hard monster parts and/or being on a low Sharpness level can cause you to bounce. See [Hitzones](#hitzones) for more on this.
+Additionally, hitting hard monster parts and/or being on a low Sharpness level can cause you to bounce. See [Hitzones](#hitzones) for more.
 
 Being at Yellow Sharpness or below will penalize attacks that hit at the beginning or end of their animation. This is extremely annoying to play around, so stay above Yellow Sharpness if at all possible!
 
@@ -160,7 +165,7 @@ Critical Distance (unrelated to critical hits) is a mechanic **for Gunners only*
 
 Being too close or too far away will hurt your damage, while being just close enough will raise it. You can tell if you are in proper crit distance range by watching the yellow hit sparks. Bigger = better!
 
-Different ammo types have different crit distances. Pierce's crit distance is further away than Normal's, so watch your positioning! Some shots, such as elemental shots, do not use crit distance, but most common ammo does.
+Different ammo types have different crit distances. Pierce's crit distance is further away than Normal's, so watch your positioning! Some shots, such as elemental shots, don't use crit distance, but most common ammo does.
 
 ### Motion Values
 
@@ -174,7 +179,7 @@ Hitzones are what makes monster parts hard or soft. Soft parts like Rathian's he
 
 Monster parts have different hitzones for each of the three types of raw damage (cutting, impact, and shot).
 
-You can tell how high a hitzone is in-game by the size of the blood splatter when you hit it. Gunners may have trouble seeing hitzones in-game, so looking them up is recommended.
+You can tell how high a hitzone is in-game from the size of the blood splatter when you hit it. Gunners may have trouble seeing hitzones in-game, so looking them up is recommended.
 
 For Blademasters, hitting particularly hard parts will cause you to bounce. Bouncing locks you into a dangerously long animation and doubles the hit's Sharpness usage, so try to avoid it. Higher Sharpness levels will make it harder to bounce.
 
@@ -192,7 +197,7 @@ Slow weapons like Greatsword and Hammer deal low elemental damage, so they can m
 
 ### Player Element
 
-Like Player Damage, this will come from your weapon and armor skills. Skills such as Element Attack Up or \[specific element\] Attack +1/+2/+3 will boost your element.
+Like your raw, this will come from your weapon and armor skills. Skills such as Element Attack Up or \[specific element\] Attack +1/+2/+3 will boost your element.
 
 For Blademasters, higher Sharpness levels boosts your element.
 
@@ -206,7 +211,7 @@ Bad raw hitzones are often good elemental hitzones, while good raw hitzones can 
 
 Unlike raw damage, most monsters are particularly weak to a certain element. Usually, you can either guess what the monster's weakness would be (such as Rathalos and water), or look at the resistances on the monster's armor.
 
-Unfortunately, beyond these generalizations, elemental hitzones are very difficult to guess in-game, so looking them up is highly recommended.
+Unfortunately, beyond these generalizations, elemental hitzones are difficult to guess in-game, so looking them up is highly recommended.
 
 # Basics of Armor and Skills
 
@@ -218,7 +223,9 @@ Some skills (like Attack) give additional benefits from having 15 or 20 points.
 
 Having -10 points in a skill will give the negative version of that skill. Some of these aren't so bad, while others are very dangerous!
 
-A few armor pieces have Torso Up. Having 1 Torso Up piece doubles your torso's skill points (including Decorations), having 2 triples them, and so on. Useful for saving on monster materials. 
+A few armor pieces have Torso Up. Having 1 Torso Up piece doubles your torso's skill points (including Decorations), having 2 triples them, and so on.
+
+In 3rd and 4th gen, your charm also gives you points in up to 2 skills. The skills and amount of points are randomly generated. **Don't spend a long time farming for charms, it's boring and you don't need it unless you are speedrunning.**
 
 ## Slots and Decorations
 
@@ -228,29 +235,33 @@ Decorations are an additional source of skill points. Each one takes from 1 to 3
 
 ## Brief Skill Overview
 
+There are a ton of skills to play around with! Some are good, some bad, and some are useful in certain situations. If a skill isn't listed here, that doesn't mean it's not worth using. Read up on what it does, or try it and see!
+
 ### Offensive Skills
 
 In general, **damage skills are always good!** They are useful in any situation and speed up hunts, which gives you less time to make mistakes.
 
-Skills that add to your damage are more useful the earlier in the game you are. Getting Attack Up (Large) in the early quests can dramatically speed up quests!
+Skills that add to your damage are more useful the earlier in the game you are. Getting Attack Up (Large) in Low Rank can dramatically speed up quests!
 
-Skills that multiply your damage, such as Affinity-boosting skills like Critical Eye or Challenger, are better later in the game.
+Skills that multiply your damage, such as Affinity-boosting skills like Critical Eye or Challenger, are better later in the game. Critical Boost can add to this by making your crits do more damage.
 
-For Blademasters, the Sharpness skills are great. Razor Sharp will halve your Sharpness usage, Sharpness+1 will raise most weapons' maximum Sharpness level, and Speed Sharpening makes Whetstone usage much faster. All weapon types are benefitted by Sharpness+1, while the other two skills are more useful on fast weapons.
+For Blademasters, the Sharpness skills are great. Razor Sharp will halve your Sharpness usage, Sharpness+1 will raise most weapons' maximum Sharpness level, and Speed Sharpening speeds up Whetstone usage. All weapon types are benefitted by Sharpness+1, while the other two skills are more useful on weapons that consume Sharpness quickly.
 
 For weapons using explosions, such as Gunlance or Charge Blade, Artillery will provide a large damage boost to said explosions!
 
-Weapons with strong elemental potential, such as Sword and Shield or Dual Blades, should be on the lookout for the element-boosting skills Element Attack Up and \[specific element\] Attack +1/+2/+3.
+Weapons with strong elemental potential, such as Sword and Shield or Dual Blades, should be on the lookout for the element-boosting skills Element Attack Up and \[specific element\] Attack.
+
+Weakness Exploit activates when hitting weak hitzones. In games before GU, it simply makes the hitzone slightly better, but in GU, it gives you 50% more affinity! A very powerful skill.
 
 ### Defensive Skills
 
 **Most skills that give Defense are very bad!** Defense Up will not help you very much. If you need more Defense, consider upgrading your armor or using armor with a higher base defense.
 
-Health Up is good, but only in the early game, before your food fully maximizes your health. 
+Health Up is good, but only in the early game, before your food fully maximizes your health. If you already have 150 HP, Health Up won't have any effect.
 
 The Earplugs, Wind Resistance, and Tremor Resistance skills both make dealing with certain attacks easier and create additional openings. Of the three, Earplugs is the most generally useful, but the other two can be very effective against specific monsters. See [Roars, Wind Pressure, and Tremors](#roars-wind-pressure-and-tremors) for more.
 
-The guarding skills are vital for weapons that rely on their shields. Guard +1/+2 reduces the stamina usage and knockback from blocking attacks, and Guard Up makes previously unblockable attacks like beams and gas blockable. 
+The guarding skills are vital for weapons that rely on their shields. Guard reduces the stamina usage and knockback from blocking attacks, and Guard Up makes previously unblockable attacks like beams and gas blockable. 
 
 The evasion-related skills can be very powerful. Evasion lengthens the time of your evade's invincibility (see [Invincibility Frames](#invincibility-frames) for more). Evade Extender increases the distance your evade covers, which is very useful on low-mobility weapons like HBG.
 
