@@ -82,9 +82,9 @@ For a player interested in action games, and possibly coming from other series l
 
 ## How to Use This Guide
 
-This guide is split into (some number) broad sections.
+This guide is split into a number of broad sections.
 
-[Simple Tips for Starting Out](#simple-tips-for-starting-out) are general tips useful for any new player, and reading them is highly recommended.
+[Simple Tips for Starting Out](#simple-tips-for-starting-out) are general tips useful for any new player, reading them is highly recommended.
 
 [Basics of Dealing Damage](#basics-of-dealing-damage) goes over the ingredients of the damage formula, and how you can influence them in and out of hunts.
 
@@ -93,8 +93,6 @@ This guide is split into (some number) broad sections.
 [Basics of Preparation](#basics-of-preparation) explains how to prepare yourself before each hunt. 
 
 [Hunting Fundamentals](#hunting-fundamentals) is a guide to the fundamental aspects and techniques of the MH combat system. 
-
-other sections
 
 # Simple Tips for Starting Out
 
@@ -133,7 +131,7 @@ Fundamentally, your dealt damage looks like this:
 
 ## Raw Damage
 
-> Raw Damage = Player Raw * Sharpness (Blademasters only) * Critical Distance (Gunners only) * Motion Value * Hitzone
+> Raw Damage = Player Raw * Crit Modifier (if you crit) * Sharpness (Blademasters only) * Critical Distance (Gunners only) * Motion Value * Hitzone
 
 ### Player Raw and Critical Hits
 
