@@ -7,6 +7,8 @@
 - [Simple Tips for Starting Out](#simple-tips-for-starting-out)
     - [What Game Do I Start With?](#what-game-do-i-start-with)
     - [General Tips](#general-tips)
+    - [How to Approach Underwater in 3 Ultimate](#how-to-approach-underwater-in-3-ultimate)
+    - [How to Approach Hunting Styles and Arts in Generations Ultimate](#how-to-approach-hunting-styles-and-arts-in-generations-ultimate)
 - [Basics of Dealing Damage](#basics-of-dealing-damage)
     - [Raw Damage](#raw-damage)
         - [Player Raw and Critical Hits](#player-raw-and-critical-hits)
@@ -120,6 +122,48 @@ For players completely new to MH, I recommend starting with **Portable 3rd.** It
 * **FU, P3rd, 3U: Kill small monsters before focusing on the large one!** Small monsters will annoy you, interrupt your attacks, and cause you to get hit by large monsters! Killing them solves this, usually they have low HP and will die in a few attacks.
 * **P3rd, 3U, 4U, GU: Bring Dung Bombs to quests with multiple large monsters!** Hitting a monster with a Dung Bomb causes it to move zones after a bit. Fighting multiple monsters at once is difficult and inconsistent, so avoid it when possible. 
 * **Emulators: Use speedup if it's available!** Some quests (such as gathering, small monster killing, and sieges) are boring and can take a bit. Speedup will save time and make the game more enjoyable. **Don't use this in multiplayer without other players' consent!** 
+
+## How to Approach Underwater in 3 Ultimate
+
+Monster Hunter 3 Ultimate is unique in that some fights take place underwater. Most fights take place on land, but for water-dwelling monsters like Lagiacrus you'll need to dive in after them.
+
+Here are some tips to help you adapt to (or at least tolerate) combat beneath the waves.
+
+* **Many weapons play differently underwater!** If you don't like how your weapon's moveset changes, try picking up a secondary weapon for water fights, or switch to a primary weapon that plays similarly for both types, such as Dual Blades or Gunlance.
+
+* **Shields are very useful!** You are slow and monsters' attacks are big and fast. Blocking is usually much easier than evading.
+
+* **Use vertical movement to your advantage!** Evading up or down will dodge many moves. Push forward or backwards on the left stick while dodging to go up or down.
+
+## How to Approach Hunting Styles and Arts in Generations Ultimate
+
+Generations Ultimate is unique in that each weapon has 6 styles and a bunch of arts to choose from. Styles change a weapon's core moveset, while Arts are special moves that recharge by hitting monsters.
+
+**For the vast majority of the game, Styles and Arts are completely optional!** Only for the toughest of optional content are they needed for most players.
+
+While all Styles and Arts can be used skillfully (as watching speedruns will attest to), **some Styles and Arts can subvert the core mechanics of the game,** especially in the hands of new players.
+
+Absolute Evasion/Readiness and many weapons' Adept and Valor styles are big examples. These either serve as repeatable get-out-of-jail-free cards, or significantly diminish elements of the combat.
+
+**If you are starting the series with GU, I recommend avoiding these Styles and Arts!** They are not representative of the series, and can become dangerous crutches that inhibit your growth as a hunter.
+
+TODO add arts to avoid
+
+| Weapon | Recommended Style |
+|--------| ----- |
+| Greatsword | Guild |
+| Hammer | Guild |
+| Hunting Horn | Guild |
+| Sword and Shield | Guild |
+| Dual Blades | Guild |
+| Long Sword | Guild |
+| Lance | Striker |
+| Gunlance | Guild |
+| Insect Glaive | Guild |
+| Charge Blade | Striker |
+| Bow | Guild |
+| Light Bowgun | Guild |
+| Heavy Bowgun | Guild |
 
 # Basics of Dealing Damage
 
