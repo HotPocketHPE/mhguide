@@ -3,7 +3,6 @@
 - [Introduction](#introduction)
     - [What is This Guide?](#what-is-this-guide)
     - [Why Play Monster Hunter?](#why-play-monster-hunter)
-    - [How to Use This Guide](#how-to-use-this-guide)
 - [Simple Tips for Starting Out](#simple-tips-for-starting-out)
     - [What Game Do I Start With?](#what-game-do-i-start-with)
     - [General Tips](#general-tips)
@@ -72,7 +71,7 @@ My hope is that this guide will make it easier for players to dive into this won
 
 ## Why Play Monster Hunter?
 
-For a player interested in action games, and possibly coming from other series like Devil May Cry, God of War, Ninja Gaiden, or Dark Souls, there are many aspects of MH that are familiar, and others that set Monster Hunter apart.
+For a player interested in action games, and possibly coming from other series like Devil May Cry, Ninja Gaiden, or Dark Souls, there are many aspects of MH that are familiar, and others that set Monster Hunter apart.
 
 **Only boss fights!** Monster Hunter is almost entirely focused on what would be infrequent "boss fights" in other games! This means that MH has some of the best one-on-one encounters in gaming.
 
@@ -80,21 +79,7 @@ For a player interested in action games, and possibly coming from other series l
 
 **Focus on efficiency.** Stylish moments are possible, but they take the backseat in MH: the focus is on playing quick and clean.
 
-**Variable difficulty!** Early progression can be easy, while later hunts significantly up the challenge. Optional content in many games will truly test your skill, but if you need help, build your armor defensively or play in multiplayer!
-
-## How to Use This Guide
-
-This guide is split into a number of broad sections.
-
-[Simple Tips for Starting Out](#simple-tips-for-starting-out) are general tips useful for any new player, reading them is highly recommended.
-
-[Basics of Dealing Damage](#basics-of-dealing-damage) goes over the ingredients of the damage formula, and how you can influence them in and out of hunts.
-
-[Basics of Armor and Skills](#basics-of-armor-and-skills) is a quick rundown on what to look for when building an armor set.
-
-[Basics of Preparation](#basics-of-preparation) explains how to prepare yourself before each hunt. 
-
-[Hunting Fundamentals](#hunting-fundamentals) is a guide to the fundamental aspects and techniques of the MH combat system. 
+**Variable difficulty!** Early progression can be easy, while later hunts significantly up the challenge. Optional content in many games will truly test your skill, but if you need help, build your armor defensively or play in multiplayer! 
 
 # Simple Tips for Starting Out
 
@@ -251,7 +236,7 @@ Bowguns do not have intrinsic element! Instead, some bowguns shoot elemental sho
 
 ### Elemental Hitzones
 
-This also works similarly to raw hitzones, with a few differences.
+This works similarly to raw hitzones, with a few differences.
 
 Bad raw hitzones are often good elemental hitzones, while good raw hitzones can be either good or bad elemental hitzones, depending on the monster. If you need to break a hard part, element can be very effective.
 
@@ -301,8 +286,6 @@ Weakness Exploit activates when hitting weak hitzones. In games before GU, it si
 
 ### Defensive Skills
 
-**Most skills that give Defense are very bad!** Defense Up will not help you very much. If you need more Defense, consider upgrading your armor or using armor with a higher base defense.
-
 Health Up is good, but only in the early game, before your food fully maximizes your health. If you already have 150 HP, Health Up won't have any effect.
 
 The Earplugs, Wind Resistance, and Tremor Resistance skills both make dealing with certain attacks easier and create additional openings. Of the three, Earplugs is the most generally useful, but the other two can be very effective against specific monsters. See [Roars, Wind Pressure, and Tremors](#roars-wind-pressure-and-tremors) for more.
@@ -333,7 +316,7 @@ Throwing a Flash Bomb in front of a monster will blind it, causing it to sit the
 
 Flying monsters can be brought back to earth with a Flash Bomb thrown in front of them. **Many flying monsters in later games, such as Rathalos, are very annoying to fight without Flash Bombs!**
 
-Sonic Bombs stun some monsters in certain situations, but usually don't work if the monster is enraged. The most notable uses are forcing Diablos or Cephadrome out of the ground, and forcing Plesioth out of the water. There are many more uses for Sonic Bombs, so if the item box gives you some for a monster, experiment! (or use the Internet)
+Sonic Bombs stun some monsters in certain situations, but usually don't work if the monster is enraged. The most notable uses are **forcing Diablos or Cephadrome out of the ground, and forcing Plesioth out of the water.** There are many more uses for Sonic Bombs, so if the item box gives you some for a monster, experiment! (or use the Internet)
 
 ## Monster and Weapon Matchups
 
@@ -344,8 +327,6 @@ Some monsters are particularly easy or difficult to fight with a certain weapon 
 > Example: Ranged Weapons vs. Tigrex. Tigrex is relentlessly aggressive and charges constantly, so escaping him while staying in Critical Distance can be extremely difficult! Melee weapons can naturally stand much closer.
 
 # Hunting Fundamentals
-
-Your performance as a hunter rests on these skills. Know them well!
 
 ## The Essence of Combat
 
@@ -359,7 +340,7 @@ Recklessness is a death sentence, as almost everything you do **cannot be cancel
 
 ### Openings
 
-An opening is a time when you can attack without fear of retaliation. Some may be short, others long. Many monster moves can be openings, either because you are safe from the attack in a certain area, or from the monster's recovering afterwards.
+An opening is a time when you can attack without fear of retaliation. Some may be short, others long. Many monster moves can be openings, either because you are safe from the attack in a certain area, or from the monster's recovery afterwards.
 
 > Example: Any Weapon vs. Rathian. Rathian's triple fireball can be dangerous at range, but if you are standing to her side, the weak head becomes open for the whole duration. Don't get too close and eat a fireball on accident!
 
@@ -373,7 +354,7 @@ Try to use your openings to their fullest, but don't overcommit! On short openin
 
 ### Positioning
 
-Positioning describes where you are relative to the monster. It's advantageous to stay close to some monsters, and further away from others. Gunners should pay special attention: Critical Distance ties your damage directly to your distance from the monster!
+Positioning yourself smartly relative to the monster is crucial! It's advantageous to stay close to some monsters, and further away from others. Gunners should pay special attention: Critical Distance ties your damage directly to your distance from the monster!
 
 > Example: Any Weapon vs. Rathian. Being far away from Rathian is dangerous, as her triple fireball spreads out over distance. Staying close to her helps, but not too close! Her legs can trample you as she moves, and her horizontal tailspin covers a wide range. Experiment and find the optimal distance!
 
@@ -424,6 +405,8 @@ Caused by certain monster attacks, these three effects deal no damage but will m
 Avoiding the hitbox of the roar, wind, or tremor will also avoid the corresponding effect, so you can either move out of their range or use [Invincibility Frames](#invincibility-frames). 
 
 > Example: Any Weapon vs. Nargacuga. Nargacuga can hit you while you are stunned from its roar! How rude. To avoid this, simply walk away as it gets ready to roar. The roar's hitbox is very short-range, so you won't be stunned.
+
+> Example: Any Weapon vs. Blangonga. Blangonga's body slam creates a tremor around it, stunning you for the rest of the move. However, if you roll right before the tremor starts, you will be unaffected and can get a free hit in!  
 
 Many weapons have attacks that can resist weak wind pressure. Use this to get extra hits in and close distance.
 
@@ -520,6 +503,11 @@ to face you after every attack, and her head is very weak, so use this to get so
 
 The small opening created by a head turn is great for cashing in your built-up stagger! See the [Stagger Control](#stagger-control) section for more on this.
 
+Be very careful when committing to an attack while right in front of the monster! Some monsters can act immediately if they don't have to turn their head to see you!
+
+> Example: Any Weapon vs. Yian Garuga. Garuga's hopping when entering rage is a tempting opening, but use caution! If you are standing right in front of it as the hopping finishes, it can instantly charge you down! End your attacks early, stay away from it's front, or interrupt it with a stagger.
+
 By moving against the direction of rotation of a head turn, the monster won't be able to follow you as much, creating space.
 
 > Example: Any Weapon vs. Akantor. Akantor's massive body and proclivity for charging makes standing in front of him very hazardous. Move against the second part of his head turn to give yourself some breathing room, especially if you are near a wall!
+
