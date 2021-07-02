@@ -61,7 +61,7 @@ My hope is that this guide will make it easier for players to dive into this won
 
 **This is a guide to the mechanics of the Monster Hunter series.** MH's mechanics are deep and multi-faceted, but not always clear. Particular attention will be given to the fundamentals of combat. Other aspects of the series, such as lore or detailed builds, are well-covered already across the Internet.
 
-**This guide is focused on generalities, not specifics.** Armor sets, monster tutorials, and game-specific mechanics such as underwater combat or hunting styles/arts won't be included. The idea is to help you figure things out on your own, or at least know what to Google. However, examples of specific situations will be used to illustrate general concepts.
+**This guide is focused on generalities, not specifics.** Armor sets, monster tutorials, etc. won't be included. The idea is to help you figure things out on your own, or at least know what to Google. However, examples of specific situations will be used to illustrate general concepts.
 
 **This guide is targeted towards late 2nd-4th gen games.** This means:
 * the 2nd gen game Freedom Unite.
@@ -114,7 +114,7 @@ For players completely new to MH, I recommend starting with **Portable 3rd.** It
 
 * **Blademasters: Prioritize getting green sharpness!** Yellow sharpness, what most early weapons start with, will make you bounce a lot and lower your damage. See [Sharpness](#sharpness) and [Hitzones](#hitzones) for detailed info.
 * **Start with the village quests!** They are scaled for singleplayer and are good for starting out. Other quests (called hub quests) are still soloable, but new players may have difficulty. Progressing in village quests often unlocks useful things like farm upgrades.
-* **Look up the key quests online!** Only certain quests (key quests) are required to progress in the game. Feel free to do as many quests as you want, but you will likely want to skip the boring gathering quests that appear early on.
+* **Look up the key quests online!** Only certain quests (key quests) are required to progress in the game. Feel free to do as many quests as you want, but you'll likely want to skip the boring gathering quests that appear early on.
 * **Use the farm!** It helps you get common items, which saves a lot of hassle. In some games you need to spend points to upgrade your farm, prioritize this.
 * **4U, GU: Use item sets!** Simply add the items you commonly use to your pouch and register a set. Selecting it will pull items from your box to match that set as closely as possible.
 * **FU, 3U, 4U: Do not compare damage numbers between weapon types!** The reason is complicated and annoying. In P3rd and GU, feel free to do this.
@@ -137,17 +137,13 @@ Here are some tips to help you adapt to (or at least tolerate) combat beneath th
 
 ## How to Approach Hunting Styles and Arts in Generations Ultimate
 
-Generations Ultimate is unique in that each weapon has 6 styles and a bunch of arts to choose from. Styles change a weapon's core moveset, while Arts are special moves that recharge by hitting monsters.
+Generations Ultimate is the only game to feature the Styles and Arts system. Styles change the core moveset of a weapon, and can add or alter game mechanics. Arts are special attacks that recharge by hitting monsters. 
 
-**For the vast majority of the game, Styles and Arts are completely optional!** Only for the toughest of optional content are they needed for most players.
+Styles and Arts are a fun way for experienced players to view a familiar weapon in a new light! However, they can confuse new players, and at worst, become crutches that distract one from learning key combat fundamentals.
 
-While all Styles and Arts can be used skillfully (as watching speedruns will attest to), **some Styles and Arts can subvert the core mechanics of the game,** especially in the hands of new players.
+Aerial, Adept, and Valor Styles in particular play quite differently to other MH games. **If you use one of these Styles, then be aware that you're getting a different experience from every previous game!**
 
-Absolute Evasion/Readiness and many weapons' Adept and Valor styles are big examples. These either serve as repeatable get-out-of-jail-free cards, or significantly diminish elements of the combat.
-
-**If you are starting the series with GU, I recommend avoiding these Styles and Arts!** They are not representative of the series, and can become dangerous crutches that inhibit your growth as a hunter.
-
-TODO add arts to avoid
+**If you are new to the series, or are looking for a similar experience to the previous games,** I recommend using these Styles. They are closest to the "default" playstyle for each weapon, and focus on core mechanics.
 
 | Weapon | Recommended Style |
 |--------| ----- |
@@ -164,6 +160,14 @@ TODO add arts to avoid
 | Bow | Guild |
 | Light Bowgun | Guild |
 | Heavy Bowgun | Guild |
+
+In addition, I recommend avoiding these Arts, as they are often used as repeatable get-out-of-jail-free cards that diminish the importance of positioning and commitment.
+
+* Absolute Evasion
+* Absolute Readiness
+* Round Force
+
+That being said, all Styles and Arts can be used skillfully! Watching speedruns will confirm this. **As long as you're aware that you're not getting the traditional MH experience, then use whatever you want!**
 
 # Basics of Dealing Damage
 
