@@ -11,6 +11,7 @@
 - [Basics of Dealing Damage](#basics-of-dealing-damage)
     - [Raw Damage](#raw-damage)
         - [Player Raw and Critical Hits](#player-raw-and-critical-hits)
+        - [Display Raw](#display-raw)
         - [Sharpness](#sharpness)
         - [Critical Distance](#critical-distance)
         - [Motion Values](#motion-values)
@@ -38,6 +39,7 @@
         - [Guarding](#guarding)
         - [Roars, Wind Pressure, and Tremors](#roars-wind-pressure-and-tremors)
         - [Status Effects](#status-effects)
+        - [Loading Zones](#loading-zones)
     - [Intermediate Techniques](#intermediate-techniques)
         - [Invincibility Frames](#invincibility-frames)
         - [Setups](#setups)
@@ -47,6 +49,7 @@
         - [Sweet Spots](#sweet-spots)
         - [Stagger Control](#stagger-control)
         - [Head Turns](#head-turns)
+- [Conclusion](#conclusion)
 
 <!-- /TOC -->
 
@@ -102,7 +105,7 @@ For players completely new to MH, I recommend starting with **Portable 3rd.** It
 * **Look up the key quests online!** Only certain quests (key quests) are required to progress in the game. Feel free to do as many quests as you want, but you'll likely want to skip the boring gathering quests that appear early on.
 * **Use the farm!** It helps you get common items, which saves a lot of hassle. In some games you need to spend points to upgrade your farm, prioritize this.
 * **4U, GU: Use item sets!** Simply add the items you commonly use to your pouch and register a set. Selecting it will pull items from your box to match that set as closely as possible.
-* **FU, 3U, 4U: Do not compare damage numbers between weapon types!** The reason is complicated and annoying. In P3rd and GU, feel free to do this.
+* **FU, 3U, 4U: Do not compare damage numbers between weapon types!** The reason is complicated and annoying. In P3rd and GU, feel free to do this. See [Display Raw](#display-raw) for more.
 * **Paintball the monster!** Hitting a monster with one marks it on the map for 10 minutes. If it's been close to 10 minutes, throw another to refresh the duration.
 * **FU, P3rd, 3U: Kill small monsters before focusing on the large one!** Small monsters will annoy you, interrupt your attacks, and cause you to get hit by large monsters! Killing them solves this, usually they have low HP and will die in a few attacks.
 * **P3rd, 3U, 4U, GU: Bring Dung Bombs to quests with multiple large monsters!** Hitting a monster with a Dung Bomb causes it to move zones after a bit. Fighting multiple monsters at once is difficult and inconsistent, so avoid it when possible. 
@@ -140,6 +143,7 @@ Aerial, Adept, and Valor Styles in particular play quite differently to other MH
 | Long Sword | Guild |
 | Lance | Striker |
 | Gunlance | Guild |
+| Switch Axe | Guild |
 | Insect Glaive | Guild |
 | Charge Blade | Striker |
 | Bow | Guild |
@@ -178,7 +182,19 @@ Explosions (such as Gunlance shells or Charge Blade phials) and some other attac
 
 Many armor skills will increase your raw and/or Affinity, such as Attack Up or Critical Eye. See [Offensive Skills](#offensive-skills) for more.
 
-If you are playing FU, 3U, or 4U, **do not compare damage numbers between weapon types!** The reason is dumb and annoying. Players of P3rd and GU do not have to worry about this. 
+### Display Raw
+
+This section doesn't apply to P3rd or GU, so players of those games can skip this.
+
+In Monster Hunter, some weapons (such as Greatsword) are slow and deal a lot of damage per hit, while others (such as Dual Blades) are fast but deal less damage per hit.
+
+In an effort to convey this difference to players, the display raw modifier was created. Each weapon type has it's own display raw modifier, with slow weapons having higher numbers than fast weapons. 
+
+The damage you see on your status screen (the display raw) is calculated by multiplying your "true" raw by the display raw modifier. **Display raw modifier doesn't affect damage dealt in any way!** [Motion Values](#motion-values) are why different moves do different amounts of damage.
+
+If you want to know your true raw, look up your weapon type's display raw modifier, and use it to divide what you see on your status screen.
+
+Needless to say, this is extremely stupid and annoying, and since it has no actual effect on damage dealt, the best course of action is to just ignore it until you need to know your exact true raw.
 
 ### Sharpness
 
@@ -224,11 +240,11 @@ Elemental damage works similarly to Raw damage, with one big exception. Elementa
 
 Fast weapons like Sword and Shield and Dual Blades thus excel at dealing elemental damage, so for those weapons, take advantage of elemental weaknesses if you can!
 
-Slow weapons like Greatsword and Hammer deal low elemental damage, so they can mostly ignore it. Medium speed weapons, such as Longsword, can use it if they wish.
+Slow weapons like Greatsword deal low elemental damage, so they can mostly ignore it. Medium speed weapons, such as Longsword, can use it if they wish.
 
 ### Player Element
 
-Like your raw, this will come from your weapon and armor skills. Skills such as Element Attack Up or \[specific element\] Attack +1/+2/+3 will boost your element.
+Like your raw, this will come from your weapon and armor skills. Skills such as Element Attack Up or \[specific element\] Attack will boost your element.
 
 For Blademasters, higher Sharpness levels boosts your element.
 
@@ -282,7 +298,7 @@ For weapons using explosions, such as Gunlance or Charge Blade, Artillery will p
 
 Weapons with strong elemental potential, such as Sword and Shield or Dual Blades, should be on the lookout for the element-boosting skills Element Attack Up and \[specific element\] Attack.
 
-Weakness Exploit activates when hitting weak hitzones. In games before GU, it simply makes the hitzone slightly better, but in GU, it gives you 50% more affinity! A very powerful skill.
+Weakness Exploit activates when hitting weak hitzones. In 3U and 4U, it simply makes the hitzone slightly better, but in P3rd and GU, it gives you 50% more affinity! A very powerful skill.
 
 ### Defensive Skills
 
@@ -430,6 +446,16 @@ Stun is a special status effect that is caused by taking too many hits in a shor
 
 The less you get hit, the less you have to worry about any of these! Of course, this is easier said than done.
 
+### Loading Zones
+
+Loading zones are zones at the edge of an area that, when touched, move you to adjacent areas. Usually these are simply used to traverse the map, but they also affect combat. 
+
+Loading zones can be a powerful escape tool. **Reaching a loading zone means you are completely safe!** If you need to do something that takes a while, like healing a lot or sharpening, then your safest bet is to switch areas.
+
+On the other hand, **avoid fighting monsters near loading zones!** Accidentally touching a loading zone can rob you of openings, and reentering an area can be dangerous if the monster is right at the entrance.
+
+Some maps, such as arenas, don't have loading zones in the main area! Use a Farcaster if you need to escape.
+
 ## Intermediate Techniques
 
 ### Invincibility Frames
@@ -442,7 +468,7 @@ Iframes are best used against attacks where the hitbox is small, moves quickly, 
 
 With enough skill and knowledge, or in desperate circumstances, iframes can also be used to dodge other attacks, but this is difficult and risky. Some attacks cannot be iframed, as they are too large, slow-moving, or lengthy.
 
-> Example: Any Weapon vs. Gravios. Gravios's "fire fart" covers a wide area, stays in one spot, and lasts a long time. This attack is completely impossible to iframe, so don't try it unless you want some new burns to show off.  
+> Example: Any Weapon vs. Gravios. Gravios's "fire fart" covers a wide area, stays in one spot, and lasts a long time. This attack is completely impossible to iframe without evasion skills, so don't try it unless you want some new burns to show off.  
 
 ### Setups
 
@@ -511,3 +537,8 @@ By moving against the direction of rotation of a head turn, the monster won't be
 
 > Example: Any Weapon vs. Akantor. Akantor's massive body and proclivity for charging makes standing in front of him very hazardous. Move against the second part of his head turn to give yourself some breathing room, especially if you are near a wall!
 
+# Conclusion
+
+Thanks for reading this guide! I hope it was helpful. As you improve and learn, many other resources, such as speedruns, can be very useful, so I encourage you to seek them out.
+
+Goodbye, and good luck!
