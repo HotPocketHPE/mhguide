@@ -116,6 +116,7 @@ For players completely new to MH, I recommend starting with **Portable 3rd.** It
 
 ## General Tips
 
+* **Try different weapons!** Each one plays differently from the rest. Arena quests and Training quests are great ways to experiment without having to craft anything. 
 * **Blademasters: Prioritize getting green sharpness!** Yellow sharpness, what most early weapons start with, will make you bounce a lot and lower your damage. See [Sharpness](#sharpness) and [Hitzones](#hitzones) for detailed info.
 * **Start with the village quests!** They are scaled for singleplayer and are good for starting out. Other quests (called hub quests) are still soloable, but new players may have difficulty. Progressing in village quests often unlocks useful things like farm upgrades.
 * **Look up the key quests online!** Only certain quests (key quests) are required to progress in the game. Feel free to do as many quests as you want, but you'll likely want to skip the boring gathering quests that appear early on.
@@ -129,7 +130,7 @@ For players completely new to MH, I recommend starting with **Portable 3rd.** It
 
 ## How to Approach Underwater in 3 Ultimate
 
-Monster Hunter 3 Ultimate is unique in that some fights take place underwater. Most fights take place on land, but for water-dwelling monsters like Lagiacrus you'll need to dive in after them.
+Monster Hunter 3 Ultimate is unique in that some fights take place underwater. Most fights are on land, but for water-dwelling monsters like Lagiacrus you'll need to dive in after them.
 
 Here are some tips to help you adapt to (or at least tolerate) combat beneath the waves.
 
@@ -204,11 +205,9 @@ This section doesn't apply to P3rd or GU, so players of those games can skip thi
 
 In Monster Hunter, some weapons (such as Greatsword) are slow and deal a lot of damage per hit, while others (such as Dual Blades) are fast but deal less damage per hit.
 
-In an effort to convey this difference to players, the display raw modifier was created. Each weapon type has it's own display raw modifier, with slow weapons having higher numbers than fast weapons. 
+In an effort to convey this difference to players, the display raw modifier was created. Each weapon type has it's own display raw modifier, with slow weapons having higher numbers than fast weapons. **Display raw modifier doesn't affect damage dealt in any way!** [Motion Values](#motion-values) are why different moves do different amounts of damage.
 
-The damage you see on your status screen (the display raw) is calculated by multiplying your "true" raw by the display raw modifier. **Display raw modifier doesn't affect damage dealt in any way!** [Motion Values](#motion-values) are why different moves do different amounts of damage.
-
-If you want to know your true raw, look up your weapon type's display raw modifier, and use it to divide what you see on your status screen.
+The damage you see on your status screen (the display raw) is calculated by multiplying your "true" raw by the display raw modifier. If you want to know your true raw, look up your weapon type's display raw modifier, and use it to divide what you see on your status screen.
 
 Needless to say, this is extremely stupid and annoying, and since it has no actual effect on damage dealt, the best course of action is to just ignore it until you need to know your exact true raw.
 
@@ -242,11 +241,11 @@ Hitzones are what makes monster parts hard or soft. Soft parts like Rathian's he
 
 Monster parts have different hitzones for each of the three types of raw damage (cutting, impact, and shot).
 
-You can tell how high a hitzone is in-game from the size of the blood splatter when you hit it. Gunners may have trouble seeing hitzones in-game, so looking them up is recommended.
+You can tell how high a hitzone is in-game from the size of the blood splatter and the length of the hitstop (small pause on hit) when you strike it. Gunners may have trouble seeing hitzones in-game, so looking them up is recommended.
 
 For Blademasters, hitting particularly hard parts will cause you to bounce. Bouncing locks you into a dangerously long animation and doubles the hit's Sharpness usage, so try to avoid it. Higher Sharpness levels will make it harder to bounce.
 
-Some moves cannot bounce, but you will still get the double Sharpness loss, and your damage will be low because of the bad hitzone. Unless you are trying to break a specific part, you are better off hitting the good hitzones.
+Some moves cannot bounce, but you will still get the double Sharpness loss, and your damage will be low because of the bad hitzone. Unless you are trying to break a specific part, you're better off hitting good hitzones.
 
 ## Elemental Damage
 
@@ -270,7 +269,7 @@ Bowguns do not have intrinsic element! Instead, some bowguns shoot elemental sho
 
 This works similarly to raw hitzones, with a few differences.
 
-Bad raw hitzones are often good elemental hitzones, while good raw hitzones can be either good or bad elemental hitzones, depending on the monster. If you need to break a hard part, element can be very effective.
+Bad raw hitzones are often good elemental hitzones, while good raw hitzones can be either good or bad elemental hitzones depending on the monster. If you need to break a hard part like the back, element can be very effective.
 
 Unlike raw damage, most monsters are particularly weak to a certain element. Usually, you can either guess what the monster's weakness would be (such as Rathalos and water), or look at the resistances on the monster's armor.
 
@@ -340,6 +339,8 @@ Meals also grant food skills for that quest. Some of these are alternate version
 
 There are many different items to help you in your hunts. Many of them will become mainstays in your pouch, such as potions, steaks, whetstones for Blademasters, ammo/coatings for Gunners, and paintballs. Others, such as traps and status-healing items, are useful in specific situations.
 
+Max and Ancient Potions (and Mega Nutrients) raise your max HP to the cap! Eat one after you faint, or in battle if you're feeling risky.
+
 For harder quests, crafting items from your Pouch can be a good idea. Bringing 10 Honey can give you 10 more Mega Potions to work with, and extra shots for powerful ammo types are invaluable to a Gunner. Bring the Books of Combos along to raise your craft chances.
 
 Dash Juice is a powerful consumable that completely negates stamina usage for a time. Use it if necessary, but try not to abuse it, as the ingredients are expensive, and stamina management is an important skill to learn.
@@ -362,31 +363,33 @@ Some monsters are particularly easy or difficult to fight with a certain weapon 
 
 ## Greatsword
 
-Greatsword hugely emphasizes prediction and positioning. It's simple to pick up, with only one primary move, but legendarily difficult to master.
+Greatsword is a hit-and-run weapon that hugely emphasizes prediction and positioning. It's simple to pick up, with only one primary move, but legendarily difficult to master. To understand your foe is to understand the Greatsword!
 
-The charge slash is your most important tool. A fully charged hit does massive damage, but don't be greedy! It's better to hit a low charge hit than to whiff a high charge one.
+The charge slash is your most important tool. A fully charged hit to a weak spot does massive damage, but don't be greedy! It's better to land a low charge hit than to whiff a high charge one.
 
 Don't forget that you can block! It hurts your Sharpness but is good for emergencies.
 
 ## Hammer
 
-Hammer is a hard-hitting yet versatile weapon. Different levels of charge give different moves, and hitting a monster's head enough can KO it for a big opening.
+Hammer is hard-hitting yet technical. Different levels of charge give different moves, and hitting a monster's head enough can KO it for a big opening. Predict which move you'll need, then charge and go for the head!
 
-Hammer can charge while moving, which gives it surprising mobility! The superpound (release a full charge when standing still) is relatively safe, but deals good damage and KO buildup.
+Hammer can charge while walking, which gives it surprising mobility! The superpound (release a full charge when standing still) is relatively safe, but deals good damage and KO buildup. The golf swing is harder to use, but deals big damage, so go for it when you can.
 
-The golf swing does big damage, so try to do them when you can. Don't neglect the other moves though, they do surprising damage and can be very useful in many situations!
+Hitting the monster's head enough KO's it, leading to a huge opening. Go for the head whenever you can! A few monsters (such as Uragaan) have tough heads, so for them pick somewhere else to hit.
 
 ## Hunting Horn
 
-Hunting Horn is a long-range, mobile melee weapon with reliable pokes and KO potential when hitting the head. It can also play songs that grant buffs to yourself and teammates.
+Hunting Horn is mobile and precise, with reliable long-range pokes as well as KO potential when hitting the head. It can also play songs that grant buffs to yourself and teammates. Snipe the monster's head over and over with your range and speed!
+
+Your most important songs are Self-Improvement (grants a huge movement speed buff + immunity to bouncing), and Attack Up (grants +15%/20% of your weapon's raw). Try to keep these active at all times! Beyond that, don't focus too much on the songs though. Hitting the monster is more important!
 
 ## Sword and Shield
 
-Sword and Shield
+Sword and Shield is a quick and versatile weapon with fast attacks, high mobility, a shield, and the ability to use items while unsheathed. Adapt to any circumstance, and take advantage of monsters' weaknesses!
 
 ## Dual Blades
 
-Dual Blades
+Dual Blades (also called Dual Swords) is an offensive tornado with quick attacks, quick movement, and a powerful Demon Mode that drains stamina. Keep up with even the fastest monsters, and unleash Demon Mode at opportune times to wreak havoc!
 
 ## Long Sword
 
@@ -402,11 +405,11 @@ Lance is a defensive powerhouse that uses its heavy shield to keep up unrelentin
 
 ## Gunlance
 
-Gunlance is a quirky defensive weapon with a wide variety of moves (and of course a gun that shoots from your lance).
+Gunlance is a quirky blocking weapon with a wide variety of moves (and a gun that shoots from your lance). Mix and match your tools to adapt to the situation!
 
 ## Switch Axe
 
-Switch Axe
+Switch Axe can switch between its mobile, long-range, but slow to attack axe form and its sluggish, short-range, but viciously damaging sword form. 
 
 ## Insect Glaive
 
@@ -414,7 +417,7 @@ Insect Glaive
 
 ## Charge Blade
 
-Charge Blade offers a wide variety of moves for technical players to pore over. Use your weapon's two forms wisely to maintain your resources, deal big damage, and even KO the monster! 
+Charge Blade offers many different attacks and mechanics for technical players to pore over. Use your weapon's two forms wisely to maintain your resources, deal big damage, and even KO the monster! 
 
 Guard Points can "steal the initiative" from monsters when used well.
 
@@ -424,7 +427,7 @@ Bow is a mobile ranged weapon that can charge its attacks to strike at opportune
 
 ## Light Bowgun
 
-Light Bowgun
+Light Bowgun is the nimbler of the Bowgun pair, with good mobility, fast sheathing speed, and Rapid Fire for increased ammo efficiency.
 
 ## Heavy Bowgun
 
