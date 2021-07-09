@@ -29,6 +29,21 @@
     - [Food](#food)
     - [Items](#items)
     - [Monster and Weapon Matchups](#monster-and-weapon-matchups)
+- [Brief Weapon Overview](#brief-weapon-overview)
+    - [Greatsword](#greatsword)
+    - [Hammer](#hammer)
+    - [Hunting Horn](#hunting-horn)
+    - [Sword and Shield](#sword-and-shield)
+    - [Dual Blades](#dual-blades)
+    - [Long Sword](#long-sword)
+    - [Lance](#lance)
+    - [Gunlance](#gunlance)
+    - [Switch Axe](#switch-axe)
+    - [Insect Glaive](#insect-glaive)
+    - [Charge Blade](#charge-blade)
+    - [Bow](#bow)
+    - [Light Bowgun](#light-bowgun)
+    - [Heavy Bowgun](#heavy-bowgun)
 - [Hunting Fundamentals](#hunting-fundamentals)
     - [The Essence of Combat](#the-essence-of-combat)
     - [Foundational Concepts](#foundational-concepts)
@@ -49,6 +64,7 @@
         - [Sweet Spots](#sweet-spots)
         - [Stagger Control](#stagger-control)
         - [Head Turns](#head-turns)
+- [Miscellaneous Tips](#miscellaneous-tips)
 - [Conclusion](#conclusion)
 
 <!-- /TOC -->
@@ -342,6 +358,78 @@ Some monsters are particularly easy or difficult to fight with a certain weapon 
 
 > Example: Ranged Weapons vs. Tigrex. Tigrex is relentlessly aggressive and charges constantly, so escaping him while staying in Critical Distance can be extremely difficult! Melee weapons can naturally stand much closer.
 
+# Brief Weapon Overview
+
+## Greatsword
+
+Greatsword hugely emphasizes prediction and positioning. It's simple to pick up, with only one primary move, but legendarily difficult to master.
+
+The charge slash is your most important tool. A fully charged hit does massive damage, but don't be greedy! It's better to hit a low charge hit than to whiff a high charge one.
+
+Don't forget that you can block! It hurts your Sharpness but is good for emergencies.
+
+## Hammer
+
+Hammer is a hard-hitting yet versatile weapon. Different levels of charge give different moves, and hitting a monster's head enough can KO it for a big opening.
+
+Hammer can charge while moving, which gives it surprising mobility! The superpound (release a full charge when standing still) is relatively safe, but deals good damage and KO buildup.
+
+The golf swing does big damage, so try to do them when you can. Don't neglect the other moves though, they do surprising damage and can be very useful in many situations!
+
+## Hunting Horn
+
+Hunting Horn is a long-range, mobile melee weapon with reliable pokes and KO potential when hitting the head. It can also play songs that grant buffs to yourself and teammates.
+
+## Sword and Shield
+
+Sword and Shield
+
+## Dual Blades
+
+Dual Blades
+
+## Long Sword
+
+Long Sword is an easy to learn weapon with flowing attacks and good mobility. Use the Spirit Meter for big, sweeping slashes and keep up the offensive! 
+
+The Fade Slash is the heart and soul of Long Sword. It's a bit slow, but both deals damage and moves you backwards (or left/right in 3rd and 4th gen). Use it near the end of your attacks to get into position.
+
+Filling up your Spirit Meter will make it flash for a while, which prevents it from decaying and ups your damage. In 3rd and 4th gen, hitting with the last attack of your Spirit combo will level up your aura (white -> yellow -> red). This also upgrades your damage, so go for it when you can.
+
+## Lance
+
+Lance is a defensive powerhouse that uses its heavy shield to keep up unrelenting pressure. Poke the monster's weak points and block anything that comes your way!
+
+## Gunlance
+
+Gunlance is a quirky defensive weapon with a wide variety of moves (and of course a gun that shoots from your lance).
+
+## Switch Axe
+
+Switch Axe
+
+## Insect Glaive
+
+Insect Glaive
+
+## Charge Blade
+
+Charge Blade offers a wide variety of moves for technical players to pore over. Use your weapon's two forms wisely to maintain your resources, deal big damage, and even KO the monster! 
+
+Guard Points can "steal the initiative" from monsters when used well.
+
+## Bow
+
+Bow is a mobile ranged weapon that can charge its attacks to strike at opportune moments.
+
+## Light Bowgun
+
+Light Bowgun
+
+## Heavy Bowgun
+
+Heavy Bowgun is the Light Bowgun's bulkier sibling, trading mobility and ammo efficiency for sheer damage potential.
+
 # Hunting Fundamentals
 
 ## The Essence of Combat
@@ -536,6 +624,10 @@ Be very careful when committing to an attack while right in front of the monster
 By moving against the direction of rotation of a head turn, the monster won't be able to follow you as much, creating space.
 
 > Example: Any Weapon vs. Akantor. Akantor's massive body and proclivity for charging makes standing in front of him very hazardous. Move against the second part of his head turn to give yourself some breathing room, especially if you are near a wall!
+
+# Miscellaneous Tips
+
+* When mounting in 4U/GU, alternate between X and A to make the mount gauge go up faster. (Credit to FpsFailure)
 
 # Conclusion
 
