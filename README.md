@@ -409,11 +409,11 @@ Gunlance is a quirky blocking weapon with a wide variety of moves (and a gun tha
 
 ## Switch Axe
 
-Switch Axe can switch between its mobile, long-range, but slow to attack axe form and its sluggish, short-range, but viciously damaging sword form. 
+Switch Axe can switch between its mobile, long-range, but slow to attack axe form and its sluggish, short-range, but viciously damaging sword form. Use axe attacks to safely get hits in, then manage the meter to make the most of your sword attacks!
 
 ## Insect Glaive
 
-Insect Glaive
+Insect Glaive is an opportunist weapon with good reach, high mobility, and the ability to launch itself into the air. It also comes with a bug that can attack different parts of the monster to give the hunter buffs.
 
 ## Charge Blade
 
@@ -432,6 +432,8 @@ Light Bowgun is the nimbler of the Bowgun pair, with good mobility, fast sheathi
 ## Heavy Bowgun
 
 Heavy Bowgun is the Light Bowgun's bulkier sibling, trading mobility and ammo efficiency for sheer damage potential.
+
+With HBG, positioning is key! Sheathing and movement are slow, so you will have to stay out of dangerous zones in advance. 
 
 # Hunting Fundamentals
 
