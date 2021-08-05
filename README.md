@@ -568,7 +568,7 @@ By moving against the direction of rotation of a head turn, the monster won't be
 
 Down in the dark, deep recesses of the hunter's craft, there are techniques so obscure, so forbidden that their existence is kept only to a select, chosen few. If such knowledge were to be released into the world at large, who knows what havoc would be unleashed...
 
-**Just kidding.** AI manipulations are techniques that take advantage of some quirk in the monster's behavior to gain an advantage. These can often be difficult to discover yourself, and many are probably unintended by the developers. Once you are experienced enough, watching speedruns are a good source for these.
+**Just kidding.** AI manipulations are techniques that take advantage of some quirk in the monster's behavior to gain an advantage. These can often be difficult to discover yourself, and many are probably unintended by the developers. Once you are experienced enough, watching speedruns are a good way to discover these.
 
 > Example: Any Weapon vs. Diablos (2nd gen). Diablos's "fast" dig, where he exits the ground a second after digging, is very common in high and G rank, especially when enraged. When Diablos digs in front of you, rolling onto and over the spot he entered the ground at will cause him to erupt behind you, opening up the weak tail for some hits. If your positioning is slightly off though, he will hit you for massive damage!
 
@@ -642,10 +642,17 @@ Bow is a mobile ranged weapon that can charge its attacks to strike at opportune
 
 Light Bowgun is the nimbler of the Bowgun pair, with good mobility, fast sheathing speed, and Rapid Fire for increased ammo efficiency.
 
+Certain ammo types (depending on the Bowgun) can be rapid-fired, shooting 3 lesser-damaging shots for the ammo cost of one. This boosts ammo efficiency overall, but takes longer to shoot, so don't overcommit!
+
+Use your mobility to your advantage. Your movement, sheath speed, and unsheathe speed are very quick, so you can play quite aggressively and still have time to escape. With experience, you can even outmatch relentless monsters like Tigrex!
+
 ## Heavy Bowgun
 
 Heavy Bowgun is the Light Bowgun's bulkier sibling, trading mobility and ammo efficiency for sheer damage potential.
 
+Be very careful when playing Heavy Bowgun! Your movement and sheathe speed are both very slow, so escaping sticky situations is difficult! Try to predict both how the monster will move and which attacks could threaten you, then position to counter them in advance. The Shield attachment and armor skills like Evade Extender also help.
+
+In 3rd and 4th gen, some ammo types (depending on the Bowgun) can be siege-fired, which greatly increases the magazine size but locks you in place. Save this for big openings, and make sure you're in proper critical distance.
 
 # Miscellaneous Tips
 
