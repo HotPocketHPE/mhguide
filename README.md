@@ -578,9 +578,9 @@ Down in the dark, deep recesses of the hunter's craft, there are techniques so o
 
 Greatsword is a hit-and-run weapon that hugely emphasizes prediction and positioning. It's simple to pick up, with only one primary move, but legendarily difficult to master. To understand your foe is to understand the Greatsword!
 
-The charge slash is your most important tool. A fully charged hit to a weak spot does massive damage, but don't be greedy! It's better to land a low charge hit than to whiff a high charge one.
+The charge slash is your most important tool. A fully charged hit to a weak spot does massive damage, but don't be greedy! It's better to land a low charge hit than to whiff a high charge one. Predict where the monster will be for more time to charge!
 
-Don't forget that you can block! It hurts your Sharpness but is good for emergencies.
+The other moves can also be useful, either for killing small monsters or for sneaking a quick extra hit in after a charge slash. Also, don't forget that you can block! It hurts your Sharpness but is good for emergencies.
 
 ## Hammer
 
@@ -602,6 +602,10 @@ Like Hammer, Hunting Horn can KO the monster with head hits. Use your long range
 
 Sword and Shield is a quick and versatile weapon with fast attacks, high mobility, a shield, and the ability to use items while unsheathed. Adapt to any circumstance, and take advantage of monsters' weaknesses!
 
+While the main weakness of Sword and Shield is its short reach, this is more than made up for by its other capabilities. Quick attacks make element and status formidable options, shield bashes can build up KO on the head, and blocking with your shield offers a powerful emergency defense.
+
+While guarding, you can use items! This can either be used defensively, such as getting a quick Potion off in the heat of battle, or offensively, such as nailing an airborne monster with a Flash Bomb just as it takes to the skies.
+
 ## Dual Blades
 
 Dual Blades (also called Dual Swords) is an offensive tornado with quick attacks, quick movement, and a powerful Demon Mode that drains stamina. Keep up with even the fastest monsters, and unleash Demon Mode at opportune times to wreak havoc!
@@ -622,13 +626,25 @@ Filling up your Spirit Meter will make it flash for a while, which prevents it f
 
 Lance is a defensive powerhouse that uses its heavy shield to keep up unrelenting pressure. Poke the monster's weak points and block anything that comes your way!
 
+Lance's pokes operate in threes: poke, poke, poke, dodge. You can mix and match low or high pokes, depending on where you are aiming. High pokes are slightly stronger.
+
+In 3rd and 4th gen, Shield Advance and Counter are both important tools to keep up with the monster. Shield Advance allows you to guard while moving forward, and can transition into pokes afterwards. Counter will block an attack, then follow up with a strong poke. Beware though, as this cannot be canceled, so multi-hit attacks or monster whiffs will leave you wide open!
+
 ## Gunlance
 
 Gunlance is a quirky blocking weapon with a wide variety of moves (and a gun that shoots from your lance). Mix and match your tools to adapt to the situation!
 
+Many of Gunlance's moves hit at different angles. Some hit, low, others high, and one hits straight upwards! Shell after any of these, and your shell will fire at that angle. Great for hitting midair monsters! 
+
+Shelling is useful both as a combo tool and a source of fixed damage. Poke, poke, poke, shell can chain into itself for good damage, provided you have enough shells loaded. Shelling damage doesn't change based on the hitzone, so it can be good for breaking tough parts.
+
 ## Switch Axe
 
-Switch Axe can switch between its mobile, long-range, but slow to attack axe form and its sluggish, short-range, but viciously damaging sword form. 
+Switch Axe can switch between its mobile, long-range, but slow to attack axe form and its sluggish, short-range, but viciously damaging sword form.
+
+Evading after many moves will do a quick, short range sidestep. This allows you to keep up a strong offense, but is much more difficult to use defensively than the regular roll. Evasion skills can dramatically improve this.
+
+Switching to sword mode after certain attacks is much faster! Work this into your offense to change forms on the fly as the situation develops. Trying to transform with low meter will do a long "recharge" animation and refill some of it. Useful, but not something you want to do accidentally.
 
 ## Insect Glaive
 
