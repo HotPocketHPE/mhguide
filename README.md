@@ -584,17 +584,19 @@ Don't forget that you can block! It hurts your Sharpness but is good for emergen
 
 ## Hammer
 
-Hammer is hard-hitting yet technical. Different levels of charge give different moves, and hitting a monster's head enough can KO it for a big opening. Predict which move you'll need, then charge and go for the head!
+Hammer is hard-hitting yet technical. Different levels of charge give different moves, and hitting a monster's head enough can KO it for a big opening. Aim well and focus the head to deal massive damage!
 
-Hammer can charge while walking, which gives it surprising mobility! The superpound (release a full charge when standing still) is relatively safe, but deals good damage and KO buildup. The golf swing is harder to use, but deals big damage, so go for it when you can.
+Hammer can charge while walking, which gives it surprising mobility! The superpound (release a full charge when standing still) is relatively safe and strong. The golf swing is harder to use, but deals more damage and KO.
 
-Hitting the monster's head enough KO's it, leading to a huge opening. Go for the head whenever you can! A few monsters (such as Uragaan) have tough heads, so for them pick somewhere else to hit.
+Hitting the monster's head enough KO's it, leading to a huge opening. Go for the head whenever you can! For monsters with tough heads (such as Uragaan), pick somewhere else to hit.
 
 ## Hunting Horn
 
 Hunting Horn is mobile and precise, with reliable long-range pokes as well as KO potential when hitting the head. It can also play songs that grant buffs to yourself and teammates. Snipe the monster's head over and over with your range and speed!
 
-Your most important songs are Self-Improvement (grants a huge movement speed buff + immunity to bouncing), and Attack Up (grants +15%/20% of your weapon's raw). Try to keep these active at all times! Beyond that, don't focus too much on the songs though. Hitting the monster is more important!
+Your most important songs are Self-Improvement (huge movement speed buff + immunity to bouncing), and Attack Up (+15%/20% of your weapon's raw). Try to keep these active at all times! Beyond that, don't focus too much on the songs. Hitting the monster is more important!
+
+Like Hammer, Hunting Horn can KO the monster with head hits. Use your long range, speed, and versatile moveset to stick to the head, and you'll be rewarded!
 
 ## Sword and Shield
 
@@ -604,13 +606,17 @@ Sword and Shield is a quick and versatile weapon with fast attacks, high mobilit
 
 Dual Blades (also called Dual Swords) is an offensive tornado with quick attacks, quick movement, and a powerful Demon Mode that drains stamina. Keep up with even the fastest monsters, and unleash Demon Mode at opportune times to wreak havoc!
 
+Demon Mode boosts the damage of your moves, and in 3rd and 4th gen, grants a fast sidestep dodge, but drains stamina over time. Use it when you can, but makes sure that you have enough stamina left to dodge if need be.
+
+Dash Juice is extremely powerful on Dual Blades, as it will allow you to remain in Demon Mode indefinitely! Don't overuse it though, as the ingredients are uncommon, and learning to manage stamina properly is an important skill. Save it for difficult quests. 
+
 ## Long Sword
 
 Long Sword is an easy to learn weapon with flowing attacks and good mobility. Use the Spirit Meter for big, sweeping slashes and keep up the offensive! 
 
 The Fade Slash is the heart and soul of Long Sword. It's a bit slow, but both deals damage and moves you backwards (or left/right in 3rd and 4th gen). Use it near the end of your attacks to get into position.
 
-Filling up your Spirit Meter will make it flash for a while, which prevents it from decaying and ups your damage. In 3rd and 4th gen, hitting with the last attack of your Spirit combo will level up your aura (white -> yellow -> red). This also upgrades your damage, so go for it when you can.
+Filling up your Spirit Meter will make it flash for a while, which prevents it from decaying and slightly ups your damage. In 3rd and 4th gen, hitting with the last attack of your Spirit combo will level up your aura (white -> yellow -> red). Higher levels give higher damage multipliers.
 
 ## Lance
 
