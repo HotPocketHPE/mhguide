@@ -28,6 +28,7 @@
 - [Basics of Preparation](#basics-of-preparation)
     - [Food](#food)
     - [Items](#items)
+    - [Palicos](#palicos)
     - [Monster and Weapon Matchups](#monster-and-weapon-matchups)
 - [Hunting Fundamentals](#hunting-fundamentals)
     - [The Essence of Combat](#the-essence-of-combat)
@@ -66,6 +67,9 @@
     - [Light Bowgun](#light-bowgun)
     - [Heavy Bowgun](#heavy-bowgun)
 - [Miscellaneous Tips](#miscellaneous-tips)
+- [Resources](#resources)
+    - [General](#general)
+    - [Freedom Unite](#freedom-unite)
 - [Conclusion](#conclusion)
 
 <!-- /TOC -->
@@ -352,6 +356,8 @@ Flying monsters can be brought back to earth with a Flash Bomb thrown in front o
 
 Sonic Bombs stun some monsters in certain situations, but usually don't work if the monster is enraged. The most notable uses are **forcing Diablos or Cephadrome out of the ground, and forcing Plesioth out of the water.** There are many more uses for Sonic Bombs, so if the item box gives you some for a monster, experiment! (or use the Internet)
 
+## Palicos
+
 ## Monster and Weapon Matchups
 
 Some monsters are particularly easy or difficult to fight with a certain weapon type. If you are having trouble, consider trying a new weapon!
@@ -360,6 +366,8 @@ Some monsters are particularly easy or difficult to fight with a certain weapon 
 
 > Example: Ranged Weapons vs. Tigrex. Tigrex is relentlessly aggressive and charges constantly, so escaping him while staying in Critical Distance can be extremely difficult! Melee weapons can naturally stand much closer.
 
+
+With HBG, positioning is key! Sheathing and movement are slow, so you will have to stay out of dangerous zones in advance. 
 
 # Hunting Fundamentals
 
@@ -641,7 +649,21 @@ Heavy Bowgun is the Light Bowgun's bulkier sibling, trading mobility and ammo ef
 
 # Miscellaneous Tips
 
-* When mounting in 4U/GU, alternate between X and A to make the mount gauge go up faster. (Credit to FpsFailure)
+* When mounting in 4U/GU, alternate between X and A to make the mount gauge increase faster. (Credit to FpsFailure)
+
+# Resources
+
+## General
+
+[Kiranico](kiranico.com) - Immensely useful resource for drop rates, monster hitzones, weapon crafting, and much more. **Only for 3U and after, FU is not included.**
+
+[Athena's Armor Set Search](https://www.mediafire.com/folder/4o1idj7mmtn85/Monster_Hunter) - Program to help create mixed sets. Plug in what skills you want and it will search for a set. Facebook page [here](https://www.facebook.com/AthenasArmorSetSearch/) with mirror downloads.
+
+## Freedom Unite
+
+[ryin77's guide](https://gamefaqs.gamespot.com/psp/943356-monster-hunter-freedom-unite/faqs/78652) - Drop rates, hitzones, motion values, and more. Some tips as well.
+
+[mazereon's Bowgun Compendium](https://gamefaqs.gamespot.com/psp/943356-monster-hunter-freedom-unite/faqs/56818) - Everything Light and Heavy Bowgun. Mechanics overview, equipment recommendations, and guides for gunning every monster in the game. 
 
 # Conclusion
 
