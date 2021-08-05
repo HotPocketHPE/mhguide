@@ -29,21 +29,6 @@
     - [Food](#food)
     - [Items](#items)
     - [Monster and Weapon Matchups](#monster-and-weapon-matchups)
-- [Brief Weapon Overview](#brief-weapon-overview)
-    - [Greatsword](#greatsword)
-    - [Hammer](#hammer)
-    - [Hunting Horn](#hunting-horn)
-    - [Sword and Shield](#sword-and-shield)
-    - [Dual Blades](#dual-blades)
-    - [Long Sword](#long-sword)
-    - [Lance](#lance)
-    - [Gunlance](#gunlance)
-    - [Switch Axe](#switch-axe)
-    - [Insect Glaive](#insect-glaive)
-    - [Charge Blade](#charge-blade)
-    - [Bow](#bow)
-    - [Light Bowgun](#light-bowgun)
-    - [Heavy Bowgun](#heavy-bowgun)
 - [Hunting Fundamentals](#hunting-fundamentals)
     - [The Essence of Combat](#the-essence-of-combat)
     - [Foundational Concepts](#foundational-concepts)
@@ -64,6 +49,22 @@
         - [Sweet Spots](#sweet-spots)
         - [Stagger Control](#stagger-control)
         - [Head Turns](#head-turns)
+        - [AI Manipulations](#ai-manipulations)
+- [Brief Weapon Overview](#brief-weapon-overview)
+    - [Greatsword](#greatsword)
+    - [Hammer](#hammer)
+    - [Hunting Horn](#hunting-horn)
+    - [Sword and Shield](#sword-and-shield)
+    - [Dual Blades](#dual-blades)
+    - [Long Sword](#long-sword)
+    - [Lance](#lance)
+    - [Gunlance](#gunlance)
+    - [Switch Axe](#switch-axe)
+    - [Insect Glaive](#insect-glaive)
+    - [Charge Blade](#charge-blade)
+    - [Bow](#bow)
+    - [Light Bowgun](#light-bowgun)
+    - [Heavy Bowgun](#heavy-bowgun)
 - [Miscellaneous Tips](#miscellaneous-tips)
 - [Conclusion](#conclusion)
 
@@ -359,79 +360,6 @@ Some monsters are particularly easy or difficult to fight with a certain weapon 
 
 > Example: Ranged Weapons vs. Tigrex. Tigrex is relentlessly aggressive and charges constantly, so escaping him while staying in Critical Distance can be extremely difficult! Melee weapons can naturally stand much closer.
 
-# Brief Weapon Overview
-
-## Greatsword
-
-Greatsword is a hit-and-run weapon that hugely emphasizes prediction and positioning. It's simple to pick up, with only one primary move, but legendarily difficult to master. To understand your foe is to understand the Greatsword!
-
-The charge slash is your most important tool. A fully charged hit to a weak spot does massive damage, but don't be greedy! It's better to land a low charge hit than to whiff a high charge one.
-
-Don't forget that you can block! It hurts your Sharpness but is good for emergencies.
-
-## Hammer
-
-Hammer is hard-hitting yet technical. Different levels of charge give different moves, and hitting a monster's head enough can KO it for a big opening. Predict which move you'll need, then charge and go for the head!
-
-Hammer can charge while walking, which gives it surprising mobility! The superpound (release a full charge when standing still) is relatively safe, but deals good damage and KO buildup. The golf swing is harder to use, but deals big damage, so go for it when you can.
-
-Hitting the monster's head enough KO's it, leading to a huge opening. Go for the head whenever you can! A few monsters (such as Uragaan) have tough heads, so for them pick somewhere else to hit.
-
-## Hunting Horn
-
-Hunting Horn is mobile and precise, with reliable long-range pokes as well as KO potential when hitting the head. It can also play songs that grant buffs to yourself and teammates. Snipe the monster's head over and over with your range and speed!
-
-Your most important songs are Self-Improvement (grants a huge movement speed buff + immunity to bouncing), and Attack Up (grants +15%/20% of your weapon's raw). Try to keep these active at all times! Beyond that, don't focus too much on the songs though. Hitting the monster is more important!
-
-## Sword and Shield
-
-Sword and Shield is a quick and versatile weapon with fast attacks, high mobility, a shield, and the ability to use items while unsheathed. Adapt to any circumstance, and take advantage of monsters' weaknesses!
-
-## Dual Blades
-
-Dual Blades (also called Dual Swords) is an offensive tornado with quick attacks, quick movement, and a powerful Demon Mode that drains stamina. Keep up with even the fastest monsters, and unleash Demon Mode at opportune times to wreak havoc!
-
-## Long Sword
-
-Long Sword is an easy to learn weapon with flowing attacks and good mobility. Use the Spirit Meter for big, sweeping slashes and keep up the offensive! 
-
-The Fade Slash is the heart and soul of Long Sword. It's a bit slow, but both deals damage and moves you backwards (or left/right in 3rd and 4th gen). Use it near the end of your attacks to get into position.
-
-Filling up your Spirit Meter will make it flash for a while, which prevents it from decaying and ups your damage. In 3rd and 4th gen, hitting with the last attack of your Spirit combo will level up your aura (white -> yellow -> red). This also upgrades your damage, so go for it when you can.
-
-## Lance
-
-Lance is a defensive powerhouse that uses its heavy shield to keep up unrelenting pressure. Poke the monster's weak points and block anything that comes your way!
-
-## Gunlance
-
-Gunlance is a quirky blocking weapon with a wide variety of moves (and a gun that shoots from your lance). Mix and match your tools to adapt to the situation!
-
-## Switch Axe
-
-Switch Axe can switch between its mobile, long-range, but slow to attack axe form and its sluggish, short-range, but viciously damaging sword form. 
-
-## Insect Glaive
-
-Insect Glaive
-
-## Charge Blade
-
-Charge Blade offers many different attacks and mechanics for technical players to pore over. Use your weapon's two forms wisely to maintain your resources, deal big damage, and even KO the monster! 
-
-Guard Points can "steal the initiative" from monsters when used well.
-
-## Bow
-
-Bow is a mobile ranged weapon that can charge its attacks to strike at opportune moments.
-
-## Light Bowgun
-
-Light Bowgun is the nimbler of the Bowgun pair, with good mobility, fast sheathing speed, and Rapid Fire for increased ammo efficiency.
-
-## Heavy Bowgun
-
-Heavy Bowgun is the Light Bowgun's bulkier sibling, trading mobility and ammo efficiency for sheer damage potential.
 
 # Hunting Fundamentals
 
@@ -627,6 +555,89 @@ Be very careful when committing to an attack while right in front of the monster
 By moving against the direction of rotation of a head turn, the monster won't be able to follow you as much, creating space.
 
 > Example: Any Weapon vs. Akantor. Akantor's massive body and proclivity for charging makes standing in front of him very hazardous. Move against the second part of his head turn to give yourself some breathing room, especially if you are near a wall!
+
+### AI Manipulations
+
+Down in the dark, deep recesses of the hunter's craft, there are techniques so obscure, so forbidden that their existence is kept only to a select, chosen few. If such knowledge were to be released into the world at large, who knows what havoc would be unleashed...
+
+**Just kidding.** AI manipulations are techniques that take advantage of some quirk in the monster's behavior to gain an advantage. These can often be difficult to discover yourself, and many are probably unintended by the developers. Once you are experienced enough, watching speedruns are a good source for these.
+
+> Example: Any Weapon vs. Diablos (2nd gen). Diablos's "fast" dig, where he exits the ground a second after digging, is very common in high and G rank, especially when enraged. When Diablos digs in front of you, rolling onto and over the spot he entered the ground at will cause him to erupt behind you, opening up the weak tail for some hits. If your positioning is slightly off though, he will hit you for massive damage!
+
+# Brief Weapon Overview
+
+## Greatsword
+
+Greatsword is a hit-and-run weapon that hugely emphasizes prediction and positioning. It's simple to pick up, with only one primary move, but legendarily difficult to master. To understand your foe is to understand the Greatsword!
+
+The charge slash is your most important tool. A fully charged hit to a weak spot does massive damage, but don't be greedy! It's better to land a low charge hit than to whiff a high charge one.
+
+Don't forget that you can block! It hurts your Sharpness but is good for emergencies.
+
+## Hammer
+
+Hammer is hard-hitting yet technical. Different levels of charge give different moves, and hitting a monster's head enough can KO it for a big opening. Predict which move you'll need, then charge and go for the head!
+
+Hammer can charge while walking, which gives it surprising mobility! The superpound (release a full charge when standing still) is relatively safe, but deals good damage and KO buildup. The golf swing is harder to use, but deals big damage, so go for it when you can.
+
+Hitting the monster's head enough KO's it, leading to a huge opening. Go for the head whenever you can! A few monsters (such as Uragaan) have tough heads, so for them pick somewhere else to hit.
+
+## Hunting Horn
+
+Hunting Horn is mobile and precise, with reliable long-range pokes as well as KO potential when hitting the head. It can also play songs that grant buffs to yourself and teammates. Snipe the monster's head over and over with your range and speed!
+
+Your most important songs are Self-Improvement (grants a huge movement speed buff + immunity to bouncing), and Attack Up (grants +15%/20% of your weapon's raw). Try to keep these active at all times! Beyond that, don't focus too much on the songs though. Hitting the monster is more important!
+
+## Sword and Shield
+
+Sword and Shield is a quick and versatile weapon with fast attacks, high mobility, a shield, and the ability to use items while unsheathed. Adapt to any circumstance, and take advantage of monsters' weaknesses!
+
+## Dual Blades
+
+Dual Blades (also called Dual Swords) is an offensive tornado with quick attacks, quick movement, and a powerful Demon Mode that drains stamina. Keep up with even the fastest monsters, and unleash Demon Mode at opportune times to wreak havoc!
+
+## Long Sword
+
+Long Sword is an easy to learn weapon with flowing attacks and good mobility. Use the Spirit Meter for big, sweeping slashes and keep up the offensive! 
+
+The Fade Slash is the heart and soul of Long Sword. It's a bit slow, but both deals damage and moves you backwards (or left/right in 3rd and 4th gen). Use it near the end of your attacks to get into position.
+
+Filling up your Spirit Meter will make it flash for a while, which prevents it from decaying and ups your damage. In 3rd and 4th gen, hitting with the last attack of your Spirit combo will level up your aura (white -> yellow -> red). This also upgrades your damage, so go for it when you can.
+
+## Lance
+
+Lance is a defensive powerhouse that uses its heavy shield to keep up unrelenting pressure. Poke the monster's weak points and block anything that comes your way!
+
+## Gunlance
+
+Gunlance is a quirky blocking weapon with a wide variety of moves (and a gun that shoots from your lance). Mix and match your tools to adapt to the situation!
+
+## Switch Axe
+
+Switch Axe can switch between its mobile, long-range, but slow to attack axe form and its sluggish, short-range, but viciously damaging sword form. 
+
+## Insect Glaive
+
+Insect Glaive
+
+## Charge Blade
+
+Charge Blade offers many different attacks and mechanics for technical players to pore over. Use your weapon's two forms wisely to maintain your resources, deal big damage, and even KO the monster! 
+
+Guard Points can "steal the initiative" from monsters when used well.
+
+## Bow
+
+Bow is a mobile ranged weapon that can charge its attacks to strike at opportune moments.
+
+## Light Bowgun
+
+Light Bowgun is the nimbler of the Bowgun pair, with good mobility, fast sheathing speed, and Rapid Fire for increased ammo efficiency.
+
+## Heavy Bowgun
+
+Heavy Bowgun is the Light Bowgun's bulkier sibling, trading mobility and ammo efficiency for sheer damage potential.
+
 
 # Miscellaneous Tips
 
