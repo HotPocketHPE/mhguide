@@ -366,9 +366,6 @@ Some monsters are particularly easy or difficult to fight with a certain weapon 
 
 > Example: Ranged Weapons vs. Tigrex. Tigrex is relentlessly aggressive and charges constantly, so escaping him while staying in Critical Distance can be extremely difficult! Melee weapons can naturally stand much closer.
 
-
-With HBG, positioning is key! Sheathing and movement are slow, so you will have to stay out of dangerous zones in advance. 
-
 # Hunting Fundamentals
 
 ## The Essence of Combat
@@ -562,7 +559,7 @@ Be very careful when committing to an attack while right in front of the monster
 
 By moving against the direction of rotation of a head turn, the monster won't be able to follow you as much, creating space.
 
-> Example: Any Weapon vs. Akantor. Akantor's massive body and proclivity for charging makes standing in front of him very hazardous. Move against the second part of his head turn to give yourself some breathing room, especially if you are near a wall!
+> Example: Any Weapon vs. Akantor. Akantor's massive body and proclivity for charging makes standing in front of him very hazardous. Move against his head turn to give yourself some breathing room, especially if you are near a wall!
 
 ### AI Manipulations
 
@@ -573,6 +570,8 @@ Down in the dark, deep recesses of the hunter's craft, there are techniques so o
 > Example: Any Weapon vs. Diablos (2nd gen). Diablos's "fast" dig, where he exits the ground a second after digging, is very common in high and G rank, especially when enraged. When Diablos digs in front of you, rolling onto and over the spot he entered the ground at will cause him to erupt behind you, opening up the weak tail for some hits. If your positioning is slightly off though, he will hit you for massive damage!
 
 # Brief Weapon Overview
+
+Every weapon type has their own playstyle, strengths, and weaknesses. Here is a quick look at each one, as well as some general strategy tips to help you explore their capabilities.
 
 ## Greatsword
 
