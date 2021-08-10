@@ -361,7 +361,7 @@ Sonic Bombs stun some monsters in certain situations, but usually don't work if 
 
 Palicos are AI-controlled cat helpers that can battle alongside you, using abilities to deal damage and support the hunter. These are of varying usefulness, but can come in handy.
 
-The most important effect of cats is **splitting monsters' attention.** This can give you additional openings when the monster targets a cat, but this also makes the monster much less predictable, as its movement and attacks will switch targets at random.
+The most important effect of cats is **splitting monsters' attention.** This can give you additional openings when the monster targets a cat, but also makes the monster much less predictable, as its movement and attacks will switch targets at random.
 
 Cats tend to be most useful in **quests with multiple monsters always in the same zone,** such as certain quests in arenas. For single monster hunts, consider leaving them behind, as **it will help you learn and leverage monsters' predictability,** a core aspect of the series.
 
@@ -654,13 +654,19 @@ Switching to sword mode after certain attacks is much faster! Work this into you
 
 ## Insect Glaive
 
-Insect Glaive
+Insect Glaive is a versatile all-rounder with medium range, the ability to jump in the air, and a Kinsect that can deal damage while buffing the hunter.
+
+Your fancy jumping aerial moves may look flashy, but don't rely on them too much! If you are going for a mount, then they can come in handy, but your damage will come from the grounded moves.
+
+Managing your extracts is important to keeping up pressure. Red is the most important, as it buffs your damage and alters your moveset. White adds movement speed, and orange grants knockback resistance. You can refresh the duration by getting more extract, except when all 3 are active simultaneously.
 
 ## Charge Blade
 
 Charge Blade offers many different attacks and mechanics for technical players to pore over. Use your weapon's two forms wisely to maintain your resources, deal big damage, and even KO the monster! 
 
-Guard Points can "steal the initiative" from monsters when used well.
+Guard Points can "steal the initiative" from monsters when used well. In addition to dealing small amounts of damage, they give you an opening to either block and retaliate (4U) or continue your attack uninterrupted (GU).
+
+Some attacks create phial explosions, of which there are two types. Impact Phials are general-purpose, and deal raw damage independent of hitzones, with KO buildup when hitting the head. Element Phials are more specialized, and deal elemental damage which uses the monster's elemental hitzones.
 
 ## Bow
 
