@@ -70,6 +70,7 @@
 - [Resources](#resources)
     - [General](#general)
     - [Freedom Unite](#freedom-unite)
+    - [Portable 3rd](#portable-3rd)
 - [Conclusion](#conclusion)
 
 <!-- /TOC -->
@@ -357,6 +358,12 @@ Flying monsters can be brought back to earth with a Flash Bomb thrown in front o
 Sonic Bombs stun some monsters in certain situations, but usually don't work if the monster is enraged. The most notable uses are **forcing Diablos or Cephadrome out of the ground, and forcing Plesioth out of the water.** There are many more uses for Sonic Bombs, so if the item box gives you some for a monster, experiment! (or use the Internet)
 
 ## Palicos
+
+Palicos are AI-controlled cat helpers that can battle alongside you, using abilities to deal damage and support the hunter. These are of varying usefulness, but can come in handy.
+
+The most important effect of cats is **splitting monsters' attention.** This can give you additional openings when the monster targets a cat, but this also makes the monster much less predictable, as its movement and attacks will switch targets at random.
+
+Cats tend to be most useful in **quests with multiple monsters always in the same zone,** such as certain quests in arenas. For single monster hunts, consider leaving them behind, as **it will help you learn and leverage monsters' predictability,** a core aspect of the series.
 
 ## Monster and Weapon Matchups
 
@@ -683,7 +690,7 @@ In 3rd and 4th gen, some ammo types (depending on the Bowgun) can be siege-fired
 
 ## General
 
-[Kiranico](kiranico.com) - Immensely useful resource for drop rates, monster hitzones, weapon crafting, and much more. **Only for 3U and after, FU is not included.**
+[Kiranico](kiranico.com) - Immensely useful resource for drop rates, monster hitzones, weapon crafting, and much more. **Only for 3U and after, FU and P3rd are not included.**
 
 [Athena's Armor Set Search](https://www.mediafire.com/folder/4o1idj7mmtn85/Monster_Hunter) - Program to help create mixed sets. Plug in what skills you want and it will search for a set. Facebook page [here](https://www.facebook.com/AthenasArmorSetSearch/) with mirror downloads.
 
@@ -692,6 +699,12 @@ In 3rd and 4th gen, some ammo types (depending on the Bowgun) can be siege-fired
 [ryin77's guide](https://gamefaqs.gamespot.com/psp/943356-monster-hunter-freedom-unite/faqs/78652) - Drop rates, hitzones, motion values, and more. Some tips as well.
 
 [mazereon's Bowgun Compendium](https://gamefaqs.gamespot.com/psp/943356-monster-hunter-freedom-unite/faqs/56818) - Everything Light and Heavy Bowgun. Mechanics overview, equipment recommendations, and guides for gunning every monster in the game. 
+
+## Portable 3rd
+
+[violetKIRA's Monster Data Guide](https://gamefaqs.gamespot.com/psp/991479-monster-hunter-portable-3rd/faqs/61490) - Drop rates, hitzones, status vulnerabilities, etc.
+
+[mazereon's Bowgun Compendium 3rd](https://gamefaqs.gamespot.com/psp/991479-monster-hunter-portable-3rd/faqs/61634) - A sequel to the FU Compendium, but covering P3rd.
 
 # Conclusion
 
