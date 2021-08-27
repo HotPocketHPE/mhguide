@@ -234,7 +234,7 @@ Critical Distance (unrelated to critical hits) is a mechanic **for Gunners only*
 
 Being too close or too far away will hurt your damage, while being just close enough will raise it. You can tell if you are in proper crit distance range by watching the yellow hit sparks. Bigger = better!
 
-Different ammo types have different crit distances. Pierce's crit distance is further away than Normal's, so watch your positioning! Some shots, such as elemental shots, don't use crit distance, but most common ammo does.
+Different ammo and arrow types have different crit distances. Pierce's crit distance is further away than Normal's, so watch your positioning! Some shots, such as elemental shots, don't use crit distance, but most common ammo does.
 
 ### Motion Values
 
@@ -388,7 +388,7 @@ Recklessness is a death sentence, as almost everything you do **cannot be cancel
 
 ### Openings
 
-An opening is a time when you can attack without fear of retaliation. Some may be short, others long. Many monster moves can be openings, either because you are safe from the attack in a certain area, or from the monster's recovery afterwards.
+An opening is a time when you can attack without fear of retaliation. Some may be short, others long. Many monster moves can be openings, either because you are safe from the attack in a certain area, or because the monster has to take time to recover afterwards.
 
 > Example: Any Weapon vs. Rathian. Rathian's triple fireball can be dangerous at range, but if you are standing to her side, the weak head becomes open for the whole duration. Don't get too close and eat a fireball on accident!
 
@@ -402,7 +402,7 @@ Try to use your openings to their fullest, but don't overcommit! On short openin
 
 ### Positioning
 
-Positioning yourself smartly relative to the monster is crucial! It's advantageous to stay close to some monsters, and further away from others. Gunners should pay special attention: Critical Distance ties your damage directly to your distance from the monster!
+Positioning yourself smartly relative to the monster is crucial! It's advantageous to stay close to some monsters, and further away from others. Gunners should pay special attention: [Critical Distance](#critical-distance) ties your damage directly to your distance from the monster!
 
 > Example: Any Weapon vs. Rathian. Being far away from Rathian is dangerous, as her triple fireball spreads out over distance. Staying close to her helps, but not too close! Her legs can trample you as she moves, and her horizontal tailspin covers a wide range. Experiment and find the optimal distance!
 
@@ -422,7 +422,7 @@ The roll has a small window of invulnerability that can be used quite effectivel
 
 Immediately after an attack, you can only roll in 3 directions: straight forward, directly left, or directly right. Rolling backwards is not an option!
 
-> Example: Any Weapon vs. Khezu. Khezu's electric zap can be impossible to escape from if you are too close! Choose your attacks carefully. Once you gain more experience techniques like [Angling Strikes](#angling-strikes) can enable more aggressive play. 
+> Example: Any Weapon vs. Khezu. Khezu's electric zap can be impossible to escape from if you are too close after attacking! Choose your strikes carefully. Once you gain more experience, techniques like [Angling Strikes](#angling-strikes) can enable more aggressive play. 
 
 Some weapons have sidesteps instead of rolls. These move you a shorter distance, but can be chained together. Lance can also sidestep backwards!
 
@@ -442,7 +442,7 @@ Blocking with a light shield, such as the Sword and Shield's shield or the Great
 
 > Example: Greatsword vs. Tigrex. If you find yourself right in front of him as he starts a charge, you may not have time to sheathe and superman dive! Try to guard the attack, it will hurt your sharpness and deal chip damage but it's better than getting hit.
 
-Some attacks, such as clouds of gas or elemental beams, are not blockable. The skill Guard Up will make these blockable.
+Some attacks, such as clouds of gas or elemental beams, are not blockable normally. The skill Guard Up will make these blockable.
 
 The Heavy Bowgun's shield attachment can be quite effective, but will only block attacks in a 45 degree arc in front of you, as opposed to the 90 degree arc of all other shields. Make sure you are looking right at the attack!
 
@@ -470,7 +470,7 @@ Status effects are inflicted by certain monster moves, and will appear as a symb
 
 Elemental blights (3rd and 4th gen only) are caused by many monsters and vary in effect and length. Each roll you do will reduce their duration. 
 
-Snowman, Mud, and the second level of Bubble will severely impair your movement. Spin the left stick when you have a chance to escape more quickly.
+Snowman, Mud, and the second level of Bubble will severely impair your movement. Spin the left stick when you have a chance to escape more quickly, but don't get hit while breaking free!
 
 Bleeding will damage you as you move. Crouch and move slowly to recover from it.
 
