@@ -50,6 +50,7 @@
         - [Sweet Spots](#sweet-spots)
         - [Stagger Control](#stagger-control)
         - [Head Turns](#head-turns)
+        - [Animation Canceling](#animation-canceling)
         - [AI Manipulations](#ai-manipulations)
 - [Brief Weapon Overview](#brief-weapon-overview)
     - [Greatsword](#greatsword)
@@ -467,7 +468,7 @@ Equipping the corresponding resistance skills (Earplugs, Wind Res, Tremor Res) w
 
 Status effects are inflicted by certain monster moves, and will appear as a symbol next to your name. For most of these, you can negate them with a certain skill, wait them out, or use a specific item to cure yourself.
 
-Elemental blights are caused by many monsters and vary in effect and length. Each roll you do will reduce their duration. 
+Elemental blights (3rd and 4th gen only) are caused by many monsters and vary in effect and length. Each roll you do will reduce their duration. 
 
 Snowman, Mud, and the second level of Bubble will severely impair your movement. Spin the left stick when you have a chance to escape more quickly.
 
@@ -549,6 +550,8 @@ The power of this technique lies in converting unsafe attacks into safe ones. Be
 
 > Finally, punish his head turning towards you with a level 3, and watch him stagger as you deal vicious damage!
 
+With enough experience and knowledge, instead of counting hits of specific attacks, you can get a sense of how much damage each attack deals, then approximate how close you are to the next stagger for each part. This lets you use your full moveset instead of just a few attacks. Mastering this will place you at the highest levels of play!
+
 ### Head Turns
 
 Many monsters (especially older ones) will pivot in place after an attack in order to face you. This is called a head turn, and can be leveraged in a number of ways.
@@ -568,6 +571,18 @@ By moving against the direction of rotation of a head turn, the monster won't be
 
 > Example: Any Weapon vs. Akantor. Akantor's massive body and proclivity for charging makes standing in front of him very hazardous. Move against his head turn to give yourself some breathing room, especially if you are near a wall!
 
+### Animation Canceling
+
+A core principle of MH is commitment: almost nothing can be canceled out of by the hunter. So then what is this section?
+
+Even though you can't cancel animations directly, other animations can! Highly situational, but useful. Below are some examples, but there are many more applications, so be on the lookout! 
+
+> Example: Bowgun vs. Any Monster with Roar. Reloading can take a bit, but the actual bullets are loaded at the very beginning of the animation. So if you start a reload, then a monster roars, the roar's stun animation will cancel the rest of the reload animation, but you'll still have a fresh magazine!
+
+> Example: Any Weapon vs. Any Monster (4th gen). The 4th gen games introduced the dreaded ledges; while annoying, they can sometimes come in handy. Most weapons with slow sheathe speeds, such as Heavy Bowgun or Charge Blade, can walk while sheathing. If you walk over a ledge, the ledge-hopping animation will cancel the rest of the sheathe animation, instantly completing the sheathe.
+
+> Example: Any Weapon vs. Gravios. For certain types of roars, Gravios can act while you're still stunned, creating the potential for dangerous situations when close up. One way to mitigate this is by purposefully being tripped. If Gravios's legs trip you while you are roared, the trip animation will cancel the roar's stun animation, allowing you to act sooner and get out of harm's way.
+
 ### AI Manipulations
 
 Down in the dark, deep recesses of the hunter's craft, there are techniques so obscure, so forbidden that their existence is kept only to a select, chosen few. If such knowledge were to be released into the world at large, who knows what havoc would be unleashed...
@@ -578,13 +593,13 @@ Down in the dark, deep recesses of the hunter's craft, there are techniques so o
 
 # Brief Weapon Overview
 
-Every weapon type has their own playstyle, strengths, and weaknesses. Here is a quick look at each one, as well as some general strategy tips to help you explore their capabilities.
+Every weapon type has their own playstyle, strengths, and weaknesses. Here is a quick look at each one, as well as some general strategy tips to help you explore their capabilities. This is by no means exhaustive: this section barely scratches the surface of what each weapon is capable of!
 
 ## Greatsword
 
 Greatsword is a hit-and-run weapon that hugely emphasizes prediction and positioning. It's simple to pick up, with only one primary move, but legendarily difficult to master. To understand your foe is to understand the Greatsword!
 
-The charge slash is your most important tool. A fully charged hit to a weak spot does massive damage, but don't be greedy! It's better to land a low charge hit than to whiff a high charge one. Predict where the monster will be for more time to charge!
+The charge slash is your most important tool. A fully charged hit to a weak spot does massive damage, but don't be greedy! It's better to land a low charge hit than to whiff a high charge one. Predict where the monster will be for more charge time!
 
 The other moves can also be useful, either for killing small monsters or for sneaking a quick extra hit in after a charge slash. Also, don't forget that you can block! It hurts your Sharpness but is good for emergencies.
 
@@ -592,7 +607,7 @@ The other moves can also be useful, either for killing small monsters or for sne
 
 Hammer is hard-hitting yet technical. Different levels of charge give different moves, and hitting a monster's head enough can KO it for a big opening. Aim well and focus the head to deal massive damage!
 
-Hammer can charge while walking, which gives it surprising mobility! The superpound (release a full charge when standing still) is relatively safe and strong. The golf swing is harder to use, but deals more damage and KO.
+Hammer can charge while walking, which gives it surprising mobility! The superpound (release a full charge when standing still) is relatively safe, long-range, and strong. The golf swing is harder to use, but deals more damage and KO.
 
 Hitting the monster's head enough KO's it, leading to a huge opening. Go for the head whenever you can! For monsters with tough heads (such as Uragaan), pick somewhere else to hit.
 
@@ -622,9 +637,9 @@ Dash Juice is extremely powerful on Dual Blades, as it will allow you to remain 
 
 ## Long Sword
 
-Long Sword is an easy to learn weapon with flowing attacks and good mobility. Use the Spirit Meter for big, sweeping slashes and keep up the offensive! 
+Long Sword is an easy to learn weapon with impressive reach, flowing attacks, and good mobility. Use the Spirit Meter for big, sweeping slashes and keep up the offensive! 
 
-The Fade Slash is the heart and soul of Long Sword. It's a bit slow, but both deals damage and moves you backwards (or left/right in 3rd and 4th gen). Use it near the end of your attacks to get into position.
+The Fade Slash is the heart and soul of Long Sword. It's a bit slow, but both deals damage and moves you backwards (or left/right in 3rd and 4th gen). Use it near the end of your offensive to get into position.
 
 Filling up your Spirit Meter will make it flash for a while, which prevents it from decaying and slightly ups your damage. In 3rd and 4th gen, hitting with the last attack of your Spirit combo will level up your aura (white -> yellow -> red). Higher levels give higher damage multipliers.
 
@@ -662,9 +677,9 @@ Managing your extracts is important to keeping up pressure. Red is the most impo
 
 ## Charge Blade
 
-Charge Blade offers many different attacks and mechanics for technical players to pore over. Use your weapon's two forms wisely to maintain your resources, deal big damage, and even KO the monster! 
+Charge Blade offers many different attacks and mechanics for technical players to pore over. Use your weapon's two forms and Guard Points wisely to maintain your resources, deal big damage, and even KO the monster! 
 
-Guard Points can "steal the initiative" from monsters when used well. In addition to dealing small amounts of damage, they give you an opening to either block and retaliate (4U) or continue your attack uninterrupted (GU).
+Guard Points can "steal the initiative" from monsters when used well. In addition to dealing small amounts of damage, they give you an opening to either block and retaliate (4U) or continue your attack uninterrupted (GU). Attacks that are too strong will simply be blocked, while unblockable attacks will cause you to be hit. Use the Guard and Guard Up skills respectively to combat this.
 
 Some attacks create phial explosions, of which there are two types. Impact Phials are general-purpose, and deal raw damage independent of hitzones, with KO buildup when hitting the head. Element Phials are more specialized, and deal elemental damage which uses the monster's elemental hitzones.
 
@@ -672,9 +687,11 @@ Some attacks create phial explosions, of which there are two types. Impact Phial
 
 Bow is a mobile ranged weapon that can charge its attacks to strike at opportune moments.
 
+Power Coatings are a giant damage boost, so use them prudently! Try to hit the best hitzones with each shot, strike from Crit Distance, and use your highest charge level.
+
 ## Light Bowgun
 
-Light Bowgun is the nimbler of the Bowgun pair, with good mobility, fast sheathing speed, and Rapid Fire for increased ammo efficiency.
+Light Bowgun is the nimbler of the Bowgun pair, with good mobility, fast sheathing speed, and Rapid Fire for increased ammo efficiency. Stay safe and on the move while laying down fire!
 
 Certain ammo types (depending on the Bowgun) can be rapid-fired, shooting 3 lesser-damaging shots for the ammo cost of one. This boosts ammo efficiency overall, but takes longer to shoot, so don't overcommit!
 
@@ -682,7 +699,7 @@ Use your mobility to your advantage. Your movement, sheath speed, and unsheathe 
 
 ## Heavy Bowgun
 
-Heavy Bowgun is the Light Bowgun's bulkier sibling, trading mobility and ammo efficiency for sheer damage potential.
+Heavy Bowgun is the Light Bowgun's bulkier sibling, trading mobility and ammo efficiency for sheer damage potential. Select your ammo types, position properly, and pound the monster from afar!
 
 Be very careful when playing Heavy Bowgun! Your movement and sheathe speed are both very slow, so escaping sticky situations is difficult! Try to predict both how the monster will move and which attacks could threaten you, then position to counter them in advance. The Shield attachment and armor skills like Evade Extender also help.
 
@@ -708,7 +725,7 @@ In 3rd and 4th gen, some ammo types (depending on the Bowgun) can be siege-fired
 
 ## Portable 3rd
 
-[violetKIRA's Monster Data Guide](https://gamefaqs.gamespot.com/psp/991479-monster-hunter-portable-3rd/faqs/61490) - Drop rates, hitzones, status vulnerabilities, etc.
+[violetKIRA's Monster Data Guide](https://gamefaqs.gamespot.com/psp/991479-monster-hunter-portable-3rd/faqs/61490) - Drop rates, hitzones, status vulnerabilities, etc. Japanese monster names used.
 
 [mazereon's Bowgun Compendium 3rd](https://gamefaqs.gamespot.com/psp/991479-monster-hunter-portable-3rd/faqs/61634) - A sequel to the FU Compendium, but covering P3rd.
 
