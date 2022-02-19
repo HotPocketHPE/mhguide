@@ -39,7 +39,8 @@
         - [Evading](#evading)
         - [Guarding](#guarding)
         - [Roars, Wind Pressure, and Tremors](#roars-wind-pressure-and-tremors)
-        - [Status Effects](#status-effects)
+        - [Player-Inflicted Status](#player-inflicted-status)
+        - [Monster-Inflicted Status](#monster-inflicted-status)
         - [Loading Zones](#loading-zones)
     - [Intermediate Techniques](#intermediate-techniques)
         - [Invincibility Frames](#invincibility-frames)
@@ -67,7 +68,6 @@
     - [Bow](#bow)
     - [Light Bowgun](#light-bowgun)
     - [Heavy Bowgun](#heavy-bowgun)
-- [Miscellaneous Tips](#miscellaneous-tips)
 - [Resources](#resources)
     - [General](#general)
     - [Freedom Unite](#freedom-unite)
@@ -93,7 +93,7 @@ My hope is that this guide will make it easier for players to dive into this won
 * the 3rd gen games Portable 3rd and 3 Ultimate.
 * the 4th gen games 4 Ultimate and Generations Ultimate.
 
- The 5th generation games (World and Rise) changed many core mechanics of the series, so they won't be covered here. If you are playing MH2 or earlier, you probably know what you are doing, and don't need this guide.  
+ The 5th generation games (World and Rise) changed many core mechanics of the series, so they won't be covered here. If you are playing MH2/F2 or earlier, you probably know what you are doing, and don't need this guide.  
 
 ## Why Play Monster Hunter?
 
@@ -155,7 +155,7 @@ Styles and Arts are a fun way for experienced players to view a familiar weapon 
 
 Aerial, Adept, and Valor Styles in particular play quite differently to other MH games. **If you use one of these Styles, then be aware that you're getting a different experience from every previous game!**
 
-**If you are new to the series, or are looking for a similar experience to the previous games,** I recommend using these Styles. They are closest to the "default" playstyle for each weapon, and focus on core mechanics.
+**If you are new to the series, or are looking for a similar experience to the previous games,** I recommend using these Styles, at least for a while. They are closest to the "default" playstyle for each weapon, and focus on core mechanics.
 
 | Weapon | Recommended Style |
 |--------| ----- |
@@ -181,6 +181,8 @@ In addition, I recommend avoiding these Arts, as they are often used as repeatab
 * Round Force
 
 That being said, all Styles and Arts can be used skillfully! Watching speedruns will confirm this. **As long as you're aware that you're not getting the traditional MH experience, then use whatever you want!**
+
+Be warned though: some later fights, such as deviants and hypers, have highly aggressive movesets that may be difficult to handle if you restrict your styles/arts too much.
 
 # Basics of Dealing Damage
 
@@ -350,11 +352,11 @@ Max and Ancient Potions (and Mega Nutrients) raise your max HP to the cap! Eat o
 
 For harder quests, crafting items from your Pouch can be a good idea. Bringing 10 Honey can give you 10 more Mega Potions to work with, and extra shots for powerful ammo types are invaluable to a Gunner. Bring the Books of Combos along to raise your craft chances.
 
-Dash Juice is a powerful consumable that completely negates stamina usage for a time. Use it if necessary, but try not to abuse it, as the ingredients are expensive, and stamina management is an important skill to learn.
+Dash Juice is a powerful consumable that completely negates stamina usage for a time. **Use it if necessary, but try not to abuse it**, as the ingredients are expensive, and stamina management is an important skill to learn.
 
 Throwing a Flash Bomb in front of a monster will blind it, causing it to sit there and attack the empty air. This is a good opening, but **don't come to rely on it too heavily, or it will hinder your growth as a hunter!** Beware, as some monsters, such as Rajang, become erratic and unpredictable while flashed. In later games, flashing the same monster multiple times will reduce the flash's duration.
 
-Flying monsters can be brought back to earth with a Flash Bomb thrown in front of them. **Many flying monsters in later games, such as Rathalos, are very annoying to fight without Flash Bombs!**
+Flying monsters can be brought back to earth with a Flash Bomb thrown in front of them. **Many flying monsters in later games, such as Rathalos, can be annoying to fight without Flash Bombs!**
 
 Sonic Bombs stun some monsters in certain situations, but usually don't work if the monster is enraged. The most notable uses are **forcing Diablos or Cephadrome out of the ground, and forcing Plesioth out of the water.** There are many more uses for Sonic Bombs, so if the item box gives you some for a monster, experiment! (or use the Internet)
 
@@ -372,7 +374,7 @@ Some monsters are particularly easy or difficult to fight with a certain weapon 
 
 > Example: Melee Weapons vs. Gravios. Gravios' bad hitzones, tall legs, and massive fire farts make it difficult to get frequent hits in as a Blademaster. Gunner weapons bypass all of these issues, so they have a much easier time.
 
-> Example: Ranged Weapons vs. Tigrex. Tigrex is relentlessly aggressive and charges constantly, so escaping him while staying in Critical Distance can be extremely difficult! Melee weapons can naturally stand much closer.
+> Example: Ranged Weapons vs. Tigrex. Tigrex is relentlessly aggressive and charges constantly, so escaping him while staying in Critical Distance can be extremely difficult! Melee weapons can naturally stand much closer, and have an easier time using staggers.
 
 # Hunting Fundamentals
 
@@ -464,11 +466,27 @@ You can block all three of these effects, but like with regular attacks, you mus
 
 Equipping the corresponding resistance skills (Earplugs, Wind Res, Tremor Res) will nullify these effects entirely. Higher levels are needed for the higher strength versions.
 
-### Status Effects
+### Player-Inflicted Status
 
-Status effects are inflicted by certain monster moves, and will appear as a symbol next to your name. For most of these, you can negate them with a certain skill, wait them out, or use a specific item to cure yourself.
+Weapons with a status attribute and status-inflicting items can apply status effects to monsters after enough hits. These are powerful, but usually only occur a few times a hunt. Make the most of them!
 
-Elemental blights (3rd and 4th gen only) are caused by many monsters and vary in effect and length. Each roll you do will reduce their duration. 
+Blunt weapons (Hammer, Hunting Horn) and certain special attacks (such as Sword and Shield's shield bashes, Crag ammo, etc.) can build up KO on monsters by hitting the head, indicated by a yellow flash. Once KOd, the monster will flail around defenseless on the ground for a short while. This flail animation depends on the monster, so pay attention and don't miss your big attacks! 
+
+Paralysis freezes the monster in place and prevents it from moving or attacking for a while. Use your highest-damage attacks!
+
+A sleeping monster takes double/triple damage from the hit that wakes it up! (Depending on the game, and whether the attack was a Barrel Bomb) Barrel Bombs, Greatsword level 3 charges, and Hammer golfswings are all great wakeup attacks. After a while the monster will wake up on its own, so don't waste too much time!
+
+Poison does direct damage to the monster's HP over time. Good for monsters with tough hitzones like Gravios. Tends to fall off somewhat in late game.
+
+Blast (called Slime in 3U) causes a direct damage explosion at the location where it's triggered. Good on most monsters and for breaking tough parts. In 3U Slime is quite overpowered, so use at your own risk.
+
+### Monster-Inflicted Status
+
+Certain monster moves can inflict you with status effects, which will appear as a symbol next to your name. For most of these, you can negate them with a certain skill, wait them out, or use a specific item to cure yourself. Below are a few of the more common examples.
+
+Elemental blights (3rd and 4th gen only) are caused by many monsters and vary in effect and length. Each roll you do will reduce their duration. Eating a Nulberry also cures them.
+
+Sleep will first make you drowzy for a few seconds, then put you completely to sleep for a while. Getting hit ends the effect, so purposefully running into a low-damage attack, such as a monster's walk, can save you from a big hit later. Drinking an Energy Drink before fully falling asleep also works. 
 
 Snowman, Mud, and the second level of Bubble will severely impair your movement. Spin the left stick when you have a chance to escape more quickly, but don't get hit while breaking free!
 
@@ -609,15 +627,15 @@ Hammer is hard-hitting yet technical. Different levels of charge give different 
 
 Hammer can charge while walking, which gives it surprising mobility! The superpound (release a full charge when standing still) is relatively safe, long-range, and strong. The golf swing is harder to use, but deals more damage and KO.
 
-Hitting the monster's head enough KO's it, leading to a huge opening. Go for the head whenever you can! For monsters with tough heads (such as Uragaan), pick somewhere else to hit.
+One of the key strengths of Hammer is its versatile moveset. The uppercut (3rd and 4th gen) does low damage, but moves you forward and builds up lots of KO. The spin transitions into a golfswing or cancels early into a safe swipe. Be careful not to walk aimlessly with your charge held: this is an easy mistake to make when learning and wastes stamina.
 
 ## Hunting Horn
 
 Hunting Horn is mobile and precise, with reliable long-range pokes as well as KO potential when hitting the head. It can also play songs that grant buffs to yourself and teammates. Snipe the monster's head over and over with your range and speed!
 
-Your most important songs are Self-Improvement (huge movement speed buff + immunity to bouncing), and Attack Up (+15%/20% of your weapon's raw). Try to keep these active at all times! Beyond that, don't focus too much on the songs. Hitting the monster is more important!
+Your most important songs are Self-Improvement (huge movement speed buff + immunity to bouncing), and Attack Up (+15%/20% of your weapon's raw). Try to keep these active at all times! Beyond that, don't tunnel-vision in on the songs. Hitting the monster is more important!
 
-Like Hammer, Hunting Horn can KO the monster with head hits. Use your long range, speed, and versatile moveset to stick to the head, and you'll be rewarded!
+In 3rd and 4th gen, the backslam is a powerful option with respectable reach. A common tactic of HH players is to quickly face away from the monster before starting the move, which turns it into a "forward slam." This is often called QTABS (Quick Turn Around Back Slam) and creates different options for timing and roll directions.
 
 ## Sword and Shield
 
@@ -647,17 +665,17 @@ Filling up your Spirit Meter will make it flash for a while, which prevents it f
 
 Lance is a defensive powerhouse that uses its heavy shield to keep up unrelenting pressure. Poke the monster's weak points and block anything that comes your way!
 
-Lance's pokes operate in threes: poke, poke, poke, dodge. You can mix and match low or high pokes, depending on where you are aiming. High pokes are slightly stronger.
+Lance's pokes operate in threes: poke, poke, poke, dodge. You can mix and match low or high pokes, depending on where you are aiming. High pokes are slightly stronger, which adds up over time, but are often harder to aim accurately with.
 
 In 3rd and 4th gen, Shield Advance and Counter are both important tools to keep up with the monster. Shield Advance allows you to guard while moving forward, and can transition into pokes afterwards. Counter will block an attack, then follow up with a strong poke. Beware though, as this cannot be canceled, so multi-hit attacks or monster whiffs will leave you wide open!
 
 ## Gunlance
 
-Gunlance is a quirky blocking weapon with a wide variety of moves (and a gun that shoots from your lance). Mix and match your tools to adapt to the situation!
+Gunlance is a quirky blocking weapon with a wide variety of moves (and a gun that shoots from your lance). Its lance hits deal cutting damage, while its explosive attacks ignore hitzones. Mix and match your tools to adapt to the situation!
 
-Many of Gunlance's moves hit at different angles. Some hit, low, others high, and one hits straight upwards! Shell after any of these, and your shell will fire at that angle. Great for hitting midair monsters! 
+Many of Gunlance's moves hit at different angles. Some hit, low, others high, and one hits straight upwards! Shell after any of these, and your shell will fire at that angle. Great for hitting midair monsters! Shelling is also useful both as a combo tool and a source of fixed damage. Poke, poke, poke, shell can chain into itself for good damage, provided you have enough shells loaded.
 
-Shelling is useful both as a combo tool and a source of fixed damage. Poke, poke, poke, shell can chain into itself for good damage, provided you have enough shells loaded. Shelling damage doesn't change based on the hitzone, so it can be good for breaking tough parts.
+Wyvern Fire is a powerful fixed damage move with a cooldown of a few minutes. The startup is long and leaves you defenseless, but with experience you can fit it into mid-fight openings. It's damage is spread across multiple hits though, so don't use it for wakeups if you have other options, like Barrel Bombs or teammates.
 
 ## Switch Axe
 
@@ -685,9 +703,11 @@ Some attacks create phial explosions, of which there are two types. Impact Phial
 
 ## Bow
 
-Bow is a mobile ranged weapon that can charge its attacks to strike at opportune moments.
+Bow is a mobile ranged weapon that can charge its attacks to strike at opportune moments. Time your charges and shots to make optimal use of your stamina!
 
-Power Coatings are a giant damage boost, so use them prudently! Try to hit the best hitzones with each shot, strike from Crit Distance, and use your highest charge level.
+Power Coatings are a giant damage boost, so use them prudently! Try to hit the best hitzones with each shot, strike from Crit Distance, and use your highest charge level. Other coatings, like the status-inflicting ones, also benefit from higher charge levels.
+
+The Arc Shot introduced in 3rd gen is difficult to aim and takes a while to land, but provides an additional source of damage as well as KO potential when hitting the head. Look for opportunities to use it when the monster isn't moving very much.
 
 ## Light Bowgun
 
@@ -695,7 +715,7 @@ Light Bowgun is the nimbler of the Bowgun pair, with good mobility, fast sheathi
 
 Certain ammo types (depending on the Bowgun) can be rapid-fired, shooting 3 lesser-damaging shots for the ammo cost of one. This boosts ammo efficiency overall, but takes longer to shoot, so don't overcommit!
 
-Use your mobility to your advantage. Your movement, sheath speed, and unsheathe speed are very quick, so you can play quite aggressively and still have time to escape. With experience, you can even outmatch relentless monsters like Tigrex!
+Use your mobility to your advantage. Your movement, sheathe speed, and unsheathe speed are very quick, so you can play quite aggressively and still have time to escape. With experience, you can even outmatch relentless monsters like Tigrex!
 
 ## Heavy Bowgun
 
@@ -705,15 +725,13 @@ Be very careful when playing Heavy Bowgun! Your movement and sheathe speed are b
 
 In 3rd and 4th gen, some ammo types (depending on the Bowgun) can be siege-fired, which greatly increases the magazine size but locks you in place. Save this for big openings, and make sure you're in proper critical distance.
 
-# Miscellaneous Tips
-
-* When mounting in 4U/GU, alternate between X and A to make the mount gauge increase faster. (Credit to FpsFailure)
-
 # Resources
 
 ## General
 
 [Kiranico](kiranico.com) - Immensely useful resource for drop rates, monster hitzones, weapon crafting, and much more. **Only for 3U and after, FU and P3rd are not included.**
+
+[Ping's Dex](https://sites.google.com/site/pingsdex/) - Offline databases of items, monsters, etc. for MH games. Similar to Kiranico, but has better info for some games (like 3U).
 
 [Athena's Armor Set Search](https://www.mediafire.com/folder/4o1idj7mmtn85/Monster_Hunter) - Program to help create mixed sets. Plug in what skills you want and it will search for a set. Facebook page [here](https://www.facebook.com/AthenasArmorSetSearch/) with mirror downloads.
 
@@ -721,7 +739,9 @@ In 3rd and 4th gen, some ammo types (depending on the Bowgun) can be siege-fired
 
 [ryin77's guide](https://gamefaqs.gamespot.com/psp/943356-monster-hunter-freedom-unite/faqs/78652) - Drop rates, hitzones, motion values, and more. Some tips as well.
 
-[mazereon's Bowgun Compendium](https://gamefaqs.gamespot.com/psp/943356-monster-hunter-freedom-unite/faqs/56818) - Everything Light and Heavy Bowgun. Mechanics overview, equipment recommendations, and guides for gunning every monster in the game. 
+[mazereon's Bowgun Compendium](https://gamefaqs.gamespot.com/psp/943356-monster-hunter-freedom-unite/faqs/56818) - Everything Light and Heavy Bowgun. Mechanics overview, equipment recommendations, and guides for gunning every monster in the game.
+
+[FUComplete patch](https://github.com/FUComplete/Patch) - Patch by IncognitoMan that ports the FU localization to P2G (the JP version of the game), adds all event quests, and more. Highly recommended if you can get the ISO file for P2G. Compatible with existing FU saves out of the box.
 
 ## Portable 3rd
 
